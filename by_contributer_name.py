@@ -28,8 +28,7 @@ for file in file_list:
         print(dir_num, count, contributor)
         contributor_data = requests.get("https://api.github.com/users/" + contributor.strip('\n'),
                                         auth=(username, token)).json()
-        print(contributor_data)
-        print(contributor)
+
         if 'message' in contributor_data:
             not_name.append(contributor.strip('\n'))
             not_tools.append(tool)
