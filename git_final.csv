@@ -1,0 +1,1950 @@
+,ML_Tool,GitHub_ID,Name,Location,Twitter,GitHub_Link,Company,Total_Contribution
+0,nltk,stevenbird,Steven Bird,"Darwin, Australia",stevenbird,https://github.com/stevenbird,,5060
+1,nltk,alvations,,,,https://github.com/alvations,,772
+2,nltk,dhgarrette,Dan Garrette,"New York, NY",,https://github.com/dhgarrette,Google Research,361
+3,nltk,kmike,Mikhail Korobov,"Russia, Ekaterinburg",,https://github.com/kmike,"@zytedata, @ScrapingHub",332
+4,nltk,fievelk,Pierpaolo Pantone,Berlin,,https://github.com/fievelk,,269
+5,nltk,tomaarsen,Tom Aarsen,Netherlands,,https://github.com/tomaarsen,Argilla,191
+6,nltk,iliakur,Ilia Kurenkov,"Berlin, Germany",,https://github.com/iliakur,Datadog,185
+7,nltk,wroberts,Will Roberts,"Berlin, Germany",wildwilhelm,https://github.com/wroberts,Humboldt Universität zu Berlin,158
+8,nltk,dimazest,Dmitrijs Milajevs,,,https://github.com/dimazest,,113
+9,nltk,heatherleaf,Peter Ljunglöf,"Gothenburg, Sweden",,https://github.com/heatherleaf,University of Gothenburg,109
+10,nltk,ewan-klein,Ewan Klein,"Edinburgh, UK",,https://github.com/ewan-klein,University of Edinburgh,106
+11,nltk,sparcs,Sumukh Ghodke,,,https://github.com/sparcs,,91
+12,nltk,nschneid,Nathan Schneider,"Washington, DC",,https://github.com/nschneid,Georgetown University,85
+13,nltk,xim,Morten M. Neergaard,,,https://github.com/xim,,83
+14,nltk,hoontw,,,,https://github.com/hoontw,,82
+15,nltk,jnothman,Joel Nothman,Sydney,,https://github.com/jnothman,Canva,79
+16,nltk,jfrazee,Joey,"Seattle, WA",,https://github.com/jfrazee,@microsoft,72
+17,nltk,muneson,,,,https://github.com/muneson,,70
+18,nltk,lrnzcig,Lorenzo Rubio,Madrid,,https://github.com/lrnzcig,,65
+19,nltk,ekaf,Eric Kafe,Denmark,,https://github.com/ekaf,MegaDoc,64
+20,nltk,longdt219,Long Duong,,,https://github.com/longdt219,,60
+21,nltk,alexrudnick,Alex Rudnick,,,https://github.com/alexrudnick,,47
+22,nltk,rmalouf,Rob Malouf,"San Diego, CA",robmalouf,https://github.com/rmalouf,San Diego State University,47
+23,nltk,naoyak,Naoya Kanai,sf,,https://github.com/naoyak,@airbnb,46
+24,nltk,purificant,,,,https://github.com/purificant,,42
+25,nltk,tresoldi,Tiago Tresoldi,"Uppsala, Sweden",tresoldi,https://github.com/tresoldi,Uppsala universitet,36
+26,nltk,larsmans,Lars,,,https://github.com/larsmans,,36
+27,nltk,bmaland,Bjørn Mæland,Norway,bmaland,https://github.com/bmaland,TV2,33
+28,nltk,dannysepler,Danny Sepler,New York,,https://github.com/dannysepler,@propelinc,28
+29,nltk,DavidDoukhan,David Doukhan,,,https://github.com/DavidDoukhan,,24
+30,nltk,dmmolitor,Denali Molitor,,,https://github.com/dmmolitor,"University of California, Los Angeles",23
+31,nltk,jaehoonhwang,Jaehoon Hwang,California,,https://github.com/jaehoonhwang,,22
+32,nltk,story645,hannah,,story645,https://github.com/story645,,22
+33,nltk,pyfisch,,,,https://github.com/pyfisch,,21
+34,nltk,helmanofer,Ofer Helman,Israel,,https://github.com/helmanofer,Software,19
+35,nltk,fannix,fannix,Beijing,,https://github.com/fannix,Peking University,18
+36,nltk,dougalg,Dougal Graham,,,https://github.com/dougalg,,18
+37,nltk,ezubaric,Jordan Boyd-Graber,"College Park, MD",,https://github.com/ezubaric,UMD,17
+38,nltk,vpetro,Petro Verkhogliad,,,https://github.com/vpetro,Vetted.ai,16
+39,nltk,wooters,Chuck Wooters,"Bay Area, CA, USA",,https://github.com/wooters,@AdaSupport ,15
+40,nltk,validus77,Joshua Ritterman,,,https://github.com/validus77,,15
+41,nltk,53X,Pranay Mukherjee,"Bengaluru, India",,https://github.com/53X,@PrecisionHealthIntelligence ,13
+42,nltk,TomLippincott,Thomas Lippincott,"Baltimore, MD",,https://github.com/TomLippincott,Johns Hopkins University,13
+43,nltk,ales-t,Ales Tamchyna,Czech Republic,,https://github.com/ales-t,Memsource,12
+44,nltk,apresta,Alessandro Presta,,,https://github.com/apresta,,12
+45,nltk,ExplodingCabbage,Mark Amery,,,https://github.com/ExplodingCabbage,,12
+46,nltk,tsolakghukasyan,Tsolak Ghukasyan,,,https://github.com/tsolakghukasyan,,12
+47,nltk,futurulus,Will Monroe,"Stanford, CA",,https://github.com/futurulus,Stanford University,11
+48,nltk,henchc,Christopher Hench,"Boston, MA",,https://github.com/henchc,,11
+49,nltk,kamholz,David Kamholz,,,https://github.com/kamholz,,10
+50,nltk,he7d3r,Helder Geovane Gomes de Lima,"Florianópolis, Brazil",,https://github.com/he7d3r,@trusted,10
+51,nltk,goodmami,Michael Wayne Goodman,Oregon,,https://github.com/goodmami,,10
+52,nltk,xu2333,ZichengXu,,,https://github.com/xu2333,Columbia University,10
+53,nltk,jacksonllee,Jackson L. Lee,,,https://github.com/jacksonllee,,10
+54,nltk,free-variation,John Stewart,"Brooklyn, NY",,https://github.com/free-variation,,10
+55,nltk,bamattsson,Björn Mattsson,,,https://github.com/bamattsson,,9
+56,nltk,stieglma,Thomas Stieglmaier,Germany,,https://github.com/stieglma,@IKOR-GmbH ,9
+57,nltk,itsmemala,Malavika Suresh,,,https://github.com/itsmemala,,9
+58,nltk,12mohaned,mohaned mashaly,Egypt,,https://github.com/12mohaned,German university in Cairo ,9
+59,nltk,artiemq,Artem Krinitsyn,"Moscow, Russia",,https://github.com/artiemq,,8
+60,nltk,dan-blanchard,Dan Blanchard,"Chapel HIll, NC",dsblanch,https://github.com/dan-blanchard,@coiled ,8
+61,nltk,jasonbaldridge,Jason Baldridge,"Austin, TX",jasonbaldridge,https://github.com/jasonbaldridge,Google,8
+62,nltk,matanrak,Matan,Israel,,https://github.com/matanrak,,8
+63,nltk,PhanatosZou,Tong Zou,,,https://github.com/PhanatosZou,Inspur,8
+64,nltk,pflaquerre,Pierre-François Laquerre,,,https://github.com/pflaquerre,,8
+65,nltk,alexandredias3d,Alexandre H T Dias,,,https://github.com/alexandredias3d,,8
+66,nltk,LeonieWeissweiler,Leonie Weissweiler,"Munich, Germany",LAWeissweiler,https://github.com/LeonieWeissweiler,"CIS, LMU Munich ",8
+67,nltk,burner-craig,,,,https://github.com/burner-craig,,7
+68,nltk,irisxzhou,Iris X. Zhou,,,https://github.com/irisxzhou,@microsoft,7
+69,nltk,narad,Jason Naradowsky,Tokyo,,https://github.com/narad,UTokyo / Square-Enix,7
+70,nltk,pratapvardhan,Pratap Vardhan,India,PratapVardhan,https://github.com/pratapvardhan,,7
+71,nltk,jhelie,Jean Helie,Netherlands,,https://github.com/jhelie,,7
+72,nltk,tyleha,Tyler Hartley,"Seattle, WA",,https://github.com/tyleha,,7
+73,nltk,xprogramer,,Algeria,,https://github.com/xprogramer,Université 8 Mai 1945 Guelma,7
+74,nltk,albertauyeung,Albert Au Yeung,Ireland,,https://github.com/albertauyeung,LinkedIn,6
+75,nltk,MrEbbinghaus,Björn Ebbinghaus,"Düsseldorf, Germany",MrEbbinghaus,https://github.com/MrEbbinghaus,@hhucn,6
+76,nltk,dcoles,David Coles,"California, United States",,https://github.com/dcoles,Sony Interactive Entertainment,6
+77,nltk,frankier,Frankie Robertson,"Jyväskylä, Finland",frankieresq,https://github.com/frankier,,6
+78,nltk,japerk,Jacob Perkins,USA,japerk,https://github.com/japerk,Streamhacker Consulting,6
+79,nltk,oplatek,Ondřej Plátek,"Online;  Prague, Czechia",oplatk,https://github.com/oplatek,https://ufal.mff.cuni.cz/,6
+80,nltk,aboSamoor,RAMI ALRFOU,"Mountain View, CA",aboSamoor,https://github.com/aboSamoor,Google,6
+81,nltk,sahutd,,,,https://github.com/sahutd,,6
+82,nltk,slattarini,Stefano Lattarini,"Zürich, Switzerland",,https://github.com/slattarini,,6
+83,nltk,anlandu,Anlan Du,,,https://github.com/anlandu,,6
+84,nltk,drevicko,,,,https://github.com/drevicko,,6
+85,nltk,srhrshr,h,~/,,https://github.com/srhrshr,,6
+86,nltk,turicas,Álvaro Justen,Curitiba/PR - Brazil,turicas,https://github.com/turicas,Pythonic Café,6
+87,nltk,pombredanne,Philippe Ombredanne,,,https://github.com/pombredanne,,6
+88,nltk,geoffbacon,Geoff Bacon,"Berkeley, CA",,https://github.com/geoffbacon,UC Berkeley,6
+89,nltk,desilinguist,Nitin Madnani,"Princeton, NJ",,https://github.com/desilinguist,Educational Testing Service,6
+90,nltk,BLaZeKiLL,Devashish Lal,Los Angeles,,https://github.com/BLaZeKiLL,,5
+91,nltk,fcbond,Francis Bond,Singapore,,https://github.com/fcbond,Nanyang Technological University,5
+92,nltk,georgeberry,George Berry,"Brooklyn, NY",george_berry,https://github.com/georgeberry,sociologist,5
+93,nltk,hervenicol,Hervé Nicol,France,hervenicol,https://github.com/hervenicol,@giantswarm,5
+94,nltk,casperlehmann,Casper Lehmann,Denmark,,https://github.com/casperlehmann,,5
+95,nltk,okz12,Osman,"London, UK",,https://github.com/okz12,,5
+96,nltk,cool-RR,Ram Rachum,"Tel-Aviv, Israel",,https://github.com/cool-RR,,5
+97,nltk,yibinlin,Yibin Lin,"San Francisco Bay Area, CA",,https://github.com/yibinlin,,5
+98,nltk,corynezin,,,,https://github.com/corynezin,,5
+99,nltk,kiwi4py,kiwipi,,,https://github.com/kiwi4py,,5
+100,nltk,kmario23,Mario,"Stuttgart, DE",ScientificML,https://github.com/kmario23,Universität Stuttgart,5
+101,nltk,udaykrishna,Uday Krishna,,,https://github.com/udaykrishna,,5
+102,nltk,watercrossing,Ingolf Becker,"London, UK",,https://github.com/watercrossing,UCL,5
+103,nltk,bryant1410,Santiago Castro,"Ann Arbor, MI, USA",bryant1410,https://github.com/bryant1410,@MichiganNLP,5
+104,nltk,angeloskath,Angelos Katharopoulos,,angeloskath,https://github.com/angeloskath,,4
+105,nltk,clarkgrubb,Clark Grubb,Los Angeles,,https://github.com/clarkgrubb,,4
+106,nltk,dmcc,David McClosky,Internet,,https://github.com/dmcc,,4
+107,nltk,david-cliqz,Dávid Márk Nemeskey,,,https://github.com/david-cliqz,Cliqz,4
+108,nltk,jamesrcurran,James Curran,,,https://github.com/jamesrcurran,Grok Academy,4
+109,nltk,greenat92,Lakhdar Benzahia,"Berlin, Germany ",lben92,https://github.com/greenat92,@KollaboCH,4
+110,nltk,Liechti,,,,https://github.com/Liechti,,4
+111,nltk,pquentin,Quentin Pradet,La Réunion,,https://github.com/pquentin,@elastic,4
+112,nltk,bethard,Steven Bethard,"Tucson, AZ, USA",,https://github.com/bethard,University of Arizona,4
+113,nltk,afshinsadeghi,Afshin Sadeghi,Bonn/Cologne,Sadeghi_Afshin,https://github.com/afshinsadeghi,Researcher  @SmartDataAnalytics @Fraunhofer_IAIS,4
+114,nltk,AnnaGarbar,,,,https://github.com/AnnaGarbar,,4
+115,nltk,hdlim15,Hyuckin David Lim,"New York, New York",,https://github.com/hdlim15,,4
+116,nltk,lmatt-bit,lmatt,Beijing,,https://github.com/lmatt-bit,,4
+117,nltk,zhew2013,Zhe Wang,,,https://github.com/zhew2013,,4
+118,nltk,adrianjellis,Adrian Ellis,"London, UK",,https://github.com/adrianjellis,,3
+119,nltk,salamatin,Andrey Salamatin,"Minsk, Belarus",,https://github.com/salamatin,EPAM Systems,3
+120,nltk,achembarpu,Arvind Chembarpu,"Amsterdam, NL",,https://github.com/achembarpu,@reddit,3
+121,nltk,brandonmburroughs,Brandon M. Burroughs,"Washington, DC",,https://github.com/brandonmburroughs,Capital One,3
+122,nltk,chmeyer,Christian M. Meyer,Germany,,https://github.com/chmeyer,"UKP Lab, Technische Universität Darmstadt",3
+123,nltk,sadovnychyi,Dmytro Sadovnychyi,⭐⛺⛵⛟,sadovnychyi,https://github.com/sadovnychyi,@lawinsider ,3
+124,nltk,erip,Elijah Rippeth,"Fairfax, VA",terrible_coder,https://github.com/erip,,3
+125,nltk,Henry-E,,,,https://github.com/Henry-E,,3
+126,nltk,janissl,Jānis Šlapiņš,"Rīga, Latvija",,https://github.com/janissl,Emergn Ltd.,3
+127,nltk,kevin-brown,Kevin Brown-Silva,United States,,https://github.com/kevin-brown,@CapitalOne,3
+128,nltk,leondz,Leon Derczynski,Seattle · Copenhagen,leonderczynski,https://github.com/leondz,UW NLP · IT University of Copenhagen,3
+129,nltk,marius-mather,,Sydney,,https://github.com/marius-mather,University of Sydney,3
+130,nltk,cifkao,Ondřej Cífka,Barcelona,cifkao,https://github.com/cifkao,@audioshake,3
+131,nltk,DrDub,Pablo Duboue,"Vancouver, BC, Canada",pabloduboue,https://github.com/DrDub,Textualization Software Ltd.,3
+132,nltk,barancik,,,,https://github.com/barancik,,3
+133,nltk,pulkitmaloo,Pulkit Maloo,"Bellevue, WA",,https://github.com/pulkitmaloo,,3
+134,nltk,safwank,Safwan Kamarrudin,"Melbourne, Australia",,https://github.com/safwank,@dixahq ,3
+135,nltk,smilli,Smitha Milli,,,https://github.com/smilli,,3
+136,nltk,vthorsteinsson,Vilhjalmur Thorsteinsson,"Reykjavik, Iceland",,https://github.com/vthorsteinsson,@mideind ,3
+137,nltk,anati89,anati_just,,,https://github.com/anati89,,3
+138,nltk,redsk,Nicola Bova,,,https://github.com/redsk,,3
+139,nltk,sbagan,Sasha Bagan,,,https://github.com/sbagan,,3
+140,nltk,bjut-hz,hz,Beijing,,https://github.com/bjut-hz,Beijing University of Technology,3
+141,nltk,DimitriPapadopoulos,Dimitri Papadopoulos Orfanos,Université Paris-Saclay,,https://github.com/DimitriPapadopoulos,CEA,3
+142,nltk,lade,Lauri Hallila,,,https://github.com/lade,,3
+143,nltk,fernandocar86,Fernando Carranza,"Buenos Aires, Argentina",,https://github.com/fernandocar86,,3
+144,nltk,jwacalex,jwacalex,,jwacalex,https://github.com/jwacalex,,2
+145,nltk,aliiae,Aliia E,,,https://github.com/aliiae,,2
+146,nltk,arthurdarcet,Arthur Darcet,France,,https://github.com/arthurdarcet,@Medium ,2
+147,nltk,BLKSerene,Ye Lei (叶磊),,,https://github.com/BLKSerene,,2
+148,nltk,Bonifacio2,Bonifacio de Oliveira,Stuttgart,,https://github.com/Bonifacio2,Thoughtworks,2
+149,nltk,bsolomon1124,Brad Solomon,,,https://github.com/bsolomon1124,,2
+150,nltk,BrucePHill,,,,https://github.com/BrucePHill,,2
+151,nltk,campionfellin,Campion Fellin,Seattle,,https://github.com/campionfellin,,2
+152,nltk,Coykto,,,,https://github.com/Coykto,,2
+153,nltk,edloper,,,,https://github.com/edloper,,2
+154,nltk,fabianhoward,Fabian Howard,,,https://github.com/fabianhoward,,2
+155,nltk,grahamc,Graham Christensen,"Berkshire County, MA",,https://github.com/grahamc,,2
+156,nltk,hikui,Henry H Miao,"Melbourne, Australia",,https://github.com/hikui,Intelligencebank,2
+157,nltk,linhr,Heran Lin,,,https://github.com/linhr,,2
+158,nltk,JelleZijlstra,Jelle Zijlstra,"Orinda, CA",,https://github.com/JelleZijlstra,@quora ,2
+159,nltk,jihunchoi,Jihun Choi,"Tokyo, Japan",choijihun,https://github.com/jihunchoi,Sony AI,2
+160,nltk,josiahwang,Josiah Wang,,,https://github.com/josiahwang,Imperial College London,2
+161,nltk,justinhammar,Justin Hammar,,,https://github.com/justinhammar,,2
+162,nltk,KMiNT21,Mykhailo,Ukraine,,https://github.com/KMiNT21,,2
+163,nltk,tirkarthi,Karthikeyan Singaravelan,"Bangalore, India",tirkarthi,https://github.com/tirkarthi,Visa Inc.,2
+164,nltk,letuananh,Lea Tuan Anh Le,Singapore,,https://github.com/letuananh,,2
+165,nltk,LenRemmerswaal,Len Remmerswaal,,,https://github.com/LenRemmerswaal,,2
+166,nltk,louis925,Louis Yang,Mountain View,,https://github.com/louis925,@google @google-research,2
+167,nltk,dzieciou,Maciej Gawinecki,"Kraków, Poland",,https://github.com/dzieciou,Samsung R&D Institute Poland ,2
+168,nltk,huderlem,Marcus Huderle,,,https://github.com/huderlem,,2
+169,nltk,tobami,Miquel Torres,Valencia,,https://github.com/tobami,,2
+170,nltk,NQNStudios,Nat Quayle Nelson,"Salt Lake City, Utah",,https://github.com/NQNStudios,,2
+171,nltk,Arachnid,Nick Johnson,"Christchurch, New Zealand",nicksdjohnson,https://github.com/Arachnid,True Names Ltd (ENS),2
+172,nltk,nick-ulle,Nick Ulle,"Davis, CA",,https://github.com/nick-ulle,UC Davis DataLab (@ucdavisdatalab),2
+173,nltk,philiptzou,Philip Tzou,Stanford University,,https://github.com/philiptzou,,2
+174,nltk,PiDelport,Pi Delport,"Cape Town, South Africa",PiWritesCode,https://github.com/PiDelport,,2
+175,nltk,prasastoadi,Prasasto Adi,"Cilacap, Indonesia",,https://github.com/prasastoadi,,2
+176,nltk,rsennrich,Rico Sennrich,,,https://github.com/rsennrich,University of Zurich,2
+177,nltk,RnDevelover,RnDevelover,"Oslo, Norway",,https://github.com/RnDevelover,University of Oslo,2
+178,nltk,SaintNazaire,,,,https://github.com/SaintNazaire,,2
+179,nltk,swizzard,Sam Raker,"Queens, NY",,https://github.com/swizzard,,2
+180,nltk,zeehio,Sergio Oller,Barcelona,zeehio_,https://github.com/zeehio,Institute for Bioengineering of Catalunya and University of Barcelona ,2
+181,nltk,somnathrakshit,Somnath Rakshit,"Dallas, TX",,https://github.com/somnathrakshit,Walmart Global Tech,2
+182,nltk,timleslie,Tim Leslie,"Sydney, Australia",,https://github.com/timleslie,harrison-ai,2
+183,nltk,tonyzale,,,,https://github.com/tonyzale,,2
+184,nltk,palasso,Vassilis Palassopoulos,"Athens, Greece",,https://github.com/palasso,@languagetooler-gmbh ,2
+185,nltk,virresh,Viresh Gupta,,virresh,https://github.com/virresh,,2
+186,nltk,isnowfy,Rui Wang,China,,https://github.com/isnowfy,,2
+187,nltk,jacobdweightman,Jacob Weightman,,,https://github.com/jacobdweightman,,2
+188,nltk,martinkondra,Martin Kondra,"Buenos Aires, Argentina",,https://github.com/martinkondra,,2
+189,nltk,mauricesvp,maurice,Germany,,https://github.com/mauricesvp,,2
+190,nltk,snrore,snrore,,,https://github.com/snrore,,2
+191,nltk,TiMauzi,Tim Sockel,,,https://github.com/TiMauzi,,2
+192,nltk,alexisdimi,Alexis Dimitriadis,Vienna,,https://github.com/alexisdimi,Semantic Web Company,2
+193,nltk,dnc1994,Linghao Zhang,"Mountain View, CA",instante_42,https://github.com/dnc1994,@google,2
+194,nltk,elespike,Marius,,,https://github.com/elespike,,2
+195,nltk,ndarr,Nicolas Darr,Germany,,https://github.com/ndarr,,2
+196,nltk,yutanakamura-tky,Yuta Nakamura,"Tokyo, Japan",iBotamon,https://github.com/yutanakamura-tky,The University of Tokyo Hospital,2
+197,nltk,0ssifrage,yt,,,https://github.com/0ssifrage,,1
+198,nltk,AbdealiLoKo,AbdealiLoKo,Chennai,,https://github.com/AbdealiLoKo,Corridor Platforms,1
+199,nltk,abougouffa,Abdelhak Bougouffa,"Paris, France",,https://github.com/abougouffa,"Paris-Saclay University, SATIE | @ezWheelSAS",1
+200,nltk,abelsiqueira,Abel Soares Siqueira,Amsterdam - The Netherlands,abel_siqueira,https://github.com/abelsiqueira,Netherlands eScience Center,1
+201,nltk,Abhijnan-Bajpai,Abhijnan Bajpai,Bangalore,jazzpayee,https://github.com/Abhijnan-Bajpai,"PES Univesity, RR Campus",1
+202,nltk,adamjhawley,Adam Hawley,"Helsinki, Finland",_adamjhawley,https://github.com/adamjhawley,Intel Corporation,1
+203,nltk,AkshitaB,Akshita Bhagia,,,https://github.com/AkshitaB,@allenai,1
+204,nltk,alexlouden,Alex Louden,"Perth, Australia",alexlouden,https://github.com/alexlouden,@Bonobolabs ,1
+205,nltk,tibidoh,Alexander Oleinikov,"San Franciso, California",,https://github.com/tibidoh,,1
+206,nltk,aperezlebel,Alexandre Perez-Lebel,Paris,aperezlebel,https://github.com/aperezlebel,Inria Saclay,1
+207,nltk,nournia,Alireza Nourian,,,https://github.com/nournia,Roshan,1
+208,nltk,cadaeib,Amy Zhou,,,https://github.com/cadaeib,,1
+209,nltk,andrewbird2,Andrew Bird,Melbourne,,https://github.com/andrewbird2,Affinda,1
+210,nltk,mrdrozdov,Andrew Drozdov,"New York, NY",,https://github.com/mrdrozdov,,1
+211,nltk,ajorg-aws,Andrew Jorgensen,,,https://github.com/ajorg-aws,,1
+212,nltk,accraze,A. Craze,Zone 8b,accraze,https://github.com/accraze,,1
+213,nltk,andyreagan,Andy Reagan,"Amherst, MA",andyreagan,https://github.com/andyreagan,@massmutual @quokkalabs,1
+214,nltk,asottile,Anthony Sottile,,codewithanthony,https://github.com/asottile,,1
+215,nltk,ab-10,Armin Stepanjan,"Cambridge, UK",,https://github.com/ab-10,,1
+216,nltk,Ayushk4,Ayush Kaushal,"Austin, Texas",,https://github.com/Ayushk4,,1
+217,nltk,badri,Lakshminp,Chennai,lakshminp,https://github.com/badri,,1
+218,nltk,BatMrE,,,,https://github.com/BatMrE,,1
+219,nltk,Bharat123rox,Bharat Raghunathan,Chennai,BharatR123,https://github.com/Bharat123rox,,1
+220,nltk,craaaa,Cara Leong,Singapore,,https://github.com/craaaa,,1
+221,nltk,cfbolz,CF Bolz-Tereick,"Duisburg, Germany",cfbolz,https://github.com/cfbolz,,1
+222,nltk,chbrandt,Carlos H Brandt,Bremen,,https://github.com/chbrandt,,1
+223,nltk,catleeball,Cat Ball,,,https://github.com/catleeball,Google,1
+224,nltk,CPStagg,,,,https://github.com/CPStagg,,1
+225,nltk,e5pecial,Oleg Chislov,"Berlin, Germany",,https://github.com/e5pecial,@fernarzt,1
+226,nltk,chrisji,Chris Inskip,Brighton (UK),,https://github.com/chrisji,,1
+227,nltk,Crisfole,Christopher Pfohl,"Beverly, MA (remote)",,https://github.com/Crisfole,Apsis Labs,1
+228,nltk,ColCarroll,Colin Carroll,"Somerville, MA",colindcarroll,https://github.com/ColCarroll,Google,1
+229,nltk,cjrd,Colorado Reed,Seattle,colorado_reed,https://github.com/cjrd,,1
+230,nltk,weissercn,Constantin Weisser,"Cambridge, MA",,https://github.com/weissercn,Massachusetts Institute of Technology,1
+231,nltk,capdevc,Cristian Capdevila,"Brooklyn, NY",,https://github.com/capdevc,@medivo,1
+232,nltk,Daksh,Daksh Shah,India,,https://github.com/Daksh,,1
+233,nltk,daltonpearson,Dalton Pearson,Hamilton,,https://github.com/daltonpearson,Argyle,1
+234,nltk,DanielLoney,Daniel Loney,,,https://github.com/DanielLoney,,1
+235,nltk,darshmgandhi,Darsh Gandhi,,,https://github.com/darshmgandhi,,1
+236,nltk,dlukes,David Lukes,Prague,,https://github.com/dlukes,"Institute of the Czech National Corpus, Faculty of Arts, Charles University in Prague",1
+237,nltk,cidermole,David Madl,,,https://github.com/cidermole,,1
+238,nltk,kataev,Denis Kataev,"The Netherlands, Rotterdam",,https://github.com/kataev,,1
+239,nltk,inteldict,Denis Memmesheimer,,,https://github.com/inteldict,,1
+240,nltk,dennisobrien,Dennis O'Brien,"San Francisco, CA",dennisobrien,https://github.com/dennisobrien,,1
+241,nltk,djsutherland,Danica J. Sutherland,Vancouver,,https://github.com/djsutherland,University of British Columbia,1
+242,nltk,drewmiller,Drew Miller,London,,https://github.com/drewmiller,,1
+243,nltk,zuik,Duy Nguyen,,zuikng,https://github.com/zuik,,1
+244,nltk,EeshitaBiswas,Eeshita Biswas,,,https://github.com/EeshitaBiswas,,1
+245,nltk,kowey,Eric Kow,SG,,https://github.com/kowey,,1
+246,nltk,FranklinChen,Franklin Chen,"Pittsburgh, PA",FranklinChen,https://github.com/FranklinChen,Carnegie Mellon University,1
+247,nltk,ffosilva,Fábio Silva,"João Pessoa, PB, Brazil",ffosilva,https://github.com/ffosilva,@vtex,1
+248,nltk,p9f,Guillaume,,,https://github.com/p9f,,1
+249,nltk,gavishpoddar,Gavish Poddar,India,PoddarGavish,https://github.com/gavishpoddar,,1
+250,nltk,gnardari,Guilherme Nardari,São Carlos - SP,,https://github.com/gnardari,,1
+251,nltk,gmarmstrong,Guthrie McAfee Armstrong,United States,,https://github.com/gmarmstrong,@nypublicradio,1
+252,nltk,rooa,Hiroaki Hayashi,,,https://github.com/rooa,,1
+253,nltk,chantera,Hiroki Teranishi,"Tokyo, Japan",,https://github.com/chantera,,1
+254,nltk,Hk-tang,,,,https://github.com/Hk-tang,,1
+255,nltk,elibooklover,Hoyeol Kim,Texas,elibooklover,https://github.com/elibooklover,,1
+256,nltk,hugovk,Hugo van Kemenade,"Helsinki, Finland",,https://github.com/hugovk,Nord Software,1
+257,nltk,myproblemchild,,,,https://github.com/myproblemchild,,1
+258,nltk,ikorolev93,,,,https://github.com/ikorolev93,,1
+259,nltk,ibarria0,Ivan Barria,Panama,,https://github.com/ibarria0,,1
+260,nltk,izam-mohammed,Izam Mohammed,"Malappuram,kerala",izammohammed2,https://github.com/izam-mohammed,,1
+261,nltk,james-huang,James Huang,Bay Area,,https://github.com/james-huang,sapling.ai,1
+262,nltk,jimregan,Jim O’Regan,Stockholm,jimregan,https://github.com/jimregan,,1
+263,nltk,jayvdb,John Vandenberg,"Perth, Australia",jayvdb,https://github.com/jayvdb,@franklin-ai,1
+264,nltk,jolynch,Joseph Lynch,DMV Area,,https://github.com/jolynch,@Netflix,1
+265,nltk,jkarni,Julian Arni,"Berlin, Germany",,https://github.com/jkarni,Turing Jump,1
+266,nltk,ksuderman,Keith Suderman,"Baltimore, MD",,https://github.com/ksuderman,Johns Hopkins University - Department of Biology,1
+267,nltk,KrupaH,Krupa Hebbar,Bangalore,,https://github.com/KrupaH,,1
+268,nltk,kgeorgiou,Kyriakos Georgiou,,,https://github.com/kgeorgiou,,1
+269,nltk,cllu,Chunliang Lyu,Mountain View,,https://github.com/cllu,,1
+270,nltk,En-dash,,,,https://github.com/En-dash,,1
+271,nltk,ltiao,Louis Tiao,,louistiao,https://github.com/ltiao,,1
+272,nltk,LouisJustinTALLOT,Louis-Justin TALLOT,"Paris, France",,https://github.com/LouisJustinTALLOT,Mines Paris - PSL | Harvard,1
+273,nltk,oxinabox,Frames White,"Perth, Australia",oxinabox_frames,https://github.com/oxinabox,@JuliaComputing,1
+274,nltk,hamiltonianflow,,,,https://github.com/hamiltonianflow,,1
+275,nltk,mthuurne,Maarten ter Huurne,"Eindhoven, the Netherlands",,https://github.com/mthuurne,@boxingbeetle ,1
+276,nltk,Madnex,,Germany,,https://github.com/Madnex,,1
+277,nltk,maldil,Malinda,,,https://github.com/maldil,,1
+278,nltk,noviluni,Marc Hernández,Palma de Mallorca,,https://github.com/noviluni,,1
+279,nltk,mmitchellai,Margaret Mitchell,,,https://github.com/mmitchellai,,1
+280,nltk,mgorny,Michał Górny,"Greater Poland, PL",,https://github.com/mgorny,@projg2,1
+281,nltk,michelleful,Michelle Fullwood,,,https://github.com/michelleful,,1
+282,nltk,minho42,Min ho Kim,,minhokim42,https://github.com/minho42,,1
+283,nltk,myleott,Myle Ott,"New York, NY",,https://github.com/myleott,,1
+284,nltk,edran,Nantas Nardelli,"London, United Kingdom",,https://github.com/edran,@carbon-re,1
+285,nltk,nelson-liu,Nelson Liu,"Stanford, California",nelsonfliu,https://github.com/nelson-liu,@stanfordnlp,1
+286,nltk,dusking,Omer,,,https://github.com/dusking,,1
+287,nltk,openrefactory,"OpenRefactory, Inc","1027 Jungfrau Court, Milpitas, CA 95035, USA ",openrefactory,https://github.com/openrefactory,"OpenRefactory, Inc",1
+288,nltk,orsharir,Or Sharir,"Pasadena, USA",,https://github.com/orsharir,California Institute of Technology,1
+289,nltk,owenhaynes,Owen Haynes,,,https://github.com/owenhaynes,,1
+290,nltk,oya163,Oyashi,"West Haven, CT",,https://github.com/oya163,HP,1
+291,nltk,sp1thas,Panagiotis Simakis,"Athens, Greece",sp1thas,https://github.com/sp1thas,@pricehubble,1
+292,nltk,passy,Pascal Hartig,"London, UK",passy,https://github.com/passy,@facebook,1
+293,nltk,PavanGJ,Pavan Joshi,"Buffalo, NY",,https://github.com/PavanGJ,,1
+294,nltk,ppartarr,Philippe Partarrieu,"Amsterdam, NL",,https://github.com/ppartarr,,1
+295,nltk,piet-praekelt,Piet Delport,,,https://github.com/piet-praekelt,Praekelt,1
+296,nltk,prtpydv,Neil,,,https://github.com/prtpydv,,1
+297,nltk,ramazanpolat,Ramazan Polat,Ankara,,https://github.com/ramazanpolat,@santiment,1
+298,nltk,reedloden,Reed Loden,"San Francisco, CA",reedloden,https://github.com/reedloden,@gravitational,1
+299,nltk,zaxtax,Rob Zinkov,,,https://github.com/zaxtax,,1
+300,nltk,aquatiko,Rohit Kumar,Pune,,https://github.com/aquatiko,@yugabyte,1
+301,nltk,Saibo-creator,,,,https://github.com/Saibo-creator,,1
+302,nltk,SamuelLarkin,Samuel Larkin,"Ottawa, ON",,https://github.com/SamuelLarkin,National Research Council Canada,1
+303,nltk,SaudKadiri,Saud,,saud_kadiri,https://github.com/SaudKadiri,,1
+304,nltk,shvms,Shuvam Shah,"Kolkata, India",shvmks,https://github.com/shvms,@amzn,1
+305,nltk,Siddhant,Siddhant Saraf,,,https://github.com/Siddhant,,1
+306,nltk,sid-maddy,Siddhesh Mhadnak,,,https://github.com/sid-maddy,SRE 3 @gofynd,1
+307,nltk,simonepri,Simone Primarosa,"Rome, Italy",simoneprimarosa,https://github.com/simonepri,"University of Cambridge, Sapienza University of Rome",1
+308,nltk,StephanHasler,Stephan Hasler,,,https://github.com/StephanHasler,Honda Research Institute Europe GmbH,1
+309,nltk,essandess,Steve Smith,Cambridge MA,,https://github.com/essandess,,1
+310,nltk,smoitra87,Subhodeep Moitra,"Montreal, Canada",,https://github.com/smoitra87,,1
+311,nltk,zxiiro,Thanh Ha,"Ottawa, ON",,https://github.com/zxiiro,,1
+312,nltk,thomasbird,Thomas Bird,London,,https://github.com/thomasbird,,1
+313,nltk,timgates42,Tim Gates,Sydney,,https://github.com/timgates42,IRESS,1
+314,nltk,timgianitsos,Tim Gianitsos,"Palo Alto, CA",,https://github.com/timgianitsos,,1
+315,nltk,timClicks,Tim McNamara,"Wellington, New Zealand",timClicks,https://github.com/timClicks,@rust-in-action ,1
+316,nltk,tconroy,Tom Conroy,"New York, NY",tconroy,https://github.com/tconroy,@squarespace,1
+317,nltk,morty,Tom Mortimer-Jones,United Kingdom,,https://github.com/morty,,1
+318,nltk,tsheaff,Tyler Sheaffer,"Honolulu, HI",,https://github.com/tsheaff,,1
+319,nltk,vivekscl,Vivek Lakshmanan,,,https://github.com/vivekscl,,1
+320,nltk,xinyuan-liu,xinyuan liu,Beijing,,https://github.com/xinyuan-liu,Amazon CN,1
+321,nltk,yannick-couzinie,Yannick Couzinié,"Tokyo, Japan",,https://github.com/yannick-couzinie,Tokyo Institue of Technology,1
+322,nltk,yetingli,Yeting Li,"Beijing, China",,https://github.com/yetingli,IIE CAS,1
+323,nltk,Yorwba,,,,https://github.com/Yorwba,,1
+324,nltk,ziyaddin,Ziyaddin Sadigov,"Baku, Azerbaijan",zsadigov,https://github.com/ziyaddin,,1
+325,nltk,ZiyaoWei,Ziyao Wei,"New York, New York, USA",,https://github.com/ZiyaoWei,,1
+326,nltk,ali-abdullah,Ali Abdullah,"Canada, Ontario",,https://github.com/ali-abdullah,,1
+327,nltk,anantvir,,"Coppell, TX",,https://github.com/anantvir,IBM Corporation,1
+328,nltk,OpenSource-fan,GFI-Fan,,,https://github.com/OpenSource-fan,Microsoft Research,1
+329,nltk,avena554,,,,https://github.com/avena554,,1
+330,nltk,avitalp,,Toronto,,https://github.com/avitalp,,1
+331,nltk,bhagyeshworld,,,,https://github.com/bhagyeshworld,,1
+332,nltk,cestwc,,,,https://github.com/cestwc,,1
+333,nltk,dan-sf,Dan Fowler,"Seattle, Wa",,https://github.com/dan-sf,,1
+334,nltk,eltermann,Felipe Eltermann,,,https://github.com/eltermann,,1
+335,nltk,eromoe,,,,https://github.com/eromoe,,1
+336,nltk,germanferrero,Germán Ferrero,,,https://github.com/germanferrero,,1
+337,nltk,heungson,,,,https://github.com/heungson,,1
+338,nltk,himkt,himkt,"Tokyo, Japan",himako_h,https://github.com/himkt,,1
+339,nltk,adifinem,Jessica Hutchison,"Denver, CO",,https://github.com/adifinem,"Splatlabs, LLC",1
+340,nltk,knkumar,Kiran Kumar,,,https://github.com/knkumar,,1
+341,nltk,kobikun,"byeong il, ko",seoul,,https://github.com/kobikun,,1
+342,nltk,manujosephv,Manu Joseph,Bangalore,manujosephv,https://github.com/manujosephv,,1
+343,nltk,mattjdelia,,"Tokyo, Japan",,https://github.com/mattjdelia,,1
+344,nltk,nickgarvey,Nick Garvey,"Santa Clara, California",,https://github.com/nickgarvey,@linkedin,1
+345,nltk,nsfabina,Nicholas Fabina,SF Bay Area,,https://github.com/nsfabina,,1
+346,nltk,pfeyz,,,,https://github.com/pfeyz,,1
+347,nltk,prpfialho,Pedro Fialho,Lisboa,,https://github.com/prpfialho,HLT@INESC-ID,1
+348,nltk,ESSENCE-network,,,,https://github.com/ESSENCE-network,,1
+349,nltk,richarddwang,Richard Wang,,richarddwang,https://github.com/richarddwang,,1
+350,nltk,rubencart,,,,https://github.com/rubencart,,1
+351,nltk,Lightyagami1,Saurav kumar,Banglore,,https://github.com/Lightyagami1,,1
+352,nltk,tingletech,Brian Tingle,Oakland,,https://github.com/tingletech,Retired,1
+353,nltk,yzhaoinuw,Yue Zhao,"Rochester, NY",,https://github.com/yzhaoinuw,@flx-ai-roc,1
+354,nltk,usami,Yu Usami,Yokohama,yusmi,https://github.com/usami,,1
+355,nltk,ventice,venticello,,,https://github.com/ventice,,1
+356,nltk,xmcgcg,,,,https://github.com/xmcgcg,,1
+357,nltk,zhaoyanpeng,Yän.PnG,Mars,,https://github.com/zhaoyanpeng,UoE,1
+358,nltk,ymfa,,,,https://github.com/ymfa,University of Cambridge,1
+359,scikit-learn,ogrisel,Olivier Grisel,"Paris, France",ogrisel,https://github.com/ogrisel,Inria,2454
+360,scikit-learn,amueller,Andreas Mueller,Los Gatos,amuellerml,https://github.com/amueller,Microsoft,2073
+361,scikit-learn,larsmans,Lars,,,https://github.com/larsmans,,1265
+362,scikit-learn,agramfort,Alexandre Gramfort,"Paris, France",agramfort,https://github.com/agramfort,Meta,1086
+363,scikit-learn,glouppe,Gilles Louppe,Belgium,,https://github.com/glouppe,ULiège,936
+364,scikit-learn,thomasjpfan,Thomas J. Fan,New York City,thomasjpfan,https://github.com/thomasjpfan,@Quansight-Labs ,862
+365,scikit-learn,pprett,Peter Prettenhofer,"Vienna, Austria",,https://github.com/pprett,,860
+366,scikit-learn,mblondel,Mathieu Blondel,"Paris, France",mblondel_ml,https://github.com/mblondel,"Google Research, Brain team",778
+367,scikit-learn,vene,Vlad Niculae,Amsterdam,vnfrombucharest,https://github.com/vene,UvA Language Technology Lab @ltl-uva,775
+368,scikit-learn,jnothman,Joel Nothman,Sydney,,https://github.com/jnothman,Canva,773
+369,scikit-learn,arjoly,Arnaud Joly,,,https://github.com/arjoly,,580
+370,scikit-learn,glemaitre,Guillaume Lemaitre,Paris-Saclay / France,glemaitre58,https://github.com/glemaitre,Scikit-learn @ Inria foundation,458
+371,scikit-learn,jakevdp,Jake Vanderplas,Oakland CA,jakevdp,https://github.com/jakevdp,Google,343
+372,scikit-learn,lesteve,Loïc Estève,,,https://github.com/lesteve,,341
+373,scikit-learn,jeremiedbb,Jérémie du Boisberranger,,,https://github.com/jeremiedbb,,321
+374,scikit-learn,MechCoder,manoj kumar,Amsterdam ,,https://github.com/MechCoder,Google Brain,313
+375,scikit-learn,qinhanmin2014,Hanmin Qin,"Shenzhen, China",,https://github.com/qinhanmin2014,Tencent,264
+376,scikit-learn,NicolasHug,Nicolas Hug,London,hug_nicolas,https://github.com/NicolasHug,,250
+377,scikit-learn,NelleV,Nelle Varoquaux,Grenoble,,https://github.com/NelleV,TIMC,238
+378,scikit-learn,robertlayton,Robert Layton,Australia,,https://github.com/robertlayton,dataPipeline,233
+379,scikit-learn,jmetzen,Jan Hendrik Metzen,,,https://github.com/jmetzen,@boschresearch,210
+380,scikit-learn,adrinjalali,Adrin Jalali,Germany,,https://github.com/adrinjalali,@huggingface ,197
+381,scikit-learn,raghavrv,"(Venkat) Raghav, Rajagopalan","Paris, France",,https://github.com/raghavrv,Télécom Paristech,140
+382,scikit-learn,ahojnnes,Johannes Schönberger,,,https://github.com/ahojnnes,Microsoft,137
+383,scikit-learn,rth,Roman Yurchak,"Paris, France",RomanYurchak,https://github.com/rth,,132
+384,scikit-learn,jjerphan,Julien Jerphanion,"Paris, France",,https://github.com/jjerphan,@QuantStack,120
+385,scikit-learn,TomDLT,Tom Dupré la Tour,"Berkeley, California",tomdlt10,https://github.com/TomDLT,UC Berkeley,113
+386,scikit-learn,weilinear,Wei Li,Seattle,weilinear,https://github.com/weilinear,"Microsoft, NewsBreak, Facebook, Google",109
+387,scikit-learn,cmarmo,Chiara Marmo,,,https://github.com/cmarmo,,105
+388,scikit-learn,clayw,Clay Woolam,San Francisco,,https://github.com/clayw,Google,103
+389,scikit-learn,kemaleren,Kemal Eren,,,https://github.com/kemaleren,,100
+390,scikit-learn,lucyleeow,Lucy Liu,Australia,lucyleeow,https://github.com/lucyleeow,,99
+391,scikit-learn,oddskool,Eustache,,,https://github.com/oddskool,,95
+392,scikit-learn,AlexanderFabisch,Alexander Fabisch,Bremen,,https://github.com/AlexanderFabisch,DFKI Robotics Innovation Center @dfki-ric,90
+393,scikit-learn,alextp,Alexandre Passos,"San Francisco, CA",,https://github.com/alextp,Google Brain,87
+394,scikit-learn,bthirion,bthirion,,,https://github.com/bthirion,,85
+395,scikit-learn,VirgileFritsch,Virgile Fritsch,Saclay,,https://github.com/VirgileFritsch,Inria - Parietal team,83
+396,scikit-learn,alfaro96,Juan Carlos Alfaro Jiménez,"Albacete, Castilla-La Mancha, Spain",alfaro96_,https://github.com/alfaro96,Universidad de Castilla-La Mancha,82
+397,scikit-learn,hamsal,Hamzeh Alsalhi,United States,,https://github.com/hamsal,,82
+398,scikit-learn,dsullivan7,Danny Sullivan,"New York, NY, USA",,https://github.com/dsullivan7,,82
+399,scikit-learn,lorentzenchr,Christian Lorentzen,Switzerland,,https://github.com/lorentzenchr,,81
+400,scikit-learn,ibayer,,Berlin,,https://github.com/ibayer,,72
+401,scikit-learn,Micky774,Meekail Zain,,,https://github.com/Micky774,Quansight,66
+402,scikit-learn,betatim,Tim Head,"Zurich, Switzerland",betatim,https://github.com/betatim,Nvidia ,65
+403,scikit-learn,ronw,Ron Weiss,"New York, NY",,https://github.com/ronw,,63
+404,scikit-learn,genvalen,,,,https://github.com/genvalen,,63
+405,scikit-learn,FlorianWilhelm,Florian Wilhelm,"Cologne, Germany",florianwilhelm,https://github.com/FlorianWilhelm,@inovex,63
+406,scikit-learn,jmloyola,Juan Martin Loyola,San Luis,,https://github.com/jmloyola,,61
+407,scikit-learn,satra,Satrajit Ghosh,"Cambridge, MA, USA",satra_,https://github.com/satra,MIT,58
+408,scikit-learn,maheshakya,Maheshakya Wijewardena,Salt Lake City,,https://github.com/maheshakya,,58
+409,scikit-learn,mjbommar,Michael Bommarito,Michigan,mjbommar,https://github.com/mjbommar,,51
+410,scikit-learn,ArturoAmorQ,Arturo Amor,,ArturoAmorQ,https://github.com/ArturoAmorQ,,50
+411,scikit-learn,franslarsson,Frans Larsson,"Uppsala, Sweden",,https://github.com/franslarsson,,49
+412,scikit-learn,nelson-liu,Nelson Liu,"Stanford, California",nelsonfliu,https://github.com/nelson-liu,@stanfordnlp,48
+413,scikit-learn,yarikoptic,Yaroslav Halchenko,Planet Earth,,https://github.com/yarikoptic,"Dartmouth College, @Debian, @DataLad, @PyMVPA, @fail2ban",46
+414,scikit-learn,kastnerkyle,Kyle Kastner,"Montreal, CA",,https://github.com/kastnerkyle,Mila,42
+415,scikit-learn,hlin117,Henry Lin,,,https://github.com/hlin117,,40
+416,scikit-learn,conradlee,Conrad Lee,"Vienna, Austria",,https://github.com/conradlee,@Parsely ,39
+417,scikit-learn,cbrnr,Clemens Brunner,"Graz, Austria",,https://github.com/cbrnr,University of Graz,38
+418,scikit-learn,NicolasTr,Nicolas Trésegnie,"London, United Kingdom",NicolasTr11,https://github.com/NicolasTr,@SuperAwesomeLTD ,38
+419,scikit-learn,OmarManzoor,Omar Salman,"Lahore, Pakistan",,https://github.com/OmarManzoor,Arbisoft,38
+420,scikit-learn,paolo-losi,Paolo Losi,Italy,,https://github.com/paolo-losi,enuan Srl,38
+421,scikit-learn,Titan-C,Óscar Nájera,"Munich, Germany",,https://github.com/Titan-C,,38
+422,scikit-learn,zaxtax,Rob Zinkov,,,https://github.com/zaxtax,,37
+423,scikit-learn,dubourg,,,,https://github.com/dubourg,,37
+424,scikit-learn,JeanKossaifi,Jean Kossaifi,"San Francisco, CA",JeanKossaifi,https://github.com/JeanKossaifi,NVIDIA AI,36
+425,scikit-learn,marenwestermann,Maren Westermann,"Berlin, Germany",MarenWestermann,https://github.com/marenwestermann,,36
+426,scikit-learn,lucidfrontier45,杜世橋 Du Shiqiao,"Tochigi, Japan",,https://github.com/lucidfrontier45,GROUND Inc.,36
+427,scikit-learn,MaxwellLZH,Maxwell Liu,Shanghai,,https://github.com/MaxwellLZH,Ant Finance,36
+428,scikit-learn,chyikwei,Chyi-Kwei Yau,California,,https://github.com/chyikwei,,35
+429,scikit-learn,untom,Thomas Unterthiner,,,https://github.com/untom,Google,35
+430,scikit-learn,yenchenlin,Yen-Chen Lin,"Cambridge, MA",,https://github.com/yenchenlin,MIT CSAIL,35
+431,scikit-learn,npinto,Nicolas Pinto,"Boston, MA",,https://github.com/npinto,MIT,34
+432,scikit-learn,trevorstephens,Trevor Stephens,"Melbourne, Australia",,https://github.com/trevorstephens,Xero,34
+433,scikit-learn,Charlie-XIAO,Yao Xiao,,,https://github.com/Charlie-XIAO,NYU Shanghai,33
+434,scikit-learn,alexis-mignon,Alexis Mignon,Grenoble ,,https://github.com/alexis-mignon,ProbaYes ,32
+435,scikit-learn,eickenberg,,,,https://github.com/eickenberg,,32
+436,scikit-learn,pgervais,Philippe Gervais,"Zurich, Switzerland",,https://github.com/pgervais,,32
+437,scikit-learn,albertcthomas,Albert Thomas,,,https://github.com/albertcthomas,,31
+438,scikit-learn,jorisvandenbossche,Joris Van den Bossche,,jorisvdbossche,https://github.com/jorisvandenbossche,,31
+439,scikit-learn,kmike,Mikhail Korobov,"Russia, Ekaterinburg",,https://github.com/kmike,"@zytedata, @ScrapingHub",31
+440,scikit-learn,maikia,Maria Telenczuk,France,,https://github.com/maikia,Owkin,31
+441,scikit-learn,rprkh,Rahil Parikh,"Mumbai, India",RahilParikh10,https://github.com/rprkh,"Member of @tmrtkjsce, @kjsce-codecell ",30
+442,scikit-learn,stefmolin,Stefanie Molin,,StefanieMolin,https://github.com/stefmolin,@Bloomberg,29
+443,scikit-learn,jaberg,James Bergstra,Toronto ON,,https://github.com/jaberg,kindred.ai,27
+444,scikit-learn,michigraber,,,,https://github.com/michigraber,,25
+445,scikit-learn,DimitriPapadopoulos,Dimitri Papadopoulos Orfanos,Université Paris-Saclay,,https://github.com/DimitriPapadopoulos,CEA,24
+446,scikit-learn,jakirkham,,,,https://github.com/jakirkham,,24
+447,scikit-learn,syhw,syhw,New York,,https://github.com/syhw,Facebook AI Research,23
+448,scikit-learn,alexhenrie,Alex Henrie,"Salt Lake City, UT",,https://github.com/alexhenrie,,22
+449,scikit-learn,pberkes,Pietro Berkes,"Lausanne, Switzerland",,https://github.com/pberkes,"Nagra, Kudelski",22
+450,scikit-learn,dwf,David Warde-Farley,"London, United Kingdom",,https://github.com/dwf,,21
+451,scikit-learn,nmayorov,Nikolay Mayorov,Perm,,https://github.com/nmayorov,,21
+452,scikit-learn,sameshl,Samesh Lakhotia,,samesh_l,https://github.com/sameshl,,21
+453,scikit-learn,tbaranger,Théophile Baranger,"Bordeaux, France",,https://github.com/tbaranger,,21
+454,scikit-learn,dnouri,Daniel Nouri,"Malmö, Sweden",,https://github.com/dnouri,,20
+455,scikit-learn,reshamas,Reshama Shaikh,"New York, NY",reshamas,https://github.com/reshamas,Data Umbrella,20
+456,scikit-learn,chkoar,Christos Aridas,localhost,pychristos,https://github.com/chkoar,Code4Thought,20
+457,scikit-learn,jiawei-zhang-a,Jiawei Zhang,New York,,https://github.com/jiawei-zhang-a,,20
+458,scikit-learn,aymas,Aymeric Masurelle,,,https://github.com/aymas,,19
+459,scikit-learn,Balu-Varanasi,Bala Subrahmanyam Varanasi,"Hyderabad, India",,https://github.com/Balu-Varanasi,,19
+460,scikit-learn,justinvf,,,,https://github.com/justinvf,,19
+461,scikit-learn,ngoix,Nicolas Goix,Paris,,https://github.com/ngoix,"Telecom ParisTech, CNRS LTCI, Université Paris-Saclay",19
+462,scikit-learn,vinayak-mehta,Vinayak Mehta,Paris,vortex_ape,https://github.com/vinayak-mehta,,19
+463,scikit-learn,Vincent-Maladiere,Vincent M,Paris,,https://github.com/Vincent-Maladiere,Inria,19
+464,scikit-learn,rasbt,Sebastian Raschka,"Madison, WI",rasbt,https://github.com/rasbt,"@Lightning-AI , University of Wisconsin-Madison",19
+465,scikit-learn,AWinterman,Andrew Winterman,Portland OR,,https://github.com/AWinterman,,18
+466,scikit-learn,davidgilbertson,David Gilbertson,"Sydney, Australia",,https://github.com/davidgilbertson,,18
+467,scikit-learn,erg,Doug Coleman,,,https://github.com/erg,,18
+468,scikit-learn,mvdoc,Matteo Visconti di Oleggio Castello,"Berkeley, CA",MatteoVdOC,https://github.com/mvdoc,"University of California, Berkeley",18
+469,scikit-learn,tguillemot,Thierry Guillemot,Paris,,https://github.com/tguillemot,Telecom ParisTech,18
+470,scikit-learn,wdevazelhes,William de Vazelhes,United Arab Emirates,willdvaz,https://github.com/wdevazelhes,MBZUAI,18
+471,scikit-learn,yanlend,Peter Fischer,Erlangen,yanlend1,https://github.com/yanlend,Siemens Healthineers,18
+472,scikit-learn,star1327p,Christine P. Chai,Redmond WA,,https://github.com/star1327p,Microsoft,18
+473,scikit-learn,azihna,Alihan Zihna,"Dublin, IE",alihanml,https://github.com/azihna,CKDelta,17
+474,scikit-learn,perimosocordiae,CJ Carey,NYC,,https://github.com/perimosocordiae,Google,17
+475,scikit-learn,osdf,Christian,München,,https://github.com/osdf,,17
+476,scikit-learn,davidmarek,David Marek,Prague,,https://github.com/davidmarek,Microsoft,17
+477,scikit-learn,naoyak,Naoya Kanai,sf,,https://github.com/naoyak,@airbnb,17
+478,scikit-learn,smoitra87,Subhodeep Moitra,"Montreal, Canada",,https://github.com/smoitra87,,17
+479,scikit-learn,tjanez,Tadej Janež,Slovenia,,https://github.com/tjanez,@oasisprotocol ,17
+480,scikit-learn,albertvillanova,Albert Villanova del Moral,Paris (France),avillanovamoral,https://github.com/albertvillanova,@huggingface @aiinnova,16
+481,scikit-learn,Bharat123rox,Bharat Raghunathan,Chennai,BharatR123,https://github.com/Bharat123rox,,16
+482,scikit-learn,massich,Joan Massich,Zurich,,https://github.com/massich,Disney Research,16
+483,scikit-learn,venkyyuvy,Venkatachalam N,"Chennai, India",,https://github.com/venkyyuvy,,16
+484,scikit-learn,baam25simo,baam,,,https://github.com/baam25simo,,16
+485,scikit-learn,s8wu,,,,https://github.com/s8wu,,16
+486,scikit-learn,dalmia,Aman Dalmia,"Bengaluru, India",dalmiaman,https://github.com/dalmia,Plio,15
+487,scikit-learn,briancheung,Brian Cheung,,,https://github.com/briancheung,UC Berkeley,15
+488,scikit-learn,RMeli,Rocco Meli,"Zurich, Switzerland",roccomeli,https://github.com/RMeli,@eth-cscs,15
+489,scikit-learn,akshayah3,Akshay,Goa,,https://github.com/akshayah3,,15
+490,scikit-learn,vighneshbirodkar,Vighnesh Birodkar,Montreal,,https://github.com/vighneshbirodkar,Google,15
+491,scikit-learn,sergeyf,Sergey Feldman,"Seattle, WA",,https://github.com/sergeyf,Data Cowboys,15
+492,scikit-learn,awinml,Ashwin Mathur,,,https://github.com/awinml,,14
+493,scikit-learn,yamins81,Dan Yamins,,,https://github.com/yamins81,,14
+494,scikit-learn,remyleone,Rémy Léone,"Paris, France",remyleone,https://github.com/remyleone,@scaleway ,14
+495,scikit-learn,yuanx749,Xiao Yuan,,,https://github.com/yuanx749,,14
+496,scikit-learn,themrmax,,,,https://github.com/themrmax,,14
+497,scikit-learn,kianelbo,Kian Eliasi,"Milan, Italy",,https://github.com/kianelbo,@cafebazaar,13
+498,scikit-learn,oleksandr-pavlyk,Oleksandr Pavlyk,"Austin, TX",,https://github.com/oleksandr-pavlyk,Intel Corporation,13
+499,scikit-learn,DatenBiene,Pierre Delanoue,,,https://github.com/DatenBiene,,13
+500,scikit-learn,rlmv,Bo Marchman,"New York, NY",,https://github.com/rlmv,"Blackfynn, Inc",13
+501,scikit-learn,sortofamudkip,Sortofamudkip,,,https://github.com/sortofamudkip,,13
+502,scikit-learn,sveneschlbeck,Sven Eschlbeck,Aalen,,https://github.com/sveneschlbeck,Carl Zeiss SMT GmbH,13
+503,scikit-learn,Mathews-Tom,Tom Mathews,,,https://github.com/Mathews-Tom,,13
+504,scikit-learn,devashishd12,Devashish Deshpande,India,,https://github.com/devashishd12,KU Leuven,13
+505,scikit-learn,still-learning-ev,zeeshan lone,,,https://github.com/still-learning-ev,,13
+506,scikit-learn,kernc,,,,https://github.com/kernc,,13
+507,scikit-learn,ldirer,Laurent Direr,Paris,,https://github.com/ldirer,,13
+508,scikit-learn,tomMoral,Thomas Moreau,Paris,,https://github.com/tomMoral,INRIA Saclay - Parietal team,13
+509,scikit-learn,alexitkes,Alex Itkes,"Moscow, Russia",,https://github.com/alexitkes,,12
+510,scikit-learn,thechargedneutron,Kumar Ashutosh,"Austin, TX",chargedneutron_,https://github.com/thechargedneutron,UT Austin,12
+511,scikit-learn,kyleabeauchamp,Kyle Beauchamp,"New York, NY",,https://github.com/kyleabeauchamp,,12
+512,scikit-learn,mathurinm,,Lyon,,https://github.com/mathurinm,@Inria / Ecole normale supérieure de Lyon,12
+513,scikit-learn,chritter,Christian Ritter,Canada,,https://github.com/chritter,@StatCan ,11
+514,scikit-learn,danifernandes-hub,Daniela Fernandes,Venezuela,,https://github.com/danifernandes-hub,Graphite,11
+515,scikit-learn,kno10,Erich Schubert,"Dortmund, Germany",,https://github.com/kno10,TU Dortmund University,11
+516,scikit-learn,mrjbq7,John Benediktsson,,,https://github.com/mrjbq7,,11
+517,scikit-learn,kanissh,Kanissh,,,https://github.com/kanissh,,11
+518,scikit-learn,justmarkham,Kevin Markham,"Asheville, NC, USA",,https://github.com/justmarkham,Data School,11
+519,scikit-learn,Naereen,Lilian Besson,"Hautes-Alpes, France",BoycottThis,https://github.com/Naereen,,11
+520,scikit-learn,maniteja123,Maniteja Nandana,India,,https://github.com/maniteja123,,11
+521,scikit-learn,embandera,Mitzi,Los Angeles,,https://github.com/embandera,,11
+522,scikit-learn,johannah,Johanna Hansen,"Montreal, QC",,https://github.com/johannah,"Mobile Robotics Lab, McGill University",11
+523,scikit-learn,siavrez,,,,https://github.com/siavrez,,11
+524,scikit-learn,olologin,,,,https://github.com/olologin,,11
+525,scikit-learn,bwignall,Brian Wignall,,,https://github.com/bwignall,Two Sigma Investments,11
+526,scikit-learn,djsutherland,Danica J. Sutherland,Vancouver,,https://github.com/djsutherland,University of British Columbia,11
+527,scikit-learn,amy12xx,Amanda Dsouza,,amanda_dsouza,https://github.com/amy12xx,,11
+528,scikit-learn,coreylynch,Corey Lynch,"Honolulu, HI",,https://github.com/coreylynch,Google,10
+529,scikit-learn,EricEllwanger,,,,https://github.com/EricEllwanger,,10
+530,scikit-learn,jmschrei,Jacob Schreiber,Stanford University,jmschreiber91,https://github.com/jmschrei,,10
+531,scikit-learn,jrbourbeau,James Bourbeau,"Madison, WI",__jrbourbeau__,https://github.com/jrbourbeau,@coiled ,10
+532,scikit-learn,Jim-Holmstroem,Jim Holmström,Stockholm,,https://github.com/Jim-Holmstroem,@nextml-code ,10
+533,scikit-learn,JohnBoersma,,"Boston, Massachusetts",,https://github.com/JohnBoersma,,10
+534,scikit-learn,ClimbsRocks,Preston Parry,Oakland,,https://github.com/ClimbsRocks,auto.ml,10
+535,scikit-learn,rishikksh20,Rishikesh (ऋषिकेश),"New Delhi, India",ai_rishikesh,https://github.com/rishikksh20,DeepSync Technologies,10
+536,scikit-learn,mrshu,Marek Šuppa,Slovakia,mr__shu,https://github.com/mrshu,,10
+537,scikit-learn,b0noI,Viacheslav Kovalevskyi,,,https://github.com/b0noI,,10
+538,scikit-learn,aashil,Aashil Patel,San Francisco Bay Area,,https://github.com/aashil,Software Engineer @IBM,9
+539,scikit-learn,duckworthd,Daniel Duckworth,,,https://github.com/duckworthd,,9
+540,scikit-learn,fzalkow,Frank Zalkow,,swpffm,https://github.com/fzalkow,,9
+541,scikit-learn,jblackburne,,,,https://github.com/jblackburne,,9
+542,scikit-learn,madhuracj,Madhura Jayaratne,"Melbourne, Australia",,https://github.com/madhuracj,,9
+543,scikit-learn,haiatn,N. Haiat,,,https://github.com/haiatn,,9
+544,scikit-learn,herilalaina,Herilalaina Rakotoarison,"Paris, France",,https://github.com/herilalaina,INRIA,9
+545,scikit-learn,ShanDeng123,,,,https://github.com/ShanDeng123,,9
+546,scikit-learn,taehoonlee,Taehoon Lee,"Seoul, South Korea",,https://github.com/taehoonlee,SK Telecom,9
+547,scikit-learn,ROMEEZHOU,Yuchen Zhou,,,https://github.com/ROMEEZHOU,,9
+548,scikit-learn,cgsavard,,,,https://github.com/cgsavard,,9
+549,scikit-learn,fcostin,Reuben Fletcher-Costin,,,https://github.com/fcostin,,9
+550,scikit-learn,glevv,Gleb Levitski,Cyprus,,https://github.com/glevv,,9
+551,scikit-learn,SangamSwadiK,SangamSwadiK,,,https://github.com/SangamSwadiK,,9
+552,scikit-learn,g4brielvs,Gabriel Stefanini Vicente,,g4brielvs,https://github.com/g4brielvs,@worldbank ,9
+553,scikit-learn,ajschumacher,Aaron Schumacher,"Washington, DC",planarrowspace,https://github.com/ajschumacher,,8
+554,scikit-learn,agamemnonc,Agamemnon Krasoulis,"Athens, Greece",,https://github.com/agamemnonc,Deeplab,8
+555,scikit-learn,AlexisMignon,Alexis Mignon,82 allée Galilée -- 38330 Montbonnot-Saint-Martin -- France,,https://github.com/AlexisMignon,ProbaYes,8
+556,scikit-learn,artsobolev,Artëm Sobolev,Earth,art_sobolev,https://github.com/artsobolev,,8
+557,scikit-learn,gxyd,Gaurav Dhingra,,,https://github.com/gxyd,,8
+558,scikit-learn,hbredin,Hervé BREDIN,France,hbredin,https://github.com/hbredin,CNRS,8
+559,scikit-learn,hsuantien,Hsuan-Tien Lin,,,https://github.com/hsuantien,National Taiwan University,8
+560,scikit-learn,hugobowne,Hugo Bowne-Anderson,Sydney,hugobowne,https://github.com/hugobowne,Outerbounds,8
+561,scikit-learn,maskani-moh,Mohamed Maskani,New York City,,https://github.com/maskani-moh,,8
+562,scikit-learn,rmcgibbo,Robert T. McGibbon,New York,,https://github.com/rmcgibbo,D.E. Shaw Research,8
+563,scikit-learn,SebastinSanty,Sebastin Santy,Seattle,sebastinsanty,https://github.com/SebastinSanty,University of Washington,8
+564,scikit-learn,hongshaoyang,,Singapore,,https://github.com/hongshaoyang,@ninja-van,8
+565,scikit-learn,xuewei4d,Wei Xue,USA,,https://github.com/xuewei4d,,8
+566,scikit-learn,eltermann,Felipe Eltermann,,,https://github.com/eltermann,,8
+567,scikit-learn,mandjevant,,Netherlands,,https://github.com/mandjevant,TU/e,8
+568,scikit-learn,hrishikeshio,,,,https://github.com/hrishikeshio,,8
+569,scikit-learn,zjpoh,Zijie (ZJ) Poh,,,https://github.com/zjpoh,,8
+570,scikit-learn,fannix,fannix,Beijing,,https://github.com/fannix,Peking University,8
+571,scikit-learn,smarie,Sylvain Marié,,,https://github.com/smarie,Schneider Electric,8
+572,scikit-learn,2357juan,,,,https://github.com/2357juan,,7
+573,scikit-learn,almet,Alexis Metaireau,"Rennes, France",,https://github.com/almet,Brasserie du Vieux Singe,7
+574,scikit-learn,AmarCodes-22,Amar pratap singh,,,https://github.com/AmarCodes-22,,7
+575,scikit-learn,ankit-maverick,Ankit Agrawal,Mumbai,,https://github.com/ankit-maverick,IIT Bombay,7
+576,scikit-learn,btabibian,Behzad Tabibian,Bay Area,,https://github.com/btabibian,"Reasonal, Inc.",7
+577,scikit-learn,WeatherGod,Benjamin Root,,,https://github.com/WeatherGod,"Atmospheric and Environmental Research, Inc.",7
+578,scikit-learn,dubstack,Buddh Prakash,Bay Area,,https://github.com/dubstack,,7
+579,scikit-learn,willingc,Carol Willing,San Diego,WillingCarol,https://github.com/willingc,Willing Consulting,7
+580,scikit-learn,emmanuelle,Emmanuelle Gouillart,,,https://github.com/emmanuelle,,7
+581,scikit-learn,FedericoV,Federico Vaggi,Seattle,F_Vaggi,https://github.com/FedericoV,Google X,7
+582,scikit-learn,haochunchang,Hao Chun Chang,Taiwan,,https://github.com/haochunchang,,7
+583,scikit-learn,ihaque,Imran Haque,,ImranSHaque,https://github.com/ihaque,Recursion Pharmaceuticals,7
+584,scikit-learn,jwkvam,Jacques Kvam,San Francisco Bay Area,,https://github.com/jwkvam,@Google,7
+585,scikit-learn,Jeffrey04,Choon-Siang Lai,"Subang Jaya, Malaysia",,https://github.com/Jeffrey04,DaHu Technology,7
+586,scikit-learn,johannfaouzi,Johann Faouzi,"Paris, France",,https://github.com/johannfaouzi,,7
+587,scikit-learn,lmcinnes,Leland McInnes,"Ottawa, Ontario, Canada",,https://github.com/lmcinnes,Tutte Institute for Mathematics and Computing,7
+588,scikit-learn,buma,Marko Burjek,Slovenia,,https://github.com/buma,,7
+589,scikit-learn,njwilson,Nick Wilson,"SF Bay Area, CA",,https://github.com/njwilson,Twitter,7
+590,scikit-learn,Nwanna-Joseph,,,,https://github.com/Nwanna-Joseph,,7
+591,scikit-learn,OlehKSS,Oleh Kozynets,,oleh_kozynets,https://github.com/OlehKSS,,7
+592,scikit-learn,ohe,Olivier H.,Paris,,https://github.com/ohe,Smart Flows,7
+593,scikit-learn,josephsalmon,,Paris,,https://github.com/josephsalmon,,7
+594,scikit-learn,mth4saurabh,Saurabh B,World,,https://github.com/mth4saurabh,IIT Kanpur,7
+595,scikit-learn,simonamaggio,,,,https://github.com/simonamaggio,,7
+596,scikit-learn,nuka137,Atsushi Nukariya,"Kawasaki, Japan",,https://github.com/nuka137,Fujitsu,7
+597,scikit-learn,adam2392,Adam Li,United States,adam2392,https://github.com/adam2392,Columbia University,6
+598,scikit-learn,aabadie,Alexandre Abadie,Paris,,https://github.com/aabadie,Inria,6
+599,scikit-learn,bcajes,Brian Cajes,,,https://github.com/bcajes,,6
+600,scikit-learn,cli248,Chen Liu,,,https://github.com/cli248,,6
+601,scikit-learn,galv,Daniel Galvez,"Bay Area, CA",,https://github.com/galv,@NVIDIA,6
+602,scikit-learn,larsoner,Eric Larson,"Ann Arbor, MI",,https://github.com/larsoner,University of Washington,6
+603,scikit-learn,PSSF23,Haoyin Xu,,HaoyinXu,https://github.com/PSSF23,@neurodata,6
+604,scikit-learn,harupy,Harutaka Kawamura,Japan,,https://github.com/harupy,@databricks,6
+605,scikit-learn,ilam,Ilambharathi Kanniah,New York,,https://github.com/ilam,Columbia University,6
+606,scikit-learn,mluessi,Martin Luessi,"Portland, OR, USA",,https://github.com/mluessi,,6
+607,scikit-learn,MaximSmolskiy,Maxim Smolskiy,"Saint-Petersburg, Russia",,https://github.com/MaximSmolskiy,,6
+608,scikit-learn,mohaseeb,Mohamed Haseeb,"Dubai, UAE",,https://github.com/mohaseeb,,6
+609,scikit-learn,muokicaleb,Muoki Caleb,,,https://github.com/muokicaleb,,6
+610,scikit-learn,richardt94,Richard Taylor,"Canberra, Australia",,https://github.com/richardt94,@qctrl,6
+611,scikit-learn,rushabh-v,Rushabh Vasani,India,rushabh_24,https://github.com/rushabh-v,,6
+612,scikit-learn,sabba,Salvatore Masecchia,Pescara - Italy,,https://github.com/sabba,,6
+613,scikit-learn,sergulaydore,Sergul Aydore,"New York, NY",,https://github.com/sergulaydore,Amazon Web Services,6
+614,scikit-learn,sdegryze,Steven De Gryze,"San Francisco, CA",,https://github.com/sdegryze,,6
+615,scikit-learn,tnunes,Tiago Nunes,"Porto, Portugal",,https://github.com/tnunes,Mindera Software Craft,6
+616,scikit-learn,tirthasheshpatel,Tirth Patel,"Tempe, Arizona",,https://github.com/tirthasheshpatel,,6
+617,scikit-learn,zadilkhwaja,Z Adil Khwaja,Goa | Pune | Karnataka,,https://github.com/zadilkhwaja,Full Stack Developer,6
+618,scikit-learn,iasoon,,,,https://github.com/iasoon,@datarootsio ,6
+619,scikit-learn,janvanrijn,,"Leiden, Netherlands",,https://github.com/janvanrijn,Leiden University,6
+620,scikit-learn,lopusz,,,,https://github.com/lopusz,,6
+621,scikit-learn,mlondschien,Malte Londschien,Zürich,,https://github.com/mlondschien,,6
+622,scikit-learn,sadakmed,Simo,Italy,,https://github.com/sadakmed,,6
+623,scikit-learn,waterponey,Prosper Burq,Toulouse,,https://github.com/waterponey,@chutlse ,6
+624,scikit-learn,Ankit810,Ankit Choraria,,,https://github.com/Ankit810,,6
+625,scikit-learn,jpangas,John Pangas,,johnpangas,https://github.com/jpangas,,6
+626,scikit-learn,vitaliset,Carlo Lemos,"São Paulo, Brazil",,https://github.com/vitaliset,Experian,6
+627,scikit-learn,fcharras,Franck Charras,France,,https://github.com/fcharras,INRIA,6
+628,scikit-learn,ankishb,@nkish,India,,https://github.com/ankishb,"Student, Post Graduate, IITK",5
+629,scikit-learn,acganesh,Adi Ganesh,"San Francisco, CA",,https://github.com/acganesh,,5
+630,scikit-learn,daien,Adrien Gaidon,,adnothing,https://github.com/daien,,5
+631,scikit-learn,Batalex,Alex Batisse,,,https://github.com/Batalex,,5
+632,scikit-learn,lobpcg,Andrew Knyazev,USA,,https://github.com/lobpcg,,5
+633,scikit-learn,Aerlinger,Anthony,New York,,https://github.com/Aerlinger,Google,5
+634,scikit-learn,astaric,Anže Starič,"Ljubljana, Slovenia",,https://github.com/astaric,,5
+635,scikit-learn,Attractadore,,,,https://github.com/Attractadore,,5
+636,scikit-learn,ageron,Aurélien Geron,Auckland,,https://github.com/ageron,,5
+637,scikit-learn,blagarde,Baptiste Lagarde,,,https://github.com/blagarde,,5
+638,scikit-learn,b-carter,Brandon Carter,"Cambridge, MA",,https://github.com/b-carter,,5
+639,scikit-learn,ckastner,Christian Kastner,"Vienna, Austria",,https://github.com/ckastner,,5
+640,scikit-learn,ChVeen,Christian Veenhuis,,,https://github.com/ChVeen,,5
+641,scikit-learn,dengemann,Denis A. Engemann,"Basel, Switzerland",,https://github.com/dengemann,Roche,5
+642,scikit-learn,dmitrylala,Dmitry Nesterov,"Moscow, Russia",,https://github.com/dmitrylala,VK,5
+643,scikit-learn,lodurality,Dmitry Petrov,,dpetrov_ml,https://github.com/lodurality,,5
+644,scikit-learn,dohmatob,Elvis Dohmatob,Paris,,https://github.com/dohmatob,Criteo Research (formally at Parietal Team / INRIA),5
+645,scikit-learn,chang,Eric Chang,"San Francisco, CA",,https://github.com/chang,@Asana,5
+646,scikit-learn,cmd-ntrf,Félix-Antoine Fortin,,,https://github.com/cmd-ntrf,,5
+647,scikit-learn,hs-nazuna,Hirofumi Suzuki,"Kanagawa, Japan",,https://github.com/hs-nazuna,Fujitsu Laboratories LTD.,5
+648,scikit-learn,Jitensid,Jiten Sidhpura,"Mumbai, Maharashtra",jiten_sid,https://github.com/Jitensid,,5
+649,scikit-learn,jsilke,Jordan Silke,,,https://github.com/jsilke,,5
+650,scikit-learn,jkarno,Josh Karnofsky,,,https://github.com/jkarno,,5
+651,scikit-learn,kianho,,,,https://github.com/kianho,,5
+652,scikit-learn,luispedro,Luis Pedro Coelho,Luxembourg & Shanghai,luispedrocoelho,https://github.com/luispedro,Fudan University,5
+653,scikit-learn,mani2106,Manimaran,Chennai,mani_maranp,https://github.com/mani2106,Straive,5
+654,scikit-learn,MarieS-WiMLDS,,,,https://github.com/MarieS-WiMLDS,,5
+655,scikit-learn,mattilyra,Matti Lyra,,,https://github.com/mattilyra,Zalando SE,5
+656,scikit-learn,minggli,Ming Li,vector space,,https://github.com/minggli,,5
+657,scikit-learn,pierreglaser,Pierre Glaser,London ,PierreGlaser,https://github.com/pierreglaser,UCL,5
+658,scikit-learn,Pinky-Chaudhary,Pinky,Gujarat,,https://github.com/Pinky-Chaudhary,IBM,5
+659,scikit-learn,nixphix,Prabakaran Kumaresshan,"Chennai, India",,https://github.com/nixphix,,5
+660,scikit-learn,rajatkhanduja,Rajat Khanduja,London,,https://github.com/rajatkhanduja,Facebook,5
+661,scikit-learn,rgommers,Ralf Gommers,Netherlands,ralfgommers,https://github.com/rgommers,Quansight,5
+662,scikit-learn,raulgarreta,Raul Garreta,,,https://github.com/raulgarreta,,5
+663,scikit-learn,VarIr,Roman Feldbauer,"Vienna, AT",,https://github.com/VarIr,@ProxygenTx,5
+664,scikit-learn,rusdes,Rushil Desai,,,https://github.com/rusdes,,5
+665,scikit-learn,svenstehle,Sven Stehle,Ingelheim,,https://github.com/svenstehle,,5
+666,scikit-learn,vrishank97,Vrishank Bhardwaj,India,,https://github.com/vrishank97,IIT Guwahati,5
+667,scikit-learn,alexshacked,,,,https://github.com/alexshacked,,5
+668,scikit-learn,bmaisonn,,,,https://github.com/bmaisonn,,5
+669,scikit-learn,kaichogami,Asish Panda,Bhubaneswar,,https://github.com/kaichogami,International Insititute of Information Technology Bhubaneswar,5
+670,scikit-learn,t-kusanagi2,,Japan,,https://github.com/t-kusanagi2,Fujitsu,5
+671,scikit-learn,nealchau,Neal C,"Los Angeles, California ",,https://github.com/nealchau,,5
+672,scikit-learn,abatula,Alyssa Batula,"Indianapolis, IN",,https://github.com/abatula,,5
+673,scikit-learn,zitorelova,Zito Relova,"Vancouver, B.C.",,https://github.com/zitorelova,,5
+674,scikit-learn,cgohlke,Christoph Gohlke,"Irvine, California",,https://github.com/cgohlke,,5
+675,scikit-learn,aflaxman,Abraham Flaxman,"Seattle, WA",,https://github.com/aflaxman,"@ihmeuw (Institute for Health Metrics and Evaluation, University of Washington)",4
+676,scikit-learn,aditya1702,Aditya Vyas,New York,adityavyas1702,https://github.com/aditya1702,@stellar ,4
+677,scikit-learn,apw,Amos Waterland,,,https://github.com/apw,,4
+678,scikit-learn,ajtulloch,Andrew Tulloch,San Francisco,,https://github.com/ajtulloch,Facebook AI Research,4
+679,scikit-learn,simonandras,András Simon,Germany,,https://github.com/simonandras,,4
+680,scikit-learn,ApproximateIdentity,Thomas Nyberg,New York,,https://github.com/ApproximateIdentity,"Columbia University, Mathematics PhD",4
+681,scikit-learn,arthurmensch,Arthur Mensch,"Paris, France",,https://github.com/arthurmensch,TBA,4
+682,scikit-learn,bellet,Aurélien Bellet,,,https://github.com/bellet,INRIA,4
+683,scikit-learn,avigupta2612,Avi Gupta,Delhi,,https://github.com/avigupta2612,,4
+684,scikit-learn,btel,Bartosz Telenczuk,Paris,,https://github.com/btel,freelancer,4
+685,scikit-learn,bryandeng,Boyuan Deng,"Shanghai, China",boyuandeng,https://github.com/bryandeng,@Tencent,4
+686,scikit-learn,cjauvin,Christian Jauvin,"Montreal, Canada",,https://github.com/cjauvin,K2 Geospatial,4
+687,scikit-learn,chrisyeh96,Christopher Yeh,,,https://github.com/chrisyeh96,,4
+688,scikit-learn,Diadochokinetic,,,,https://github.com/Diadochokinetic,,4
+689,scikit-learn,didibz,Didi Bar-Zev,Tel-Aviv,,https://github.com/didibz,HiredScore,4
+690,scikit-learn,dlitsidis,Dimitris Litsidis,Thessaloniki Greece,,https://github.com/dlitsidis,,4
+691,scikit-learn,gloriamacia,Glòria Macià Muñoz,,,https://github.com/gloriamacia,,4
+692,scikit-learn,PGryllos,Gryllos Prokopis,"Berlin, Germany",,https://github.com/PGryllos,@shopify,4
+693,scikit-learn,pignacio,Ignacio Rossi,,,https://github.com/pignacio,,4
+694,scikit-learn,IshankGulati,Ishank Gulati,India,,https://github.com/IshankGulati,Dev @hotstar,4
+695,scikit-learn,mrbeann,mrbean,,,https://github.com/mrbeann,,4
+696,scikit-learn,JPFrancoia,JPFrancoia,London,,https://github.com/JPFrancoia,,4
+697,scikit-learn,jaglima,Jesse Lima,Sao Paulo,,https://github.com/jaglima,,4
+698,scikit-learn,fishcorn,Josephine Moeller,"Renton, WA",moeller_ml,https://github.com/fishcorn,@MythicalGames,4
+699,scikit-learn,jhlegarreta,Jon Haitz Legarreta Gorroño,"Boston, MA, USA",,https://github.com/jhlegarreta,"Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School",4
+700,scikit-learn,KamalakerDadi,,,,https://github.com/KamalakerDadi,,4
+701,scikit-learn,kgeis,Ken Geis,"Berkeley, CA",,https://github.com/kgeis,@UCB-RAC ,4
+702,scikit-learn,kcarnold,Kenneth C. Arnold,"Grand Rapids, MI",,https://github.com/kcarnold,,4
+703,scikit-learn,kgilliam125,Kyle Gilliam,,,https://github.com/kgilliam125,,4
+704,scikit-learn,kjacks21,Kyle Jackson,Washington D.C. Metro Area,,https://github.com/kjacks21,,4
+705,scikit-learn,LSturtew,,,,https://github.com/LSturtew,,4
+706,scikit-learn,MaggieChege,MaggieChege,Nairobi kenya,,https://github.com/MaggieChege,,4
+707,scikit-learn,manu-chroma,Manvendra Singh,"London, UK",manu_chroma,https://github.com/manu-chroma,Meta,4
+708,scikit-learn,achab,massil,,,https://github.com/achab,,4
+709,scikit-learn,mbatchkarov,Miroslav Batchkarov,United Kingdom,,https://github.com/mbatchkarov,Teebly,4
+710,scikit-learn,mohamed-ali,Mohamed Ali Jamaoui,"Tunis, Tunisia",,https://github.com/mohamed-ali,,4
+711,scikit-learn,pedugnat,Paul,Paris,,https://github.com/pedugnat,,4
+712,scikit-learn,pooja-subramaniam,Pooja Subramaniam,,,https://github.com/pooja-subramaniam,,4
+713,scikit-learn,reiinakano,Reiichiro Nakano,San Francisco,,https://github.com/reiinakano,@openai,4
+714,scikit-learn,guyrt,Tommy Guy,"Seattle, WA, USA",,https://github.com/guyrt,Microsoft,4
+715,scikit-learn,rossbar,Ross Barnowski,"Pasadena, CA",,https://github.com/rossbar,Caltech,4
+716,scikit-learn,rubywerman,Ruby Werman,"Chicago, IL",,https://github.com/rubywerman,@MLH-Fellowship ,4
+717,scikit-learn,rtlee9,Ryan,"Redwood City, CA",,https://github.com/rtlee9,Facebook,4
+718,scikit-learn,JarnoRFB,Rüdiger Busche,Hanover,,https://github.com/JarnoRFB,@VisioLab,4
+719,scikit-learn,saketkc,Saket Choudhary,New York,saketkc,https://github.com/saketkc,New York Genome Center,4
+720,scikit-learn,SamAdamDay,Sam Adam-Day,,,https://github.com/SamAdamDay,,4
+721,scikit-learn,samwaterbury,Sam Waterbury,"Chicago, IL",,https://github.com/samwaterbury,@unify-ai,4
+722,scikit-learn,samuelstjean,Samuel St-Jean,"Lund, Sweden",Sam_StJean,https://github.com/samuelstjean,Lund University,4
+723,scikit-learn,SarahRemus,SarahRemus,,,https://github.com/SarahRemus,,4
+724,scikit-learn,ShehanAT,Sean Atukorala,"London, Ontario, Canada",SeanAtukorala,https://github.com/ShehanAT,TD Bank,4
+725,scikit-learn,sebp,Sebastian Pölsterl,Germany,,https://github.com/sebp,@AstraZeneca,4
+726,scikit-learn,superbobry,Sergei Lebedev,"London, UK",,https://github.com/superbobry,Software Engineer at @deepmind,4
+727,scikit-learn,sergiopasra,Sergio Pascual,"Madrid, Spain",,https://github.com/sergiopasra,Universidad Complutense de Madrid,4
+728,scikit-learn,Shivachauhan17,Shiva chauhan,India,Shivachuahan17,https://github.com/Shivachauhan17,,4
+729,scikit-learn,jseabold,Skipper Seabold,"Nashville, TN",jseabold,https://github.com/jseabold,HCA Healthcare,4
+730,scikit-learn,srivatsan-ramesh,Srivatsan Ramesh,,,https://github.com/srivatsan-ramesh,Meta,4
+731,scikit-learn,sseg,Steven Seguin,"Ottawa, Canada",,https://github.com/sseg,,4
+732,scikit-learn,SylvainLan,,,,https://github.com/SylvainLan,,4
+733,scikit-learn,takoika,Takeshi Oura,,,https://github.com/takoika,,4
+734,scikit-learn,TakingItCasual,,"Mikkeli, Finland",,https://github.com/TakingItCasual,,4
+735,scikit-learn,thouis,Thouis (Ray) Jones,"Cambridge, MA, USA",,https://github.com/thouis,Broad Institute,4
+736,scikit-learn,TomAugspurger,Tom Augspurger,,,https://github.com/TomAugspurger,@microsoft,4
+737,scikit-learn,musically-ut,Utkarsh Upadhyay,"Berlin, Germany",musically_ut,https://github.com/musically-ut,@Reasonal,4
+738,scikit-learn,vreyespue,Vicente Reyes,,,https://github.com/vreyespue,@rewe-digital,4
+739,scikit-learn,vincentpham1991,Vincent Pham,,,https://github.com/vincentpham1991,,4
+740,scikit-learn,ycjuan,,,,https://github.com/ycjuan,,4
+741,scikit-learn,alexandercbooth,,"Boulder, CO",,https://github.com/alexandercbooth,@github ,4
+742,scikit-learn,cdrig,,,,https://github.com/cdrig,,4
+743,scikit-learn,chaitanyamogal,,"India, maharashtra",,https://github.com/chaitanyamogal,,4
+744,scikit-learn,david-cortes,,,,https://github.com/david-cortes,,4
+745,scikit-learn,jeromedockes,Jérôme Dockès,Montreal,,https://github.com/jeromedockes,McGill University,4
+746,scikit-learn,judithabk6,,,judithabk6,https://github.com/judithabk6,,4
+747,scikit-learn,lrjball,,,,https://github.com/lrjball,,4
+748,scikit-learn,mbillingr,,Austria,,https://github.com/mbillingr,,4
+749,scikit-learn,melemo2,,,,https://github.com/melemo2,,4
+750,scikit-learn,mlant,,,,https://github.com/mlant,,4
+751,scikit-learn,qdeffense,,,,https://github.com/qdeffense,,4
+752,scikit-learn,queqichao,Qichao Que,United States,,https://github.com/queqichao,The Ohio State University,4
+753,scikit-learn,sdenton4,tom denton,"toronto, canada",,https://github.com/sdenton4,,4
+754,scikit-learn,shellyfung,,,,https://github.com/shellyfung,,4
+755,scikit-learn,shivamgargsya,,,,https://github.com/shivamgargsya,,4
+756,scikit-learn,sply88,,,,https://github.com/sply88,,4
+757,scikit-learn,toastedcornflakes,,,,https://github.com/toastedcornflakes,,4
+758,scikit-learn,sdpython,xavier dupré,paris,,https://github.com/sdpython,@ENSAE,4
+759,scikit-learn,zhaofeng-shu33,赵丰 (Zhao Feng),"Tsinghua University, ShenZhen, GuangDong, PR China",,https://github.com/zhaofeng-shu33,"Department of Electronics and Engineering, Graduate School at Shenzhen",4
+760,scikit-learn,Abdur-rahmaanJ,Abdur-Rahmaan Janhangeer,Mauritius,osdotsystem,https://github.com/Abdur-rahmaanJ,@compileralchemy ,3
+761,scikit-learn,abhinavsagar,Abhinav Sagar,College Park,abhinavsagar99,https://github.com/abhinavsagar,UMD,3
+762,scikit-learn,rand0wn,Abhishek Singh Kushwah,Berlin,,https://github.com/rand0wn,,3
+763,scikit-learn,adamjstewart,Adam J. Stewart,"Urbana, IL",,https://github.com/adamjstewart,University of Illinois at Urbana-Champaign,3
+764,scikit-learn,alceballosa,Alberto Mario Ceballos-Arroyo,,,https://github.com/alceballosa,,3
+765,scikit-learn,AlexandreAbraham,Alexandre Abraham,Bazemont,goulagman,https://github.com/AlexandreAbraham,Implicity,3
+766,scikit-learn,andreanr,Andrea Navarrete,New York City,,https://github.com/andreanr,Columbia University,3
+767,scikit-learn,anntzer,Antony Lee,,,https://github.com/anntzer,,3
+768,scikit-learn,atsetoglou,Apostolos Tsetoglou,,,https://github.com/atsetoglou,,3
+769,scikit-learn,artiemq,Artem Krinitsyn,"Moscow, Russia",,https://github.com/artiemq,,3
+770,scikit-learn,atharvapatil123,Atharva Patil,"Matunga, Mumbai",Atharva30546695,https://github.com/atharvapatil123,Veermata Jijabai Technological Institute,3
+771,scikit-learn,kohakukun,Aura Munoz,,,https://github.com/kohakukun,,3
+772,tensorflow,tensorflower-gardener,TensorFlower Gardener,,,https://github.com/tensorflower-gardener,,42998
+773,tensorflow,mihaimaruseac,Mihai Maruseac,"Cupertino, CA",mihaimaruseac,https://github.com/mihaimaruseac,Google,1484
+774,tensorflow,yongtang,Yong Tang,"San Francisco Bay Area, CA",,https://github.com/yongtang,,1448
+775,tensorflow,gunan,Gunhan Gulsoy,"Sunnyvale, CA",,https://github.com/gunan,@google @tensorflow ,1347
+776,tensorflow,caisq,Shanqing Cai,,,https://github.com/caisq,Google,1251
+777,tensorflow,hawkinsp,Peter Hawkins,"Princeton, NJ",,https://github.com/hawkinsp,Google,1177
+778,tensorflow,mrry,Derek Murray,"San Francisco, CA",mrry,https://github.com/mrry,,1154
+779,tensorflow,roserg,Roman Sorokin,,,https://github.com/roserg,,1117
+780,tensorflow,akuegel,Adrian Kuegel,,,https://github.com/akuegel,Google Germany GmbH,1084
+781,tensorflow,benoitsteiner,Benoit Steiner,,,https://github.com/benoitsteiner,,1046
+782,tensorflow,cheshire,George Karpenkov,,,https://github.com/cheshire,@google,1020
+783,tensorflow,jpienaar,Jacques Pienaar,,,https://github.com/jpienaar,Google,987
+784,tensorflow,ezhulenev,Eugene Zhulenev,San Francisco,,https://github.com/ezhulenev,Google,967
+785,tensorflow,qlzh727,Qianli Scott Zhu,California,,https://github.com/qlzh727,Google,924
+786,tensorflow,River707,River Riddle,,,https://github.com/River707,,887
+787,tensorflow,joker-eph,Mehdi Amini,Mountain View,,https://github.com/joker-eph,,881
+788,tensorflow,d0k,Benjamin Kramer,"Munich, Germany",,https://github.com/d0k,,807
+789,tensorflow,martinwicke,Martin Wicke,San Francisco,,https://github.com/martinwicke,,799
+790,tensorflow,yifeif,Yifei Feng,San Francisco,,https://github.com/yifeif,"@ray-project, @anyscale ex-@tensorflow",788
+791,tensorflow,allenlavoie,Allen Lavoie,,,https://github.com/allenlavoie,,709
+792,tensorflow,smit-hinsu,Smit Hinsu,,,https://github.com/smit-hinsu,,699
+793,tensorflow,jsimsa,Jiri Simsa,"California, USA",,https://github.com/jsimsa,"Google, Inc.",668
+794,tensorflow,ebrevdo,,,,https://github.com/ebrevdo,@google ,635
+795,tensorflow,alextp,Alexandre Passos,"San Francisco, CA",,https://github.com/alextp,Google Brain,628
+796,tensorflow,annarev,Anna Revinskaya,,,https://github.com/annarev,,605
+797,tensorflow,chsigg,Christian Sigg,Zürich,,https://github.com/chsigg,Google,602
+798,tensorflow,MarkDaoust,Mark Daoust,,,https://github.com/MarkDaoust,,584
+799,tensorflow,pifon2a,Alexander Belyaev,Munich,,https://github.com/pifon2a, https://github.com/google,555
+800,tensorflow,andyly,,,,https://github.com/andyly,,518
+801,tensorflow,advaitjain,Advait Jain,,,https://github.com/advaitjain,@google @tensorflow ,508
+802,tensorflow,jurahul,Rahul Joshi,Cupertino,,https://github.com/jurahul,Google,494
+803,tensorflow,karimnosseir,Karim Nosseir,,,https://github.com/karimnosseir,,486
+804,tensorflow,skye,Skye Wanderman-Milne,,,https://github.com/skye,,474
+805,tensorflow,aaudiber,Andrew Audibert,United States,,https://github.com/aaudiber,Tensorflow,473
+806,tensorflow,aaroey,Guangda Lai,,,https://github.com/aaroey,@google ,467
+807,tensorflow,reedwm,Reed,,,https://github.com/reedwm,,460
+808,tensorflow,yangustc07,Yang Chen,"Mountain View, CA",,https://github.com/yangustc07,"Google, Inc.",448
+809,tensorflow,jaingaurav,Gaurav Jain,"Mountain View, CA",,https://github.com/jaingaurav,Google,446
+810,tensorflow,rchao,Rick Chao,,,https://github.com/rchao,,445
+811,tensorflow,deven-amd,Deven Desai,Boxborough - MA,,https://github.com/deven-amd,AMD,438
+812,tensorflow,nouiz,Frédéric Bastien,Montréal,,https://github.com/nouiz,NVIDIA,436
+813,tensorflow,asimshankar,Asim Shankar,,,https://github.com/asimshankar,,436
+814,tensorflow,jdduke,Jared Duke,"Palo Alto, CA",,https://github.com/jdduke,,435
+815,tensorflow,fchollet,François Chollet,,,https://github.com/fchollet,,431
+816,tensorflow,nicolasvasilache,Nicolas Vasilache,NYC,,https://github.com/nicolasvasilache,Google Brain,418
+817,tensorflow,antiagainst,Lei Zhang,Seattle,,https://github.com/antiagainst,@google ,416
+818,tensorflow,rohan100jain,Rohan Jain,Mountain View,,https://github.com/rohan100jain,@google ,399
+819,tensorflow,k-w-w,Katherine Wu,,,https://github.com/k-w-w,,395
+820,tensorflow,abattery,Jae sung Chung,"Seoul, South Korea",,https://github.com/abattery,,393
+821,tensorflow,bhack,,,,https://github.com/bhack,,392
+822,tensorflow,kaixih,Kaixi Hou,Santa Clara,,https://github.com/kaixih,@NVIDIA,385
+823,tensorflow,terryheo,Terry Heo,,,https://github.com/terryheo,Google,379
+824,tensorflow,yunxing,Yunxing Dai,,,https://github.com/yunxing,,377
+825,tensorflow,feihugis,Fei Hu,"California, USA",,https://github.com/feihugis,@Microsoft,375
+826,tensorflow,ilblackdragon,Illia Polosukhin,"San Francisco, CA",,https://github.com/ilblackdragon,NEAR Protocol,374
+827,tensorflow,majnemer,David Majnemer,,,https://github.com/majnemer,@google,373
+828,tensorflow,liufengdb,Feng Liu,Mountain View,,https://github.com/liufengdb,Google Inc.,371
+829,tensorflow,petewarden,Pete Warden,"San Francisco, CA",petewarden,https://github.com/petewarden,Google,365
+830,tensorflow,edloper,,,,https://github.com/edloper,,359
+831,tensorflow,jblespiau,Jean-Baptiste Lespiau,,,https://github.com/jblespiau,,359
+832,tensorflow,lrdxgm,Robert David,Mountain View,,https://github.com/lrdxgm,@google ,350
+833,tensorflow,trevor-m,Trevor Morris,"Irvine, Californa",,https://github.com/trevor-m,@NVIDIA,349
+834,tensorflow,sherhut,Stephan Herhut,"North Rhine-Westphalia, Germany",,https://github.com/sherhut,,343
+835,tensorflow,timshen91,Tim Shen,Mountain View,,https://github.com/timshen91,,336
+836,tensorflow,fergushenderson,Fergus Henderson,London,,https://github.com/fergushenderson,Google,330
+837,tensorflow,renjie-liu,,,,https://github.com/renjie-liu,,330
+838,tensorflow,bixia1,Bixia Zheng,California,,https://github.com/bixia1,Google,325
+839,tensorflow,pavithrasv,Pavithra Vijay,,,https://github.com/pavithrasv,,324
+840,tensorflow,crccw,Ran Chen,,,https://github.com/crccw,,324
+841,tensorflow,faizan-m,Faizan Muhammad,,,https://github.com/faizan-m,Google,322
+842,tensorflow,saxenasaurabh,Saurabh Saxena,"Mountain View, CA",,https://github.com/saxenasaurabh,@google ,322
+843,tensorflow,ukoxyz,Yuanzhong Xu,"Mountain View, CA",,https://github.com/ukoxyz,Google,322
+844,tensorflow,tpopp,Tres,"Munich, Germany",,https://github.com/tpopp,,318
+845,tensorflow,ftynse,"Oleksandr ""Alex"" Zinenko","Paris, France",,https://github.com/ftynse,@google ,317
+846,tensorflow,angerson,Austin Anderson,,,https://github.com/angerson,@google,311
+847,tensorflow,yuefengz,Yuefeng Zhou,"Mountain View, CA",,https://github.com/yuefengz,Google,309
+848,tensorflow,cky9301,Kuangyuan Chen,,,https://github.com/cky9301,,308
+849,tensorflow,kenfranko,,,,https://github.com/kenfranko,,306
+850,tensorflow,thaink,Thai Nguyen,"Seoul, Korea",,https://github.com/thaink,@Google,304
+851,tensorflow,terrytangyuan,Yuan Tang,"West Lafayette, IN, USA",TerryTangYuan,https://github.com/terrytangyuan,@akuity,304
+852,tensorflow,multiverse-tf,Chao Mei,"Beijing, CN",,https://github.com/multiverse-tf,,297
+853,tensorflow,tanzhenyu,,,,https://github.com/tanzhenyu,,297
+854,tensorflow,miaout17,Yu-Cheng Ling,,,https://github.com/miaout17,,294
+855,tensorflow,haozha111,Haoliang Zhang,Mountain View,,https://github.com/haozha111,Google,285
+856,tensorflow,kvignesh1420,Vignesh Kothapalli,New York,kvignesh1420,https://github.com/kvignesh1420,NYU Courant,280
+857,tensorflow,frgossen,,New York,,https://github.com/frgossen,,277
+858,tensorflow,rjpower,Russell Power,Seattle,,https://github.com/rjpower,,273
+859,tensorflow,blakehechtman,,,,https://github.com/blakehechtman,,271
+860,tensorflow,aselle,Andrew Selle,"Mountain View, CA, USA",,https://github.com/aselle,Google,271
+861,tensorflow,bmzhao,Brian Zhao,United States,,https://github.com/bmzhao,Google,269
+862,tensorflow,jianlijianli,,,,https://github.com/jianlijianli,,267
+863,tensorflow,yashk2810,Yash Katariya,"Raleigh, NC",,https://github.com/yashk2810,@Google,262
+864,tensorflow,facaiy,Yan Facai (颜发才),"Beijing, China.",,https://github.com/facaiy,,261
+865,tensorflow,andrewharp,Andrew Harp,"New York, NY",,https://github.com/andrewharp,Google,259
+866,tensorflow,vnghia,Van Nghia,,,https://github.com/vnghia,,252
+867,tensorflow,jbaiocchi,Jose Baiocchi,,,https://github.com/jbaiocchi,Google,250
+868,tensorflow,teijeong,Taehee Jeong,"Seoul, Korea",,https://github.com/teijeong,Google,242
+869,tensorflow,berkinilbeyi,Berkin Ilbeyi,United States,,https://github.com/berkinilbeyi,Cornell University,240
+870,tensorflow,frreiss,Fred Reiss,"San Francisco, CA",,https://github.com/frreiss,IBM Center for Open-Source Data and AI Technologies (CODAIT),236
+871,tensorflow,haoyuz,Haoyu Zhang,"Mountain View, CA",,https://github.com/haoyuz,@google ,233
+872,tensorflow,rxsang,rxsang,,,https://github.com/rxsang,,233
+873,tensorflow,cantonios,C. Antonio Sánchez,"Seattle, WA",,https://github.com/cantonios,Google,231
+874,tensorflow,benbarsdell,Ben Barsdell,"Melbourne, Australia",,https://github.com/benbarsdell,,231
+875,tensorflow,jreiffers,Johannes Reifferscheid,"Munich, Germany",,https://github.com/jreiffers,,228
+876,tensorflow,omalleyt12,,,,https://github.com/omalleyt12,,221
+877,tensorflow,qqfish,Xiao Yu,Bay Area,,https://github.com/qqfish,@google ,219
+878,tensorflow,BrianWieder,Brian Wieder,,,https://github.com/BrianWieder,,212
+879,tensorflow,ispirmustafa,,,,https://github.com/ispirmustafa,,211
+880,tensorflow,mahmoud-abuzaina,Mahmoud Abuzaina,"Chandler, AZ",,https://github.com/mahmoud-abuzaina,@Intel-tensorflow,210
+881,tensorflow,nairb774,Brian Atkinson,"San Jose, CA, USA",,https://github.com/nairb774,,207
+882,tensorflow,Maratyszcza,Marat Dukhan,"Silicon Valley, CA",,https://github.com/Maratyszcza,@google,207
+883,tensorflow,wwwind,Elena Zhelezina,,,https://github.com/wwwind,ARM,202
+884,tensorflow,bjacob,,,,https://github.com/bjacob,,201
+885,tensorflow,lattner,Chris Lattner,"Bay Area, California, USA",clattner_llvm,https://github.com/lattner,,198
+886,tensorflow,chr1sj0nes,Chris Jones,"London, UK",,https://github.com/chr1sj0nes,DeepMind (@deepmind),195
+887,tensorflow,srjoglekar246,Sachin Joglekar,"Mountain View, CA",,https://github.com/srjoglekar246,@google,192
+888,tensorflow,SamuelMarks,Samuel Marks,,,https://github.com/SamuelMarks,@offscale,192
+889,tensorflow,tfeher,Tamas Bela Feher,"Munich, Germany",,https://github.com/tfeher,NVIDIA,190
+890,tensorflow,iganichev,Igor Ganichev,"Mountain View, CA",,https://github.com/iganichev,@Google,189
+891,tensorflow,jart,Justine Tunney,,,https://github.com/jart,,189
+892,tensorflow,superbobry,Sergei Lebedev,"London, UK",,https://github.com/superbobry,Software Engineer at @deepmind,188
+893,tensorflow,freedomtan,"""freedom"" Koan-Sin Tan","Hsinchu, Taiwan",,https://github.com/freedomtan,,188
+894,tensorflow,mpcallanan,Matt Callanan,,,https://github.com/mpcallanan,,185
+895,tensorflow,dsmilkov,Daniel Smilkov,"Boston, MA",,https://github.com/dsmilkov,Google,185
+896,tensorflow,hyeygit,,,,https://github.com/hyeygit,,183
+897,tensorflow,sun51,,,,https://github.com/sun51,,179
+898,tensorflow,dubey,Ayush Dubey,,,https://github.com/dubey,,177
+899,tensorflow,lamberta,Billy Lamberta,,,https://github.com/lamberta,,177
+900,tensorflow,jam14j,Juan Martinez,,,https://github.com/jam14j,,176
+901,tensorflow,lgeiger,Lukas Geiger,London,_lgeiger,https://github.com/lgeiger,@plumerai @larq ,175
+902,tensorflow,meheffernan,,,,https://github.com/meheffernan,,175
+903,tensorflow,hanbinyoon,HanBin Yoon,,,https://github.com/hanbinyoon,Google,174
+904,tensorflow,wangpengmit,Peng Wang,"Boston, Massachusetts",,https://github.com/wangpengmit,MIT CSAIL,174
+905,tensorflow,gmagogsfm,,,,https://github.com/gmagogsfm,,174
+906,tensorflow,gzmkl,Guozhong Zhuang,,,https://github.com/gzmkl,,172
+907,tensorflow,fionalang,,,,https://github.com/fionalang,,171
+908,tensorflow,ddunl,David,Sunnyvale,,https://github.com/ddunl,Google,169
+909,tensorflow,chuanhaozhuge,Chuanhao Zhuge,,,https://github.com/chuanhaozhuge,@google,168
+910,tensorflow,mgester,,,,https://github.com/mgester,,168
+911,tensorflow,saeta,Brennan Saeta,,bsaeta,https://github.com/saeta,Google,166
+912,tensorflow,girving,Geoffrey Irving,London,geoffreyirving,https://github.com/girving,,163
+913,tensorflow,langmore,Ian Langmore,New York City,,https://github.com/langmore,Google,163
+914,tensorflow,decentralion,Dandelion Mané,Seattle,,https://github.com/decentralion,,162
+915,tensorflow,samikama,Sami Kama,,,https://github.com/samikama,@AWS,159
+916,tensorflow,burmako,Eugene Burmako,"Seattle, WA",,https://github.com/burmako,Google,157
+917,tensorflow,tg-at-google,,,,https://github.com/tg-at-google,,157
+918,tensorflow,MeghnaNatraj,Meghna Natraj,"Mountain View, California",,https://github.com/MeghnaNatraj,@Google,156
+919,tensorflow,Kariddi,Marcello Maggioni,,,https://github.com/Kariddi,,152
+920,tensorflow,dansuh17,Dan Suh,"Seoul, South Korea",,https://github.com/dansuh17,@google,151
+921,tensorflow,penpornk,Penporn Koanantakool,,,https://github.com/penpornk,,151
+922,tensorflow,JXRiver,Jun Xu,,,https://github.com/JXRiver,,149
+923,tensorflow,jray319,Jiho Choi,,,https://github.com/jray319,,148
+924,tensorflow,sergachev,Ilia Sergachev,Zurich,,https://github.com/sergachev,Google,147
+925,tensorflow,dnguyen28061,Daniel Nguyen,,,https://github.com/dnguyen28061,,146
+926,tensorflow,Tessil,Thibaut Goetghebuer-Planchon,"Cambridge, UK - Brussels, Belgium",,https://github.com/Tessil,@ARM-software,146
+927,tensorflow,jayxiaojieshi,Jay Xiaojie SHI,Mountain View,,https://github.com/jayxiaojieshi,Google,145
+928,tensorflow,jvdillon,Joshua V. Dillon,"Mountain View, CA",,https://github.com/jvdillon,@google ,145
+929,tensorflow,er91,er91,,,https://github.com/er91,,145
+930,tensorflow,trentlo,Trent Lo,"Santa Clara, CA",,https://github.com/trentlo,NVIDIA,145
+931,tensorflow,kkimdev,Kibeom Kim,,,https://github.com/kkimdev,,145
+932,tensorflow,zhangyujing,,,,https://github.com/zhangyujing,,144
+933,tensorflow,rsuderman,Rob Suderman,,,https://github.com/rsuderman,@google ,143
+934,tensorflow,WindQAQ,Tzu-Wei Sung,"Sunnyvale, CA",,https://github.com/WindQAQ,@googlers ,142
+935,tensorflow,GMNGeoffrey,Geoffrey Martin-Noble,Seattle,,https://github.com/GMNGeoffrey,Google,141
+936,tensorflow,yhliang2018,Yanhui Liang,,,https://github.com/yhliang2018,@tensorflow ,141
+937,tensorflow,siju-samuel,Siju Samuel,Bangalore,sijusamuels,https://github.com/siju-samuel,"Habana Labs, Intel",141
+938,tensorflow,anlunx,Anlun Xu,"Mountain View, CA",,https://github.com/anlunx,Google,140
+939,tensorflow,bfontain,Bruce Fontaine,Mountain View,,https://github.com/bfontain,Google Inc,140
+940,tensorflow,guptapriya,,,,https://github.com/guptapriya,,139
+941,tensorflow,wilsingosti,,,,https://github.com/wilsingosti,,138
+942,tensorflow,cota,Emilio Cota,New York City,,https://github.com/cota,,135
+943,tensorflow,sagunb,Sagun B,,,https://github.com/sagunb,,134
+944,tensorflow,tomhennigan,Tom Hennigan,"London, UK",,https://github.com/tomhennigan,@DeepMind,133
+945,tensorflow,sirakiin,Weiyi Wang,,,https://github.com/sirakiin,Google,133
+946,tensorflow,pschuh,Parker Schuh,,,https://github.com/pschuh,,132
+947,tensorflow,pak-laura,,,,https://github.com/pak-laura,,131
+948,tensorflow,mansnils,Måns Nilsson,,,https://github.com/mansnils,,131
+949,tensorflow,agramesh1,AG Ramesh,"Chandler, AZ",,https://github.com/agramesh1,Intel,131
+950,tensorflow,isaprykin,Igor,"San Francisco, CA",,https://github.com/isaprykin,,128
+951,tensorflow,rdzhabarov,Roman Dzhabarov,,,https://github.com/rdzhabarov,,127
+952,tensorflow,wangtz,Tiezhen WANG,,,https://github.com/wangtz,,127
+953,tensorflow,shashishekhar,Shashi,,,https://github.com/shashishekhar,,125
+954,tensorflow,shivaniag,,Mountain View,,https://github.com/shivaniag,Google,124
+955,tensorflow,rryan,RJ Skerry-Ryan,"Mountain View, CA",,https://github.com/rryan,,124
+956,tensorflow,josh11b,,,,https://github.com/josh11b,,123
+957,tensorflow,impjdi,,,,https://github.com/impjdi,,123
+958,tensorflow,nluehr,Nathan Luehr,"Santa Clara, CA",,https://github.com/nluehr,NVIDIA,123
+959,tensorflow,keveman,Manjunath Kudlur,,,https://github.com/keveman,,122
+960,tensorflow,nammbash,Niroop Ammbashankar,,,https://github.com/nammbash,,122
+961,tensorflow,PatriceVignola,Patrice Vignola,"Seattle, WA",,https://github.com/PatriceVignola,@Microsoft,120
+962,tensorflow,w-xinyi,,,,https://github.com/w-xinyi,,119
+963,tensorflow,akshayka,Akshay Agrawal,,,https://github.com/akshayka,@cvxgrp @cvxpy,117
+964,tensorflow,alankelly,,,,https://github.com/alankelly,,117
+965,tensorflow,meteorcloudy,Yun Peng,Munich,,https://github.com/meteorcloudy,Google,117
+966,tensorflow,nhasabni,Niranjan Hasabnis,Santa Clara,,https://github.com/nhasabni,@Intel-Corporation,116
+967,tensorflow,mdfaijul,Faijul Amin,"Chandler, AZ, USA",,https://github.com/mdfaijul,Intel Corporation,116
+968,tensorflow,yair-ehrenwald,yair_ehrenwald,,,https://github.com/yair-ehrenwald,,116
+969,tensorflow,whchung,Wen-Heng (Jack) Chung,"Austin, TX, USA",,https://github.com/whchung,"@RadeonOpenCompute, AMD",115
+970,tensorflow,yuanbyu,Yuan Yu,Cupertino,,https://github.com/yuanbyu,Microsoft,115
+971,tensorflow,olegshyshkov,Oleg Shyshkov,Munich,,https://github.com/olegshyshkov,Google,112
+972,tensorflow,henrytansetiawan,henrytan,,,https://github.com/henrytansetiawan,@tensorflow @google-brain-team,111
+973,tensorflow,mkuperst,Michael Kuperstein,,,https://github.com/mkuperst,Google,111
+974,tensorflow,talumbau,T.J. Alumbaugh,"Mountain View, CA",,https://github.com/talumbau,Google,109
+975,tensorflow,kushanam,,,,https://github.com/kushanam,,109
+976,tensorflow,kttian,Katherine Tian,"Bay Area, CA",kattian_,https://github.com/kttian,,108
+977,tensorflow,ckkuang,Chenkai Kuang,"Mountain View, CA",,https://github.com/ckkuang,,107
+978,tensorflow,dimvar,Dimitris Vardoulakis,,,https://github.com/dimvar,Google,107
+979,tensorflow,liyunlu0618,,,,https://github.com/liyunlu0618,,107
+980,tensorflow,mikedelorimier,Michael Delorimier,San Francisco,,https://github.com/mikedelorimier,Google,106
+981,tensorflow,jalexstark,Alex Stark,"Los Angeles, CA",,https://github.com/jalexstark,,105
+982,tensorflow,ishark,Isha Arkatkar,,,https://github.com/ishark,,105
+983,tensorflow,thomasjoerg,Thomas Joerg,"Munich, Germany",,https://github.com/thomasjoerg,Google,104
+984,tensorflow,atondwal,Anish Tondwalkar,,,https://github.com/atondwal,Google,103
+985,tensorflow,itsmeolivia,Olivia,NYC,,https://github.com/itsmeolivia,,103
+986,tensorflow,rmlarsen,Rasmus Munk Larsen,San Francisco Bay Area,,https://github.com/rmlarsen,Google,102
+987,tensorflow,wenxizhu,wenxizhu,,,https://github.com/wenxizhu,,100
+988,tensorflow,SeeForTwo,Edward Schwartz,,,https://github.com/SeeForTwo,,99
+989,tensorflow,bhavani-subramanian,Bhavani Subramanian,"Hillsboro, Oregon",,https://github.com/bhavani-subramanian,Intel Corporation,99
+990,tensorflow,silvasean,Sean Silva,"SF Bay Area, USA",,https://github.com/silvasean,Google,98
+991,tensorflow,matthiaskramm,Matthias Kramm,,,https://github.com/matthiaskramm,,97
+992,tensorflow,zhangqiaorjc,Qiao Zhang,"Mountain View, CA",zhangqiaorjc,https://github.com/zhangqiaorjc,Google,96
+993,tensorflow,wenscarl,,,,https://github.com/wenscarl,,96
+994,tensorflow,AspirinSJL,Juanli Shen,Sunnyvale CA,,https://github.com/AspirinSJL,Google,95
+995,tensorflow,sukritiramesh,Sukriti Ramesh,"Mountain View, CA",,https://github.com/sukritiramesh,"Google, Inc.",94
+996,tensorflow,cezheng,Ce Zheng,"Sunnyvale, California",AdamoCheng,https://github.com/cezheng,,93
+997,tensorflow,kayzhu,Kay Zhu,California || Canada,,https://github.com/kayzhu,,93
+998,tensorflow,ManHyuk,ManHyuk,,,https://github.com/ManHyuk,@naver,93
+999,tensorflow,wujingyue,,,,https://github.com/wujingyue,,92
+1000,tensorflow,changm,Mason Chang,,,https://github.com/changm,,92
+1001,tensorflow,philipphack,Philipp Hack,"Santa Clara, CA",,https://github.com/philipphack,NVIDIA Corporation,91
+1002,tensorflow,zheng-xq,Xiaoqiang Zheng,,,https://github.com/zheng-xq,Facebook,91
+1003,tensorflow,trisolaran,Jie Sun,,,https://github.com/trisolaran,,90
+1004,tensorflow,duncanriach,Duncan Riach,"Santa Clara, CA, USA",,https://github.com/duncanriach,NVIDIA,89
+1005,tensorflow,jyingl3,,,,https://github.com/jyingl3,,89
+1006,tensorflow,mattn,mattn,"Osaka, Japan",mattn_jp,https://github.com/mattn,,89
+1007,tensorflow,Terranlee,Tianrun Li,"Madison, WI, USA",,https://github.com/Terranlee,University of Wisconsin Madison,88
+1008,tensorflow,yishuangP,,,,https://github.com/yishuangP,,88
+1009,tensorflow,pkanwar23,,,,https://github.com/pkanwar23,,87
+1010,tensorflow,daverim,,Seoul,,https://github.com/daverim,Google,86
+1011,tensorflow,claynerobison,Clayne Robison,"Phoenix, Arizona, USA",,https://github.com/claynerobison,@https://github.com/IntelAI,85
+1012,tensorflow,xingyu-long,Xingyu Long,"Palo Alto, California ",,https://github.com/xingyu-long,,84
+1013,tensorflow,Srini511,,,,https://github.com/Srini511,,84
+1014,tensorflow,elfringham,Andrew Goodbody,,,https://github.com/elfringham,@Linaro,83
+1015,tensorflow,mattdangerw,Matt Watson,San Francisco,,https://github.com/mattdangerw,Google,81
+1016,tensorflow,davidsoergel,David Soergel,,,https://github.com/davidsoergel,,80
+1017,tensorflow,hyouklee,HyoukJoong Lee,,,https://github.com/hyouklee,,80
+1018,tensorflow,fdxmw,Jeremy Lau,,,https://github.com/fdxmw,,80
+1019,tensorflow,yisitu,Situ Yi,"Mountain View, CA",,https://github.com/yisitu,Google,80
+1020,tensorflow,changhuilin,Changhui Lin,"Sunnyvale, CA",,https://github.com/changhuilin,@Google,79
+1021,tensorflow,MaheshRavishankar,,"Seattle, WA",,https://github.com/MaheshRavishankar,Google,79
+1022,tensorflow,nfelt,Nick Felt,"Stanford, California",,https://github.com/nfelt,Google,79
+1023,tensorflow,lu-wang-g,,,,https://github.com/lu-wang-g,,78
+1024,tensorflow,vincentvanhoucke,Vincent Vanhoucke,San Francisco,,https://github.com/vincentvanhoucke,Google,78
+1025,tensorflow,brianwa84,Brian Patton,"Cambridge, MA",,https://github.com/brianwa84,Google / AI Perception,77
+1026,tensorflow,cdleary,Chris Leary,,cdleary,https://github.com/cdleary,,77
+1027,tensorflow,gharibian,Dero Gharibian,Menlo Park,,https://github.com/gharibian,Google,77
+1028,tensorflow,jtkeeling,James Keeling,,,https://github.com/jtkeeling,,77
+1029,tensorflow,protoget,Appledore,Mountain View,,https://github.com/protoget,,76
+1030,tensorflow,sguada,Sergio Guadarrama,United States,,https://github.com/sguada,Google,76
+1031,tensorflow,sngyhan,Songyi Han,,,https://github.com/sngyhan,,76
+1032,tensorflow,yyoon,YoungSeok Yoon,"Seoul, Korea",,https://github.com/yyoon,Google,76
+1033,tensorflow,jingpu,Jing Pu,"Mountain View, California",,https://github.com/jingpu,@google ,75
+1034,tensorflow,ashahba,Abolfazl Shahbazi,"Portland, OR",,https://github.com/ashahba,Intel,74
+1035,tensorflow,jenselofsson,Jens Elofsson,,,https://github.com/jenselofsson,@arm-software,74
+1036,tensorflow,jerryyin,Zhuoran Yin,,,https://github.com/jerryyin,@ROCmsoftwarePlatform,74
+1037,tensorflow,sjamesr,James Ring,,,https://github.com/sjamesr,,73
+1038,tensorflow,jhseu,Jonathan Hseu,"San Francisco, CA",,https://github.com/jhseu,,73
+1039,tensorflow,aartbik,Aart Bik,Mountain View,AartBik,https://github.com/aartbik,Google,72
+1040,tensorflow,chenmoneygithub,Chen Qian,Mountain View,,https://github.com/chenmoneygithub,,72
+1041,tensorflow,ChiaHungDuan,,,,https://github.com/ChiaHungDuan,,71
+1042,tensorflow,guizili0,"Li, Guizi",,,https://github.com/guizili0,Intel,71
+1043,tensorflow,rsun-bdti,,,,https://github.com/rsun-bdti,,71
+1044,tensorflow,jzhoulon,Zhoulong Jiang,,,https://github.com/jzhoulon,,71
+1045,tensorflow,eliben,Eli Bendersky,California,,https://github.com/eliben,@google ,70
+1046,tensorflow,ashutosh1919,Ashutosh Hathidara,"San Francisco, CA, USA",ashutosh_1919,https://github.com/ashutosh1919,@bytedance,69
+1047,tensorflow,cliveverghese,Clive Verghese,,,https://github.com/cliveverghese,,69
+1048,tensorflow,nitins17,Nitin Srinivasan,,,https://github.com/nitins17,@google,69
+1049,tensorflow,AyanmoI,Ayan Moitra,"Santa Clara, CA",,https://github.com/AyanmoI,@nvidia,69
+1050,tensorflow,tatatodd,Todd Wang,,,https://github.com/tatatodd,,68
+1051,tensorflow,ddavis-2015,David Davis,,,https://github.com/ddavis-2015,,68
+1052,tensorflow,kun-lu20,Kun Lu,"8200 Warden Ave, Unionville, ON L6G 1C7",,https://github.com/kun-lu20,IBM,68
+1053,tensorflow,karllessard,Karl Lessard,,,https://github.com/karllessard,,67
+1054,tensorflow,gflegar,Goran Flegar,Munich,,https://github.com/gflegar,Google,66
+1055,tensorflow,perfinion,Jason Zaman,Redwood City,,https://github.com/perfinion,,66
+1056,tensorflow,njeffrie,Nat Jeffries,United States,,https://github.com/njeffrie,Google,65
+1057,tensorflow,patriklaurell,Patrik Laurell,Sweden,,https://github.com/patriklaurell,,65
+1058,tensorflow,azazhu,Feiwen,,,https://github.com/azazhu,,65
+1059,tensorflow,jjsjann123,,,,https://github.com/jjsjann123,,65
+1060,tensorflow,srvasude,Srinivas Vasudevan,,,https://github.com/srvasude,@google,64
+1061,tensorflow,Artem-B,Artem Belevich,,,https://github.com/Artem-B,,63
+1062,tensorflow,ashwinmurthy,Ashwin Murthy,,,https://github.com/ashwinmurthy,,63
+1063,tensorflow,rongjiecomputer,Loo Rong Jie,,,https://github.com/rongjiecomputer,,63
+1064,tensorflow,lucarfox,Luca,,luca__fox,https://github.com/lucarfox,@google ,63
+1065,tensorflow,swachhandl,Swachhand Lokhande,San Francisco,,https://github.com/swachhandl,Google,63
+1066,tensorflow,zhuzilin,Zilin Zhu,Beijing,,https://github.com/zhuzilin,tencent,63
+1067,tensorflow,bloops,Anudhyan Boral,,,https://github.com/bloops,,62
+1068,tensorflow,hanhanW,Han-Chung Wang,"Seattle, WA",,https://github.com/hanhanW,Google,60
+1069,tensorflow,MattConley,,,,https://github.com/MattConley,,60
+1070,tensorflow,gribozavr,Dmitri Gribenko,,,https://github.com/gribozavr,,59
+1071,tensorflow,galarragas,Stefano Galarraga,London,,https://github.com/galarragas,PragmaSoft Ltd,59
+1072,tensorflow,bondhugula,Uday Bondhugula,"Bangalore, India",,https://github.com/bondhugula,Indian Institute of Science and PolyMage Labs,59
+1073,tensorflow,drpngx,Patrick Nguyen,,,https://github.com/drpngx,,59
+1074,tensorflow,imsheridan,deepdeliever,Beijing,,https://github.com/imsheridan,,59
+1075,tensorflow,rsanthanam-amd,,,,https://github.com/rsanthanam-amd,,58
+1076,tensorflow,vufg,,,,https://github.com/vufg,,58
+1077,tensorflow,dlibenzi,Davide Libenzi,,,https://github.com/dlibenzi,Google,57
+1078,tensorflow,michaelbanfield,Michael Banfield,Seattle,,https://github.com/michaelbanfield,Google,57
+1079,tensorflow,sdasgup3,Sandeep Dasgupta,California,,https://github.com/sdasgup3,Google Inc.,56
+1080,tensorflow,cuixiaom,Xiaoming (Jason) Cui,Santa Clara,,https://github.com/cuixiaom,Intel,56
+1081,tensorflow,itaiz-google,,,,https://github.com/itaiz-google,,55
+1082,tensorflow,khanhlvg,Khanh,"California, United States",khanhlvg,https://github.com/khanhlvg,@google ,55
+1083,tensorflow,rohitju,,,,https://github.com/rohitju,,55
+1084,tensorflow,tamaranorman,,,,https://github.com/tamaranorman,,55
+1085,tensorflow,jiawenhao,Wenhao Jia,,,https://github.com/jiawenhao,,55
+1086,tensorflow,rainwoodman,Yu Feng,Berkeley,,https://github.com/rainwoodman,Loon R&D,55
+1087,tensorflow,grantjensen,,,,https://github.com/grantjensen,,54
+1088,tensorflow,jonas-eschle,Jonas Eschle,"Geneva, Switzerland",,https://github.com/jonas-eschle,CERN,54
+1089,tensorflow,LukeBoyer,Luke Boyer,Bay Area,,https://github.com/LukeBoyer,@google,54
+1090,tensorflow,gnecula,George Necula,Switzerland,,https://github.com/gnecula,Google,53
+1091,tensorflow,minglotus-6,Mingming Liu,,,https://github.com/minglotus-6,,53
+1092,tensorflow,SandSnip3r,Victor Stone,,,https://github.com/SandSnip3r,,53
+1093,tensorflow,ashraf-bhuiyan,Mohammad Ashraf Bhuiyan,"Hillsboro, Oregon",,https://github.com/ashraf-bhuiyan,Intel Corporation,53
+1094,tensorflow,mhong,Mingsheng Hong,,,https://github.com/mhong,,52
+1095,tensorflow,tyb0807,,,,https://github.com/tyb0807,,52
+1096,tensorflow,tayo,Tayo Oguntebi,,,https://github.com/tayo,@google,52
+1097,tensorflow,zhouxin913,Xin Zhou,,,https://github.com/zhouxin913,Google,52
+1098,tensorflow,jonathanchu33,,,,https://github.com/jonathanchu33,,51
+1099,tensorflow,tatianashp,Tatiana Shpeisman,,,https://github.com/tatianashp,ModularAI,51
+1100,tensorflow,agrue,Aden Grue,,,https://github.com/agrue,,50
+1101,tensorflow,gaurides,,,,https://github.com/gaurides,,50
+1102,tensorflow,jendap,Jan Prach,,,https://github.com/jendap,,50
+1103,tensorflow,Tongfei-Guo,,,,https://github.com/Tongfei-Guo,,50
+1104,tensorflow,georgepaw,Grzegorz George Pawelczak,"London, United Kingdom",,https://github.com/georgepaw,@Apple,50
+1105,tensorflow,BlaziusMaximus,Adam Cogdell,,,https://github.com/BlaziusMaximus,,49
+1106,tensorflow,ekuznetsov139,,San Diego,,https://github.com/ekuznetsov139,,49
+1107,tensorflow,jsmeredith,Jeremy Meredith,"Boulder, CO",,https://github.com/jsmeredith,Google,48
+1108,tensorflow,sergeykozub,,,,https://github.com/sergeykozub,,48
+1109,tensorflow,sherrym,Sherry Moore,,,https://github.com/sherrym,,48
+1110,tensorflow,vinuraja,Vinu Rajashekhar,"Mountain View, California",,https://github.com/vinuraja,Google,48
+1111,tensorflow,ccrusius,Cesar Crusius,United States,,https://github.com/ccrusius,,47
+1112,tensorflow,lindong28,Dong Lin,,,https://github.com/lindong28,@alibaba,47
+1113,tensorflow,rahul003,Rahul Huilgol,"Palo Alto, CA",,https://github.com/rahul003,Amazon Web Services,47
+1114,tensorflow,jvishnuvardhan,Vishnuvardhan Janapati,"Palo Alto, CA, USA",,https://github.com/jvishnuvardhan,,47
+1115,tensorflow,vbardiovskyg,Vojtech Bardiovsky,Zürich,,https://github.com/vbardiovskyg,Google,47
+1116,tensorflow,concretevitamin,Zongheng Yang,"Berkeley, CA",zongheng_yang,https://github.com/concretevitamin,UC Berkeley,47
+1117,tensorflow,rahul-kamat,Rahul Kamat,"New York, New York",,https://github.com/rahul-kamat,@google,47
+1118,tensorflow,bchetioui,Benjamin Chetioui,"Oslo, Norway",_SIben_,https://github.com/bchetioui,Google,46
+1119,tensorflow,ghpvnist,Gunhyun Park,,,https://github.com/ghpvnist,Google,46
+1120,tensorflow,samatbryan,samatbryan,UC Berkeley,,https://github.com/samatbryan,Google,46
+1121,tensorflow,poulsbo,Alan Liu,"Mountain View, CA",,https://github.com/poulsbo,@google ,45
+1122,tensorflow,dellis23,Daniel Ellis,,,https://github.com/dellis23,Google,45
+1123,tensorflow,toponado-zz,Youlong Cheng,,,https://github.com/toponado-zz,@Google,45
+1124,tensorflow,ngzhian,Ng Zhi An,Singapore,,https://github.com/ngzhian,,45
+1125,tensorflow,geetachavan1,,,,https://github.com/geetachavan1,,44
+1126,tensorflow,hehhjiang,,,,https://github.com/hehhjiang,,44
+1127,tensorflow,jakeharmon8,,,,https://github.com/jakeharmon8,,44
+1128,tensorflow,RenatoUtsch,Renato Utsch,Brazil,,https://github.com/RenatoUtsch,,44
+1129,tensorflow,adriangb,Adrian Garcia Badaracco,,,https://github.com/adriangb,,43
+1130,tensorflow,rinugun,Aleksey Surkov,"Kirkland, WA",,https://github.com/rinugun,,43
+1131,tensorflow,doehyun,,,,https://github.com/doehyun,,43
+1132,tensorflow,slackito,Jorge Gorbe Moya,,,https://github.com/slackito,,43
+1133,tensorflow,kmh4321,Karthik Muthuraman,San Francisco,kmh4321,https://github.com/kmh4321,Currently ML @Facebook Prev:@CODAIT,43
+1134,tensorflow,wdirons,William D. Irons,"Rochester, MN",,https://github.com/wdirons,IBM,43
+1135,tensorflow,alanyee,Alan Yee,United States,,https://github.com/alanyee,,42
+1136,tensorflow,ashishenoyp,ashish shenoy,"Sunnyvale, CA",,https://github.com/ashishenoyp,,42
+1137,tensorflow,voutcn,Dinghua Li,,,https://github.com/voutcn,,42
+1138,tensorflow,petebu,Peter Buchlovsky,"London, UK",,https://github.com/petebu,@google @deepmind,42
+1139,tensorflow,tlongeri,Tomás Longeri,,,https://github.com/tlongeri,,42
+1140,tensorflow,rthadur,RajeshT,San Francisco,,https://github.com/rthadur,@tensorflow @google,42
+1141,tensorflow,Flamefire,Alexander Grund,Dresden,,https://github.com/Flamefire,,41
+1142,tensorflow,DavidNorman,David Norman,Bristol,,https://github.com/DavidNorman,Graphcore,41
+1143,tensorflow,dzakhar,Dmitry Zakharov,"Saint Petersburg, Russia",,https://github.com/dzakhar,,41
+1144,tensorflow,kiszk,Kazuaki Ishizaki,"Tokyo, Japan",kiszk,https://github.com/kiszk,IBM Research - Tokyo,40
+1145,tensorflow,nealwu,Neal Wu,"Palo Alto, CA",WuNeal,https://github.com/nealwu,@tensorflow ,40
+1146,tensorflow,rkuester,Ryan Kuester,Chicago,,https://github.com/rkuester,,40
+1147,tensorflow,lc0,Sergii Khomenko,Munich,lc0d3r,https://github.com/lc0,,40
+1148,tensorflow,xunkai55,Xunkai,"Beijing, China",,https://github.com/xunkai55,@google,40
+1149,tensorflow,ZacharyGarrett,Zachary Garrett,Seattle,,https://github.com/ZacharyGarrett,@google ,40
+1150,tensorflow,joel-shor,Joel Shor,,,https://github.com/joel-shor,@google @verily-src ,40
+1151,tensorflow,JunyoungLim,Jared Junyoung Lim,"Mountain View, CA",,https://github.com/JunyoungLim,,39
+1152,tensorflow,yacoder,Max Galkin,New York,,https://github.com/yacoder,Google,39
+1153,tensorflow,tfboyd,Toby Boyd,"Columbus, OH",,https://github.com/tfboyd,@tensorflow ,39
+1154,tensorflow,xinan-jiang,Xinan Jiang(姜曦楠),China,,https://github.com/xinan-jiang,Tencent,39
+1155,tensorflow,qukhan,Quentin Khan,Zürich,,https://github.com/qukhan,@google,38
+1156,tensorflow,fayeshine,Wenjian Huang,,,https://github.com/fayeshine,,38
+1157,tensorflow,ppwwyyxx,Yuxin Wu,,,https://github.com/ppwwyyxx,,38
+1158,tensorflow,shashvatshahi1998,Shashvat Chand Shahi,Ranchi,,https://github.com/shashvatshahi1998,Student,38
+1159,tensorflow,glowzbd,bangda,,,https://github.com/glowzbd,,37
+1160,tensorflow,hhb,Haibo Huang,,,https://github.com/hhb,,37
+1161,tensorflow,jeffreyadean,,,,https://github.com/jeffreyadean,,37
+1162,tensorflow,kirilg,Kiril Gorovoy,San Francisco,,https://github.com/kirilg,,37
+1163,tensorflow,Mbah-Javis,Javis,Space,,https://github.com/Mbah-Javis,,37
+1164,tensorflow,AdityaKane2001,Aditya Kane,,adityakane1,https://github.com/AdityaKane2001,,36
+1165,tensorflow,hthu,Haitang,Mountain View,hthu2017,https://github.com/hthu,,36
+1166,tensorflow,lxuechen,Xuechen Li,,lxuechen,https://github.com/lxuechen,Stanford University,36
+1167,tensorflow,zycdragonball,Yuchen Zhang,,,https://github.com/zycdragonball,,36
+1168,tensorflow,SSaishruthi,Saishruthi,,,https://github.com/SSaishruthi,,36
+1169,tensorflow,amitsabne1,,,,https://github.com/amitsabne1,,35
+1170,tensorflow,snnn,Changming Sun,San Francisco Bay Area,,https://github.com/snnn,@Microsoft ,35
+1171,tensorflow,jszaday,Justin Szaday,"Bay Area, CA, USA",,https://github.com/jszaday,Google,35
+1172,tensorflow,tf-marissaw,Marissa Ikonomidis,,,https://github.com/tf-marissaw,,35
+1173,tensorflow,alanchiao,,,,https://github.com/alanchiao,,34
+1174,tensorflow,Molkree,Dmitry Volodin,,,https://github.com/Molkree,,34
+1175,tensorflow,ssjhv,,,,https://github.com/ssjhv,,34
+1176,tensorflow,tdanyluk,,,,https://github.com/tdanyluk,,34
+1177,tensorflow,wchargin,wchargin,Pacific Time (UTC−7/8),,https://github.com/wchargin,,34
+1178,tensorflow,broune,Bjarke Hammersholt Roune,,,https://github.com/broune,,33
+1179,tensorflow,grasskin,Gabriel Rasskin,,GabrielRasskin,https://github.com/grasskin,Tensorflow,33
+1180,tensorflow,around-star,Hiran Sarkar,"Kolkata, India",skillbratz,https://github.com/around-star,,33
+1181,tensorflow,GleasonK,Kevin Gleason,"Boston, MA",,https://github.com/GleasonK,@google,33
+1182,pytorch,ezyang,Edward Z. Yang,"New York, NY",,https://github.com/ezyang,,2565
+1183,pytorch,malfet,Nikita Shulga,California,,https://github.com/malfet,,1503
+1184,pytorch,zou3519,Richard Zou,,,https://github.com/zou3519,,1328
+1185,pytorch,pytorchmergebot,,,,https://github.com/pytorchmergebot,,1178
+1186,pytorch,soumith,Soumith Chintala,"New York, USA",,https://github.com/soumith,Facebook AI Research,1150
+1187,pytorch,jerryzh168,Jerry Zhang,Menlo Park,,https://github.com/jerryzh168,@facebook,1112
+1188,pytorch,gchanan,,,,https://github.com/gchanan,,1084
+1189,pytorch,apaszke,Adam Paszke,"Berlin, Germany",,https://github.com/apaszke,@google,886
+1190,pytorch,suo,Michael Suo,,,https://github.com/suo,,747
+1191,pytorch,zdevito,Zachary DeVito,,,https://github.com/zdevito,,696
+1192,pytorch,peterbell10,,Scotland,,https://github.com/peterbell10,Quansight,686
+1193,pytorch,rohan-varma,Rohan Varma,NYC,rvarm1,https://github.com/rohan-varma,Facebook AI,648
+1194,pytorch,colesbury,Sam Gross,New York,,https://github.com/colesbury,Facebook AI Research,629
+1195,pytorch,Chillee,Horace He,,cHHillee,https://github.com/Chillee,,611
+1196,pytorch,smessmer,Sebastian Meßmer,,,https://github.com/smessmer,,562
+1197,pytorch,albanD,,,,https://github.com/albanD,,502
+1198,pytorch,Yangqing,Yangqing Jia,Berkeley,,https://github.com/Yangqing,,498
+1199,pytorch,kshitij12345,Kshiteej K,India,kshiteej_k,https://github.com/kshitij12345,Quansight,489
+1200,pytorch,vkuzo,Vasiliy Kuznetsov,"New York, NY",,https://github.com/vkuzo,Facebook,472
+1201,pytorch,ssnl,Tongzhou Wang,,TongzhouWang,https://github.com/ssnl,MIT CSAIL. PyTorch core dev.,454
+1202,pytorch,janeyx99,Jane (Yuan) Xu,,,https://github.com/janeyx99,,451
+1203,pytorch,swolchok,Scott Wolchok,Menlo Park,ScottWolchok,https://github.com/swolchok,@facebook ,438
+1204,pytorch,zasdfgbnm,"Gao, Xiang","Santa Clara, CA",,https://github.com/zasdfgbnm,NVIDIA,435
+1205,pytorch,mrshenli,,,,https://github.com/mrshenli,,406
+1206,pytorch,pietern,Pieter Noordhuis,,,https://github.com/pietern,,391
+1207,pytorch,seemethere,Eli Uriegas,California,_seemethere,https://github.com/seemethere,@pytorch,390
+1208,pytorch,wanchaol,Wanchao,,,https://github.com/wanchaol,,389
+1209,pytorch,ngimel,Natalia Gimelshein,,,https://github.com/ngimel,,386
+1210,pytorch,BowenBao,Bowen Bao,,,https://github.com/BowenBao,Microsoft,376
+1211,pytorch,bwasti,Bram Wasti,New York,bwasti,https://github.com/bwasti,@meta,375
+1212,pytorch,houseroad,Lu Fang,,,https://github.com/houseroad,,374
+1213,pytorch,bddppq,bddppq,CA,,https://github.com/bddppq,,366
+1214,pytorch,awgu,Andrew Gu,"New York, NY",,https://github.com/awgu,@pytorch ,337
+1215,pytorch,bdhirsh,Brian Hirsh,,,https://github.com/bdhirsh,,336
+1216,pytorch,yf225,Will Feng,,,https://github.com/yf225,"Meta Platforms, Inc.",329
+1217,pytorch,peterjc123,,"Shanghai, China",,https://github.com/peterjc123,,322
+1218,pytorch,goldsborough,Peter Goldsborough,"Seattle, WA",,https://github.com/goldsborough,Anduril,312
+1219,pytorch,xuhdev,Hong Xu,Greater Seattle Area,xuhdev,https://github.com/xuhdev,@Google,309
+1220,pytorch,onnxbot,onnxbot,,,https://github.com/onnxbot,ONNX,292
+1221,pytorch,huydhn,Huy Do,,,https://github.com/huydhn,,281
+1222,pytorch,r-barnes,Richard Barnes,,,https://github.com/r-barnes,,280
+1223,pytorch,yinghai,Yinghai Lu,"Menlo Park, CA",,https://github.com/yinghai,@facebook ,272
+1224,pytorch,Krovatkin,Nick Korovaiko,"Redwood City, CA",,https://github.com/Krovatkin,Facebook,265
+1225,pytorch,soulitzer,,,,https://github.com/soulitzer,,253
+1226,pytorch,lezcano,Mario Lezcano Casado,,,https://github.com/lezcano,Quansight,245
+1227,pytorch,supriyar,,,,https://github.com/supriyar,@facebook,241
+1228,pytorch,pritamdamania,,,,https://github.com/pritamdamania,,239
+1229,pytorch,anjali411,,,,https://github.com/anjali411,Meta,238
+1230,pytorch,lw,Luca Wehrstedt,Paris,,https://github.com/lw,@facebook,236
+1231,pytorch,IvanYashchuk,Ivan Yashchuk,Finland,IvanYashchuk,https://github.com/IvanYashchuk,@nvidia,235
+1232,pytorch,bertmaher,Bert Maher,,,https://github.com/bertmaher,,218
+1233,pytorch,jspark1105,Jongsoo Park,"Menlo Park, California",,https://github.com/jspark1105,Facebook,217
+1234,pytorch,ilia-cher,,,,https://github.com/ilia-cher,,211
+1235,pytorch,wconstab,Will Constable,,,https://github.com/wconstab,,205
+1236,pytorch,kimishpatel,Kimish Patel,"San Jose, CA",,https://github.com/kimishpatel,,204
+1237,pytorch,killeent,Trevor Killeen,New York,,https://github.com/killeent,,204
+1238,pytorch,XiaobingSuper,XiaobingZhang,"Shanghai, China",,https://github.com/XiaobingSuper,@Intel,196
+1239,pytorch,eellison,,,,https://github.com/eellison,,194
+1240,pytorch,ljk53,Jiakai Liu,,,https://github.com/ljk53,,192
+1241,pytorch,desertfire,Bin Bao,,,https://github.com/desertfire,@pytorch ,185
+1242,pytorch,clee2000,,,,https://github.com/clee2000,,182
+1243,pytorch,IvanKobzarev,Ivan Kobzarev,San Francisco,,https://github.com/IvanKobzarev,"Facebook, Inc.",180
+1244,pytorch,vishwakftw,Vishwak Srinivasan,,,https://github.com/vishwakftw,,177
+1245,pytorch,t-vi,Thomas Viehmann,Munich,ThomasViehmann,https://github.com/t-vi,MathInf https://mathinf.eu/,175
+1246,pytorch,z-a-f,Zafar,"Mountain View, CA",,https://github.com/z-a-f,"Hoofs and Horns, Inc.",171
+1247,pytorch,mingzhe09088,Mingzhe,,,https://github.com/mingzhe09088,,169
+1248,pytorch,jeffdaily,Jeff Daily,"Richland, WA",,https://github.com/jeffdaily,AMD,164
+1249,pytorch,xta0,Tao Xu,"Bellevue, WA",,https://github.com/xta0,Facebook,163
+1250,pytorch,jjsjann123,,,,https://github.com/jjsjann123,,163
+1251,pytorch,pjh5,Jesse Hellemn,,,https://github.com/pjh5,,158
+1252,pytorch,cpuhrsch,,,,https://github.com/cpuhrsch,,155
+1253,pytorch,kit1980,Sergii Dymchenko,"Bellevue, WA",kit1980,https://github.com/kit1980,Meta,154
+1254,pytorch,VitalyFedyunin,Vitaly Fedyunin,,,https://github.com/VitalyFedyunin,,154
+1255,pytorch,xiaomengy,Xiaomeng Yang,,,https://github.com/xiaomengy,Facebook,152
+1256,pytorch,nkaretnikov,Nikita Karetnikov,Germany,,https://github.com/nkaretnikov,,151
+1257,pytorch,davidberard98,David Berard,"Menlo Park, CA",,https://github.com/davidberard98,Facebook,150
+1258,pytorch,pbelevich,Pavel Belevich,,,https://github.com/pbelevich,,150
+1259,pytorch,jansel,Jason Ansel,"Mountain View, CA",jansel0,https://github.com/jansel,,150
+1260,pytorch,samestep,Sam Estep,"Pittsburgh, PA",sgestep,https://github.com/samestep,@penrose,148
+1261,pytorch,anijain2305,Animesh Jain,,,https://github.com/anijain2305,Meta Platforms,147
+1262,pytorch,ejguan,Erjia Guan,,,https://github.com/ejguan,@facebook,147
+1263,pytorch,vfdev-5,vfdev,,,https://github.com/vfdev-5,@Quansight,143
+1264,pytorch,andresy,Ronan Collobert,USA,,https://github.com/andresy,Facebook,140
+1265,pytorch,navahgar,Raghavan Raman,,,https://github.com/navahgar,,136
+1266,pytorch,facebook-github-bot,Facebook Community Bot,"Menlo Park, California",MetaOpenSource,https://github.com/facebook-github-bot,@facebook,136
+1267,pytorch,nikitaved,,,,https://github.com/nikitaved,,135
+1268,pytorch,dreiss,David Reiss,Palo Alto,,https://github.com/dreiss,Facebook,134
+1269,pytorch,kurtamohler,,"Vancouver, BC",,https://github.com/kurtamohler,Quansight,134
+1270,pytorch,li-roy,Roy Li,,,https://github.com/li-roy,,133
+1271,pytorch,jbschlosser,Joel Schlosser,NYC,,https://github.com/jbschlosser,Facebook,132
+1272,pytorch,orionr,Orion Reblitz-Richardson,"Menlo Park, CA",,https://github.com/orionr,@facebook ,131
+1273,pytorch,pmeier,Philip Meier,Germany,,https://github.com/pmeier,@Quansight ,129
+1274,pytorch,zhaojuanmao,Yanli Zhao,,,https://github.com/zhaojuanmao,,128
+1275,pytorch,tugsbayasgalan,Tugsbayasgalan Manlaibaatar,,,https://github.com/tugsbayasgalan,@pytorch ,128
+1276,pytorch,pearu,Pearu Peterson,Estonia,,https://github.com/pearu,Quansight,125
+1277,pytorch,SS-JIA,Sicheng Stephen Jia,"New York, NY",,https://github.com/SS-JIA,,124
+1278,pytorch,H-Huang,Howard Huang,NYC,,https://github.com/H-Huang,@facebook,123
+1279,pytorch,yanboliang,Yanbo Liang,"San Jose, CA",,https://github.com/yanboliang,Meta/Facebook,120
+1280,pytorch,voznesenskym,Michael Voznesensky,Silicon Valley,,https://github.com/voznesenskym,@facebook,114
+1281,pytorch,drisspg,Driss Guessous,Los Angeles,,https://github.com/drisspg,@facebook,112
+1282,pytorch,eqy,,,,https://github.com/eqy,NVIDIA,112
+1283,pytorch,iotamudelta,,TX,,https://github.com/iotamudelta,@ROCm @AMD,108
+1284,pytorch,osalpekar,Omkar Salpekar,,,https://github.com/osalpekar,,107
+1285,pytorch,mingfeima,Ma Mingfei,,,https://github.com/mingfeima,Intel Asia-Pacific R&D ,107
+1286,pytorch,qqaatw,Li-Huai (Allan) Lin,,,https://github.com/qqaatw,UC Irvine,107
+1287,pytorch,cyyever,cyy,,,https://github.com/cyyever,Nowhere,105
+1288,pytorch,fegin,Chien-Chin Huang,New York,,https://github.com/fegin,,104
+1289,pytorch,SherlockNoMad,Sherlock Huang,,,https://github.com/SherlockNoMad,@pytorch ,104
+1290,pytorch,xwang233,"Wang, Xiao","Santa Clara, CA",,https://github.com/xwang233,@NVIDIA,104
+1291,pytorch,atalman,Andrey Talman,"Montreal, QC",,https://github.com/atalman,Meta,102
+1292,pytorch,lukeyeager,Luke Yeager,,,https://github.com/lukeyeager,NVIDIA,100
+1293,pytorch,jianyuh,Jianyu Huang,,,https://github.com/jianyuh,Meta,99
+1294,pytorch,linbinyu,Linbin Yu,Menlo Park,,https://github.com/linbinyu,Facebook,99
+1295,pytorch,anderspapitto,,,,https://github.com/anderspapitto,,95
+1296,pytorch,mikaylagawarecki,,,,https://github.com/mikaylagawarecki,,94
+1297,pytorch,heitorschueroff,Heitor Schueroff,,,https://github.com/heitorschueroff,,92
+1298,pytorch,teng-li,Teng Li,"Menlo Park, CA",,https://github.com/teng-li,"Facebook, Inc.",92
+1299,pytorch,justinchuby,Justin Chu,,,https://github.com/justinchuby,@microsoft,90
+1300,pytorch,salexspb,Alexander Sidorov,California,,https://github.com/salexspb,@facebook @caffe2 @pytorch ,89
+1301,pytorch,dzdang,,"Ann Arbor, MI",,https://github.com/dzdang,University of Michigan,88
+1302,pytorch,slayton58,Simon Layton,"West Hartford, CT",,https://github.com/slayton58,@NVIDIA ,87
+1303,pytorch,HDCharles,,,,https://github.com/HDCharles,,87
+1304,pytorch,neginraoof,Negin Raoof,Austin TX,,https://github.com/neginraoof,UT Austin,87
+1305,pytorch,cccclai,,,,https://github.com/cccclai,Facebook,85
+1306,pytorch,cbalioglu,Can Balioglu,"New York, NY",cbalioglu,https://github.com/cbalioglu,Meta,84
+1307,pytorch,dhruvbird,Dhruv Matani,,,https://github.com/dhruvbird,,83
+1308,pytorch,xush6528,Shihao Xu,Menlo Park,,https://github.com/xush6528,@Facebook,81
+1309,pytorch,titaiwangms,Ti-Tai Wang,"Vancouver, BC",,https://github.com/titaiwangms,Microsoft,81
+1310,pytorch,williamwen42,William Wen,,,https://github.com/williamwen42,,80
+1311,pytorch,Gamrix,John Clow,San Francisco,,https://github.com/Gamrix,Canopy Servicing,79
+1312,pytorch,842974287,Shiyan Deng,,,https://github.com/842974287,,78
+1313,pytorch,angelayi,Angela Yi,,,https://github.com/angelayi,,78
+1314,pytorch,iseeyuan,Mengtao Yuan,,,https://github.com/iseeyuan,Facebook,77
+1315,pytorch,gmagogsfm,,,,https://github.com/gmagogsfm,,77
+1316,pytorch,kittipatv,Kittipat Virochsiri,,,https://github.com/kittipatv,,76
+1317,pytorch,mlazos,Michael Lazos,,,https://github.com/mlazos,Meta,74
+1318,pytorch,kumpera,Rodrigo Kumpera,New york,kumpera,https://github.com/kumpera,,74
+1319,pytorch,crcrpar,Masaki Kozuki,,,https://github.com/crcrpar,NVIDIA,73
+1320,pytorch,ysiraichi,Yukio Siraichi,,,https://github.com/ysiraichi,,73
+1321,pytorch,clementfarabet,Clement Farabet,Palo Alto,clmt,https://github.com/clementfarabet,MadbitsAI,72
+1322,pytorch,ajtulloch,Andrew Tulloch,San Francisco,,https://github.com/ajtulloch,Facebook AI Research,71
+1323,pytorch,harouwu,,,,https://github.com/harouwu,,71
+1324,pytorch,kulinseth,Kulin Seth,"Cupertino, CA",,https://github.com/kulinseth,,71
+1325,pytorch,Skylion007,Aaron Gokaslan,"Providence, RI",SkyLi0n,https://github.com/Skylion007,@facebookresearch ,70
+1326,pytorch,andreaskoepf,Andreas Köpf,"Muenster, Germany, Europe",,https://github.com/andreaskoepf,PROVISIO GmbH,70
+1327,pytorch,koraykv,koray kavukcuoglu,"London, UK",,https://github.com/koraykv,,69
+1328,pytorch,fduwjj,Hugo,Mountain View,,https://github.com/fduwjj,,69
+1329,pytorch,ifedan,Igor Fedan,,,https://github.com/ifedan,,67
+1330,pytorch,kennyhorror,Andrey Malevich,San Francisco,,https://github.com/kennyhorror,Facebook,66
+1331,pytorch,nickgg,Nick Gibson,,,https://github.com/nickgg,,66
+1332,pytorch,mcarilli,Michael Carilli,,,https://github.com/mcarilli,,66
+1333,pytorch,izdeby,iurii zdebskyi,New York,,https://github.com/izdeby,Facebook,65
+1334,pytorch,jjlilley,,California,,https://github.com/jjlilley,,65
+1335,pytorch,zhxchen17,Zhengxu Chen,"San Francisco, CA",,https://github.com/zhxchen17,Meta,64
+1336,pytorch,larryliu0820,Mengwei Liu,Menlo Park,,https://github.com/larryliu0820,@facebook,63
+1337,pytorch,andrewor14,,,,https://github.com/andrewor14,,63
+1338,pytorch,raghuramank100,,,,https://github.com/raghuramank100,,62
+1339,pytorch,thomasjpfan,Thomas J. Fan,New York City,thomasjpfan,https://github.com/thomasjpfan,@Quansight-Labs ,61
+1340,pytorch,fmassa,Francisco Massa,,,https://github.com/fmassa,Facebook AI Reseach,61
+1341,pytorch,d1jang,Don Jang,,,https://github.com/d1jang,,60
+1342,pytorch,migeed-z,,,,https://github.com/migeed-z,,60
+1343,pytorch,wz337,Iris,,,https://github.com/wz337,,59
+1344,pytorch,VirrageS,Janusz Marcinkiewicz,Warsaw,,https://github.com/VirrageS,@NVIDIA,59
+1345,pytorch,razarmehr,Ramin Azarmehr,,,https://github.com/razarmehr,@Apple,59
+1346,pytorch,ZainRizvi,Zain Rizvi,,zainrzv,https://github.com/ZainRizvi,@PyTorch,58
+1347,pytorch,aazzolini,Alisson Azzolini,"San Francisco, CA",,https://github.com/aazzolini,Facebook,57
+1348,pytorch,huiguoo,Hui Guo,CA,,https://github.com/huiguoo,Facebook,57
+1349,pytorch,shunting314,,,,https://github.com/shunting314,,57
+1350,pytorch,khushi-411,Khushi Agrawal,India,khushi__411,https://github.com/khushi-411,,57
+1351,pytorch,dskhudia,Daya Khudia,,,https://github.com/dskhudia,,57
+1352,pytorch,driazati,,,,https://github.com/driazati,,57
+1353,pytorch,jithunnair-amd,Jithun Nair,,,https://github.com/jithunnair-amd,Advanced Micro Devices Inc.,55
+1354,pytorch,bhosmer,Basil Hosmer,,,https://github.com/bhosmer,,54
+1355,pytorch,kiszk,Kazuaki Ishizaki,"Tokyo, Japan",kiszk,https://github.com/kiszk,IBM Research - Tokyo,54
+1356,pytorch,ajyu,,,,https://github.com/ajyu,,53
+1357,pytorch,DenisVieriu97,Denis Vieriu,,,https://github.com/DenisVieriu97,,53
+1358,pytorch,lantiga,Luca Antiga,"Bergamo, Italy",lantiga,https://github.com/lantiga,Lightning AI,53
+1359,pytorch,xianjiec,Xianjie Chen,,,https://github.com/xianjiec,"Facebook; University of California, Los Angeles",53
+1360,pytorch,qihqi,,SF Bay Area,,https://github.com/qihqi,,53
+1361,pytorch,dominikgrewe,Dominik Grewe,"London, UK",,https://github.com/dominikgrewe,@deepmind ,52
+1362,pytorch,JacobSzwejbka,Jacob Szwejbka,Seattle,,https://github.com/JacobSzwejbka,Facebook,52
+1363,pytorch,lara-hdr,Lara Haidar,,,https://github.com/lara-hdr,@Microsoft,52
+1364,pytorch,csarofeen,Christian Sarofeen,NYC,,https://github.com/csarofeen,@NVIDIA,51
+1365,pytorch,salilsdesai,Salil Desai,,,https://github.com/salilsdesai,,51
+1366,pytorch,mattip,Matti Picus,,,https://github.com/mattip,Quansight Labs,51
+1367,pytorch,nairbv,Brian Vaughan,New York,nairbv,https://github.com/nairbv,Facebook,50
+1368,pytorch,sjeaugey,Sylvain Jeaugey,France,,https://github.com/sjeaugey,Nvidia,50
+1369,pytorch,Jokeren,Keren Zhou,San Francisco,,https://github.com/Jokeren,@openai ,49
+1370,pytorch,chunyuan-w,Chunyuan WU,,,https://github.com/chunyuan-w,@Intel,49
+1371,pytorch,PaliC,Sahan Paliskara,"San Francisco, CA",,https://github.com/PaliC,@pytorch,49
+1372,pytorch,axitkhurana,Akshit Khurana,"San Francisco, CA",axitkhurana,https://github.com/axitkhurana,,48
+1373,pytorch,thiagocrepaldi,Thiago Crepaldi,"Orlando, FL",,https://github.com/thiagocrepaldi,@Microsoft ,48
+1374,pytorch,vspenubarthi,Vishnu Penubarthi,,,https://github.com/vspenubarthi,,47
+1375,pytorch,krshrimali,Kushashwa Ravi Shrimali,India,kushashwa,https://github.com/krshrimali,@abnormal-security,47
+1376,pytorch,Lilyjjo,Lily Johnson,"New York, NY",LobsterMindset,https://github.com/Lilyjjo,,47
+1377,pytorch,jfix71,Jordan Fix,,,https://github.com/jfix71,,46
+1378,pytorch,duc0,,,,https://github.com/duc0,,45
+1379,pytorch,viswanathgs,Viswanath (Vish) Sivakumar,"San Francisco, CA",,https://github.com/viswanathgs,,45
+1380,pytorch,lly-zero-one,,Menlo Park,,https://github.com/lly-zero-one,Facebook,44
+1381,pytorch,csummersea,Summer_Deng,Santa Barbara,,https://github.com/csummersea,,44
+1382,pytorch,aivanou,Aliaksandr Ivanou,United States,,https://github.com/aivanou,Facebook,43
+1383,pytorch,ChunliF,Chunli,,,https://github.com/ChunliF,,43
+1384,pytorch,manuelcandales,Manuel Candales,,,https://github.com/manuelcandales,,43
+1385,pytorch,fritzo,Fritz Obermeyer,"Bellingham, WA",ftzo,https://github.com/fritzo,Social Cognitive Machines,42
+1386,pytorch,chocjy,Jiyan Yang,Stanford,,https://github.com/chocjy,Stanford Unviersity,42
+1387,pytorch,rgommers,Ralf Gommers,Netherlands,ralfgommers,https://github.com/rgommers,Quansight,42
+1388,pytorch,EikanWang,Wang Weihan,"Shanghai, China",,https://github.com/EikanWang,@Intel,42
+1389,pytorch,alykhantejani,Alykhan Tejani,London,,https://github.com/alykhantejani,@ShareChat,41
+1390,pytorch,jhcross,,,,https://github.com/jhcross,,41
+1391,pytorch,Freey0,Freey0,,,https://github.com/Freey0,,41
+1392,pytorch,mruberry,Mike Ruberry,,,https://github.com/mruberry,,41
+1393,pytorch,Xia-Weiwen,Xia Weiwen,"Shanghai, China",,https://github.com/Xia-Weiwen,Intel,41
+1394,pytorch,Flamefire,Alexander Grund,Dresden,,https://github.com/Flamefire,,40
+1395,pytorch,syed-ahmed,Syed Tousif Ahmed,,,https://github.com/syed-ahmed,@NVIDIA,40
+1396,pytorch,d4l3k,Tristan Rice,Seattle/Vancouver,rice_fry,https://github.com/d4l3k,@cruise-automation,40
+1397,pytorch,leslie-fang-intel,,,,https://github.com/leslie-fang-intel,,40
+1398,pytorch,dagitses,,,,https://github.com/dagitses,,40
+1399,pytorch,nicholas-leonard,Nicholas Léonard,"Montreal, Canada",,https://github.com/nicholas-leonard,Expedia Group,40
+1400,pytorch,iramazanli,,,,https://github.com/iramazanli,,39
+1401,pytorch,andrewwdye,Andrew Dye,"Bellevue, WA",,https://github.com/andrewwdye,@unionai ,38
+1402,pytorch,adamlerer,Adam Lerer,,,https://github.com/adamlerer,,37
+1403,pytorch,kostmo,Karl Ostmo,,,https://github.com/kostmo,,37
+1404,pytorch,jgong5,Jiong Gong,Shanghai PRC,,https://github.com/jgong5,Intel Corporation,37
+1405,pytorch,emcastillo,,,,https://github.com/emcastillo,"Preferred Networks, Inc",36
+1406,pytorch,gujinghui,Jinghui,"Shanghai, PRC",,https://github.com/gujinghui,@Intel,36
+1407,pytorch,v0dro,Sameer Deshmukh,"Tokyo, Japan",,https://github.com/v0dro,@rioyokotalab ,36
+1408,pytorch,szagoruyko,Sergey Zagoruyko,,szagoruyko5,https://github.com/szagoruyko,MTS AI,36
+1409,pytorch,weiyangfb,Wei Yang,MPK,,https://github.com/weiyangfb,Facebook,36
+1410,pytorch,xuzhao9,Xu Zhao,"Toronto, ON, CA",,https://github.com/xuzhao9,@pytorch,36
+1411,pytorch,zhouzhuojie,Zhuojie Zhou,SF,zhouzhuojie,https://github.com/zhouzhuojie,,36
+1412,pytorch,kwen2501,Ke Wen,,,https://github.com/kwen2501,Meta,35
+1413,pytorch,definitelynotmcarilli,,,,https://github.com/definitelynotmcarilli,,35
+1414,pytorch,zengk95,Kerry Zeng,,,https://github.com/zengk95,,35
+1415,pytorch,imaginary-person,,Hyperspace,,https://github.com/imaginary-person,,35
+1416,pytorch,CaoE,Cao E,,,https://github.com/CaoE,intel,35
+1417,pytorch,amjames,Andrew James,,,https://github.com/amjames,@quansight,34
+1418,pytorch,xcheng16,,,,https://github.com/xcheng16,,34
+1419,pytorch,george-qi,George Qi,,,https://github.com/george-qi,,33
+1420,pytorch,wesolwsk,Lukasz Wesolowski,,,https://github.com/wesolwsk,,33
+1421,pytorch,pavithranrao,Pavithran Ramachandran,Bay Area,,https://github.com/pavithranrao,,33
+1422,pytorch,macandro96,Anish Mahishi,,,https://github.com/macandro96,New York University,33
+1423,pytorch,simpkins,Adam Simpkins,,,https://github.com/simpkins,Facebook,32
+1424,pytorch,jaglinux,Jagadish Krishnamoorthy,"San Ramon, CA",,https://github.com/jaglinux,,32
+1425,pytorch,mszhanyi,Yi Zhang,Beijing,,https://github.com/mszhanyi,Microsoft,32
+1426,pytorch,zrphercule,Rui Zhu,Menlo Park,,https://github.com/zrphercule,Facebook,32
+1427,pytorch,mcr229,Max Ren,,,https://github.com/mcr229,Facebook,32
+1428,pytorch,ShawnZhong,Shawn Zhong,"Madison, Wisconsin",,https://github.com/ShawnZhong,,32
+1429,pytorch,venkatacrc,Venkata C Chintapalli,,,https://github.com/venkatacrc,,31
+1430,pytorch,XilunWu,Xilun Wu,Menlo Park,,https://github.com/XilunWu,@facebookexternal ,31
+1431,pytorch,fdrocha,,,,https://github.com/fdrocha,,30
+1432,pytorch,guilhermeleobas,Guilherme Leobas,,,https://github.com/guilhermeleobas,,30
+1433,pytorch,yanbing-j,YanbingJiang,,,https://github.com/yanbing-j,,30
+1434,pytorch,rohithkrn,,Santa Clara,,https://github.com/rohithkrn,AWS,30
+1435,pytorch,digantdesai,Digant Desai,,,https://github.com/digantdesai,@Facebook,29
+1436,pytorch,EscapeZero,Michael Ranieri,,,https://github.com/EscapeZero,,28
+1437,pytorch,zrphercule2,,,,https://github.com/zrphercule2,,28
+1438,pytorch,weiwangmeta,Wei Wang,,,https://github.com/weiwangmeta,https://github.com/pytorch,28
+1439,pytorch,KsenijaS,Ksenija Stanojevic,,,https://github.com/KsenijaS,,27
+1440,pytorch,Maratyszcza,Marat Dukhan,"Silicon Valley, CA",,https://github.com/Maratyszcza,@google,27
+1441,pytorch,RockingJavaBean,Xiong Wei,,,https://github.com/RockingJavaBean,,27
+1442,pytorch,asuhan,Alex Suhan,"Sunnyvale, CA",,https://github.com/asuhan,,27
+1443,pytorch,agolynski,Alexander Golynski,New York,,https://github.com/agolynski,facebook,26
+1444,pytorch,benzyx,Ben Zhang,,,https://github.com/benzyx,Hudson River Trading,26
+1445,pytorch,1ntEgr8,Elton Leander Pinto,"Atlanta, GA",1ntEgr8,https://github.com/1ntEgr8,,26
+1446,pytorch,garymm,Gary Miguel,,,https://github.com/garymm,@astera-org,26
+1447,pytorch,lanpa,Tzu-Wei Huang,"Taipei, Taiwan",,https://github.com/lanpa,,26
+1448,pytorch,asl3,Amanda Liu,,,https://github.com/asl3,,26
+1449,pytorch,jucor,Julien Cornebise,"London, UK",JCornebise,https://github.com/jucor,University College London,26
+1450,pytorch,ailzhang,Ailing ,,,https://github.com/ailzhang,,25
+1451,pytorch,akfidjeland,Andreas Fidjeland,London,,https://github.com/akfidjeland,DeepMind,25
+1452,pytorch,kazhou,Karen,,,https://github.com/kazhou,,25
+1453,pytorch,mikekgfb,Michael Gschwind,"Menlo Park, CA",,https://github.com/mikekgfb,Meta AI,25
+1454,pytorch,skrah,Stefan Krah,,,https://github.com/skrah,,25
+1455,pytorch,Varal7,Victor Quach,"New York, NY",,https://github.com/Varal7,,25
+1456,pytorch,KyleCZH,,,,https://github.com/KyleCZH,,25
+1457,pytorch,skyline75489,Chester Liu,,,https://github.com/skyline75489,,25
+1458,pytorch,psavla2,Parth Savla,,,https://github.com/psavla2,,24
+1459,pytorch,scottxu0730,Wang Xu,"Amherst, MA",,https://github.com/scottxu0730,University of Massachusetts Amherst,24
+1460,pytorch,urikz,Yury Zemlyanskiy,Los Angeles,_theopompus,https://github.com/urikz,,24
+1461,pytorch,aaronenyeshi,Aaron Shi,,,https://github.com/aaronenyeshi,Facebook,23
+1462,pytorch,AlekseiNikiforovIBM,Aleksei Nikiforov,,,https://github.com/AlekseiNikiforovIBM,,23
+1463,pytorch,davidchencsl,,,,https://github.com/davidchencsl,,23
+1464,pytorch,igorsugak,Igor Sugak,San Francisco,,https://github.com/igorsugak,Facebook,23
+1465,pytorch,alanwaketan,Jiewen Tan,,alanwaketan,https://github.com/alanwaketan,Google LLC,23
+1466,pytorch,pavanky,Pavan Yalamanchili,"San Francisco, CA",,https://github.com/pavanky,,23
+1467,pytorch,priyaramani,,,,https://github.com/priyaramani,,23
+1468,pytorch,pruthvistony,Pruthvi Madugundu,Santa Clara CA,,https://github.com/pruthvistony,AMD,23
+1469,pytorch,saketh-are,Saketh Are,"New York, New York",,https://github.com/saketh-are,,23
+1470,pytorch,sunnieshang,,,,https://github.com/sunnieshang,,23
+1471,pytorch,Wakeupbuddy,Yan Zhu,United States,,https://github.com/Wakeupbuddy,,23
+1472,pytorch,wat3rBro,,,,https://github.com/wat3rBro,,23
+1473,pytorch,Aidyn-A,,,,https://github.com/Aidyn-A,,22
+1474,pytorch,hl475,hl475,,,https://github.com/hl475,,22
+1475,pytorch,micmelesse,Michael Melesse,New York,micmelesse,https://github.com/micmelesse,,22
+1476,pytorch,wschin,Wei-Sheng Chin,Bellevue,,https://github.com/wschin,,22
+1477,pytorch,Baranowski,Wojciech Baranowski,,,https://github.com/Baranowski,,22
+1478,pytorch,BTNC,,,,https://github.com/BTNC,,22
+1479,pytorch,aocsa,Alexander Ocsa,Arequipa,aocsa,https://github.com/aocsa,,21
+1480,pytorch,volkhin,Artem Volkhin,"Palo Alto, US",,https://github.com/volkhin,Facebook,21
+1481,pytorch,Valentine233,Xuan Liao,,,https://github.com/Valentine233,,21
+1482,pytorch,nluehr,Nathan Luehr,"Santa Clara, CA",,https://github.com/nluehr,NVIDIA,21
+1483,pytorch,pytorchupdatebot,PyTorch UpdateBot,,,https://github.com/pytorchupdatebot,,21
+1484,pytorch,ebetica,Zeming Lin,,,https://github.com/ebetica,,21
+1485,pytorch,min-jean-cho,,,,https://github.com/min-jean-cho,,21
+1486,pytorch,ann-ss,Ann Shan,,,https://github.com/ann-ss,,20
+1487,pytorch,b-koopman,,,,https://github.com/b-koopman,,20
+1488,pytorch,hameerabbasi,Hameer Abbasi,"Schifflange, Luxembourg",,https://github.com/hameerabbasi,,20
+1489,pytorch,hughperkins,Hugh Perkins,,,https://github.com/hughperkins,,20
+1490,pytorch,srossross,Sean Ross-Ross,"Vancouver, BC",,https://github.com/srossross,@Quansight and @openteamsinc ,20
+1491,pytorch,yuguo68,Yu Guo,,,https://github.com/yuguo68,,20
+1492,pytorch,bombs-kim,Beomsoo Kim,"Seoul, Republic of Korea",,https://github.com/bombs-kim,,20
+1493,pytorch,antoniojkim,Jae Hoon (Antonio) Kim,"Toronto, Canada",,https://github.com/antoniojkim,Cerebras Systems,19
+1494,pytorch,boryiingsu,Bor-Yiing Su,,,https://github.com/boryiingsu,,19
+1495,pytorch,borisfom,Boris Fomitchev,"Gig Harbor, WA",,https://github.com/borisfom,NVIDIA,19
+1496,pytorch,msaroufim,Mark Saroufim,The Matrix,marksaroufim,https://github.com/msaroufim,@PyTorch,19
+1497,pytorch,NicolasHug,Nicolas Hug,London,hug_nicolas,https://github.com/NicolasHug,,19
+1498,pytorch,khabinov,Oleg Khabinov,,,https://github.com/khabinov,,19
+1499,pytorch,vors,vors,,,https://github.com/vors,,19
+1500,pytorch,wenleix,Wenlei Xie,,,https://github.com/wenleix,,19
+1501,pytorch,XuehaiPan,Xuehai Pan,"Peking University, Beijing",XuehaiPan,https://github.com/XuehaiPan,CFCS @ PKU,19
+1502,pytorch,pritamdamania87,Pritam Damania,San Francisco,,https://github.com/pritamdamania87,Facebook Inc.,19
+1503,pytorch,jytug,Filip Binkiewicz,"San Diego, CA",,https://github.com/jytug,,18
+1504,pytorch,Fuzzkatt,Patrick Wang,,,https://github.com/Fuzzkatt,,18
+1505,pytorch,heslami,,,,https://github.com/heslami,,18
+1506,pytorch,jmdetloff,John Detloff,"Madison, WI",jmdetloff,https://github.com/jmdetloff,Meta,18
+1507,pytorch,kiukchung,,,,https://github.com/kiukchung,Facebook AI (PyTorch),18
+1508,pytorch,leonbottou,Leon Bottou ,,,https://github.com/leonbottou,,18
+1509,pytorch,ngoldbaum,Nathan Goldbaum,Denver,,https://github.com/ngoldbaum,Quansight Labs,18
+1510,pytorch,enosair,Qinqing Zheng,,,https://github.com/enosair,University Of Chicago,18
+1511,pytorch,rdspring1,Ryan Spring,Santa Clara,ryanspring13,https://github.com/rdspring1,Rice University; @RUSH-LAB ; @Nvidia,18
+1512,pytorch,beback4u,Sangbaek Park,"Kirkland, WA",,https://github.com/beback4u,Google LLC,18
+1513,pytorch,bzinodev,zino benaissa,,,https://github.com/bzinodev,Select your Organization,18
+1514,pytorch,blzheng,,,,https://github.com/blzheng,,18
+1515,pytorch,swang392,Sarah Wang,,,https://github.com/swang392,,18
+1516,pytorch,gemfield,Gemfield,Beijing,,https://github.com/gemfield,CivilNet,17
+1517,pytorch,jcaip,Jesse Cai,San Francisco CA,,https://github.com/jcaip,@pytorch,17
+1518,pytorch,louisfeng,Louis Feng,"Palo Alto, CA",,https://github.com/louisfeng,Facebook,17
+1519,pytorch,terrychenism,Terry Chen,U.S.,,https://github.com/terrychenism,,17
+1520,pytorch,timharley,,,,https://github.com/timharley,,17
+1521,pytorch,husthyc,Yuchen Huang,,,https://github.com/husthyc,,17
+1522,pytorch,alexsamardzic,Aleksandar Samardžić,,,https://github.com/alexsamardzic,,16
+1523,pytorch,Amyh11325,Amy He,,,https://github.com/Amyh11325,,16
+1524,pytorch,andrewjcg,,,,https://github.com/andrewjcg,,16
+1525,pytorch,avikchaudhuri,Avik Chaudhuri,,,https://github.com/avikchaudhuri,,16
+1526,keras,fchollet,François Chollet,,,https://github.com/fchollet,,2578
+1527,keras,tensorflower-gardener,TensorFlower Gardener,,,https://github.com/tensorflower-gardener,,565
+1528,keras,qlzh727,Qianli Scott Zhu,California,,https://github.com/qlzh727,Google,363
+1529,keras,farizrahman4u,Fariz Rahman,"Kochi, India",,https://github.com/farizrahman4u,,209
+1530,keras,taehoonlee,Taehoon Lee,"Seoul, South Korea",,https://github.com/taehoonlee,SK Telecom,163
+1531,keras,chenmoneygithub,Chen Qian,Mountain View,,https://github.com/chenmoneygithub,,129
+1532,keras,gabrieldemarmiesse,Gabriel de Marmiesse,"Paris, France",,https://github.com/gabrieldemarmiesse,Preligens,127
+1533,keras,haifeng-jin,Haifeng Jin,"San Francisco Bay Area, CA",,https://github.com/haifeng-jin,@keras-team @tensorflow @googlers,114
+1534,keras,ozabluda,Oleg Zabluda,Silicon Valley,,https://github.com/ozabluda,,107
+1535,keras,SamuelMarks,Samuel Marks,,,https://github.com/SamuelMarks,@offscale,101
+1536,keras,mattdangerw,Matt Watson,San Francisco,,https://github.com/mattdangerw,Google,87
+1537,keras,rchao,Rick Chao,,,https://github.com/rchao,,72
+1538,keras,maxpumperla,Max Pumperla,"Hamburg, Germany",maxpumperla,https://github.com/maxpumperla,,66
+1539,keras,EderSantana,Eder Santana,"Mountain View, CA | São Luís, Brazil",edersantana,https://github.com/EderSantana,University of Florida,65
+1540,keras,Frightera,Kaan,London,,https://github.com/Frightera,WTW,65
+1541,keras,phreeza,Thomas McColgan,Germany,,https://github.com/phreeza,,62
+1542,keras,wxs,Xavier Snelgrove,Toronto,,https://github.com/wxs,@probablystudio ,53
+1543,keras,nkovela1,Neel Kovelamudi,San Francisco,,https://github.com/nkovela1,Google,51
+1544,keras,the-moliver,Michael Oliver,"Woodinville, WA",the_moliver,https://github.com/the-moliver,Numerai,37
+1545,keras,old-school-kid,Surya Prakash Mishra,,SuryaIsAllUNeed,https://github.com/old-school-kid,IIT (ISM) Dhanbad  @RoboISM ,37
+1546,keras,pavithrasv,Pavithra Vijay,,,https://github.com/pavithrasv,,36
+1547,keras,nzw0301,Kento Nozawa,Japan,,https://github.com/nzw0301,@ibm,35
+1548,keras,k-w-w,Katherine Wu,,,https://github.com/k-w-w,,34
+1549,keras,sachinprasadhs,Sachin Prasad,"Mountain View, CA, USA",,https://github.com/sachinprasadhs,,34
+1550,keras,hazemessamm,Hazem Essam,,hazemessamm,https://github.com/hazemessamm,Proteinea,33
+1551,keras,matsuyamax,Makoto Matsuyama,,,https://github.com/matsuyamax,,32
+1552,keras,LukeWood,Luke Wood,San Diego,,https://github.com/LukeWood,Google,30
+1553,keras,tdhd,Philipp Schmidt,"Berlin, Germany",,https://github.com/tdhd,Amazon,30
+1554,keras,abhaikollara,Abhai Kollara Dilip,Kochi,,https://github.com/abhaikollara,@team-zoko ,29
+1555,keras,hertschuh,,,,https://github.com/hertschuh,,27
+1556,keras,dfossl,Dylan Fossl,Canada,,https://github.com/dfossl,,27
+1557,keras,AdityaKane2001,Aditya Kane,,adityakane1,https://github.com/AdityaKane2001,,26
+1558,keras,jfsantos,João Felipe Santos,"Vancouver, BC, Canada",seaandsailor,https://github.com/jfsantos,@NVIDIA,26
+1559,keras,adriangb,Adrian Garcia Badaracco,,,https://github.com/adriangb,,25
+1560,keras,ahundt,Andrew Hundt,Baltimore,athundt,https://github.com/ahundt,The Johns Hopkins University,24
+1561,keras,prakashsellathurai,Prakash Sellathurai,India,prakash1729brt,https://github.com/prakashsellathurai,Amazon,24
+1562,keras,myutwo150,Yu-Yang Huang,,,https://github.com/myutwo150,,24
+1563,keras,sayakpaul,Sayak Paul,"Kolkata, India",RisingSayak,https://github.com/sayakpaul,@huggingface,23
+1564,keras,yanboliang,Yanbo Liang,"San Jose, CA",,https://github.com/yanboliang,Meta/Facebook,21
+1565,keras,WingsBrokenAngel,Joshua,Beijing,,https://github.com/WingsBrokenAngel,@Microsoft,21
+1566,keras,markub3327,Martin Kubovčík,Slovakia,markub3327,https://github.com/markub3327,University of Ss. Cyril and Methodius in Trnava,20
+1567,keras,sampathweb,Ramesh Sampath,"San Francisco, CA",,https://github.com/sampathweb,,19
+1568,keras,joosephook,,,,https://github.com/joosephook,,19
+1569,keras,mergian,Nicolas Weber,,,https://github.com/mergian,NEC Laboratories Europe,18
+1570,keras,fuzzythecat,fuzzythecat,"Pittsburgh, PA",,https://github.com/fuzzythecat,Carnegie Mellon University,18
+1571,keras,gvtulder,Gijs van Tulder,The Netherlands,,https://github.com/gvtulder,,17
+1572,keras,staticskies,,,,https://github.com/staticskies,,17
+1573,keras,tleeuwenburg,Tennessee Leeuwenburg,Australia,,https://github.com/tleeuwenburg,,17
+1574,keras,spatil6,sandip,India,sandipkumar_net,https://github.com/spatil6,Citi,17
+1575,keras,tboquet,Thomas Boquet,Montréal,,https://github.com/tboquet,@Unity-Technologies,16
+1576,keras,carlthome,Carl Thomé,"Stockholm, Sweden",carlthome,https://github.com/carlthome,@epidemicsound,15
+1577,keras,sebastian-sz,Sebastian Szymański,"Warsaw, PL",,https://github.com/sebastian-sz,@tooploox ,15
+1578,keras,lukedeo,Luke de Oliveira,"London, UK",lukede0,https://github.com/lukedeo,FB,15
+1579,keras,olegsinavski,Oleg Sinavski,,,https://github.com/olegsinavski,Wayve,15
+1580,keras,krishrustagi,Krish Rustagi,"Delhi, India",,https://github.com/krishrustagi,IIIT Nagpur,14
+1581,keras,Rocketknight1,Matt,"Dublin, Ireland",carrigmat,https://github.com/Rocketknight1,@huggingface ,14
+1582,keras,yaringal,,,,https://github.com/yaringal,,14
+1583,keras,jihobak,piper,"Daegu, South Korea",,https://github.com/jihobak,eigencapital,14
+1584,keras,Danielhiversen,Daniel Hjelseth Høyer,"Drammen, Norway",,https://github.com/Danielhiversen,Tibber,13
+1585,keras,faizan-m,Faizan Muhammad,,,https://github.com/faizan-m,Google,13
+1586,keras,jeammimi,,,,https://github.com/jeammimi,,13
+1587,keras,joelthchao,Joel,"Taipei, Taiwan",,https://github.com/joelthchao,,13
+1588,keras,ageron,Aurélien Geron,Auckland,,https://github.com/ageron,,12
+1589,keras,jamesmullenbach,James Mullenbach,ATL,jmullenbach_,https://github.com/jamesmullenbach,,12
+1590,keras,MarkDaoust,Mark Daoust,,,https://github.com/MarkDaoust,,12
+1591,keras,tristandeleu,Tristan Deleu,,tristandeleu,https://github.com/tristandeleu,,12
+1592,keras,jvishnuvardhan,Vishnuvardhan Janapati,"Palo Alto, CA, USA",,https://github.com/jvishnuvardhan,,12
+1593,keras,chunduriv,,,,https://github.com/chunduriv,,12
+1594,keras,junwei-pan,Junwei Pan,"Shenzhen, China",,https://github.com/junwei-pan,Tencent,12
+1595,keras,kashif,Kashif Rasul,"Berlin, Germany",krasul,https://github.com/kashif,,12
+1596,keras,gw0,,Europe,,https://github.com/gw0,,12
+1597,keras,Joshua-Chin,Joshua Chin,,,https://github.com/Joshua-Chin,,11
+1598,keras,keunwoochoi,Keunwoo Choi,"New York, USA",keunwoochoi,https://github.com/keunwoochoi,GaudioLab,11
+1599,keras,markus-hinsche,Markus Hinsche,"Germany, Berlin",,https://github.com/markus-hinsche,nailvision.de,11
+1600,keras,souptc,"Tang, Cheng",Sunnyvale,,https://github.com/souptc,Microsoft,11
+1601,keras,kretes,Tomasz Bartczak,Warsaw,,https://github.com/kretes,,11
+1602,keras,henry0312,OMOTO Tsukasa,"Tokyo, Japan",henry0312,https://github.com/henry0312,"AlphaImpact Co., Ltd.",11
+1603,keras,kouml,kouml,,,https://github.com/kouml,,11
+1604,keras,bzamecnik,Bohumír Zámečník,Czech Republic,bzamecnik,https://github.com/bzamecnik,@RossumAi,11
+1605,keras,julienr,Julien Rebetez,Switzerland,,https://github.com/julienr,Picterra,11
+1606,keras,maldil,Malinda,,,https://github.com/maldil,,11
+1607,keras,awsaf49,Awsaf,"Dhaka, Bangladesh",awsaf49,https://github.com/awsaf49,@wandb,10
+1608,keras,bstriner,Ben,,,https://github.com/bstriner,,10
+1609,keras,dbonadiman,Daniele Bonadiman,Trento,,https://github.com/dbonadiman,University of Trento,10
+1610,keras,edloper,,,,https://github.com/edloper,,10
+1611,keras,JXRiver,Jun Xu,,,https://github.com/JXRiver,,10
+1612,keras,Mirandatz,Mirandatz,,,https://github.com/Mirandatz,,9
+1613,keras,pcish,Paul Chiang,,,https://github.com/pcish,,9
+1614,keras,Smerity,Stephen Merity,"San Francisco, California",,https://github.com/Smerity,,9
+1615,keras,datumbox,Vasilis Vryniotis,United Kingdom,bbriniotis,https://github.com/datumbox,,9
+1616,keras,vzhong,Victor Zhong,"Seattle, WA",hllo_wrld,https://github.com/vzhong,University of Washington,9
+1617,keras,w-xinyi,,,,https://github.com/w-xinyi,,9
+1618,keras,myaaaaaaaaa,,,,https://github.com/myaaaaaaaaa,,9
+1619,keras,arubiales,Alberto Rubiales,Madrid,,https://github.com/arubiales,GFK,9
+1620,keras,patyork,Pat York,"Reno, NV",,https://github.com/patyork,,9
+1621,keras,neggert,Nic Eggert,"Minneapolis, MN",,https://github.com/neggert,Target,9
+1622,keras,grasskin,Gabriel Rasskin,,GabrielRasskin,https://github.com/grasskin,Tensorflow,8
+1623,keras,hgaiser,Hans Gaiser,Delft,,https://github.com/hgaiser,@fizyr @robohouse-delft,8
+1624,keras,jdwittenauer,John Wittenauer,United States,,https://github.com/jdwittenauer,,8
+1625,keras,mkaze,Masoud Kazemi,,,https://github.com/mkaze,,8
+1626,keras,federicopisanu,,,,https://github.com/federicopisanu,,8
+1627,keras,RaphaelMeudec,Raphael Meudec,"Paris, France",raphaelmeudec,https://github.com/RaphaelMeudec,,8
+1628,keras,reedwm,Reed,,,https://github.com/reedwm,,8
+1629,keras,kilotaras,Taras Boiko,Lviv,kilotaras,https://github.com/kilotaras,,8
+1630,keras,bhack,,,,https://github.com/bhack,,8
+1631,keras,gadagashwini,,,,https://github.com/gadagashwini,,8
+1632,keras,ghostplant,,Beijing,,https://github.com/ghostplant,Microsoft,8
+1633,keras,kuza55,,,,https://github.com/kuza55,,8
+1634,keras,vkk800,,,,https://github.com/vkk800,,8
+1635,keras,cmyr,Colin Rofls,Montreal,,https://github.com/cmyr,,8
+1636,keras,angeloskath,Angelos Katharopoulos,,angeloskath,https://github.com/angeloskath,,7
+1637,keras,danFromTelAviv,Dan Erez,"Tel Aviv, Israel",,https://github.com/danFromTelAviv,,7
+1638,keras,jramapuram,Jason Ramapuram,,,https://github.com/jramapuram,,7
+1639,keras,kylemcdonald,Kyle McDonald,,,https://github.com/kylemcdonald,,7
+1640,keras,matt-gardner,Matt Gardner,"Irvine, CA",,https://github.com/matt-gardner,Microsoft Semantic Machines,7
+1641,keras,mynameisfiber,Micha Gorelick,"Montpellier, FR",,https://github.com/mynameisfiber,@digital-witness-lab ,7
+1642,keras,stephenbalaban,Stephen A. Balaban,San Francisco,,https://github.com/stephenbalaban,Lambda Labs,7
+1643,keras,berleon,Leon Sixt,Berlin,,https://github.com/berleon,,7
+1644,keras,dolaameng,dolaameng,Singapore,,https://github.com/dolaameng,,7
+1645,keras,inonbe,Inon Beiser,,,https://github.com/inonbe,Waves,7
+1646,keras,DingKe,Ke Ding,Beijing,,https://github.com/DingKe,@Meituan,7
+1647,keras,ianstenbit,Ian Stenbit,"Boulder, CO",,https://github.com/ianstenbit,Google,7
+1648,keras,bdwyer2,Brendan Dwyer,Colorado Springs,,https://github.com/bdwyer2,,6
+1649,keras,braingineer,Brian McMahan,,,https://github.com/braingineer,,6
+1650,keras,fredtony,Tony Schroeder,"Seattle, WA",,https://github.com/fredtony,PostEra,6
+1651,keras,atmguille,Guillermo Garcia Cobo,,,https://github.com/atmguille,,6
+1652,keras,gokceneraslan,Gökçen Eraslan,"San Francisco, US",gokcen,https://github.com/gokceneraslan,Genentech,6
+1653,keras,kenterao,kenterao,,,https://github.com/kenterao,,6
+1654,keras,lgeiger,Lukas Geiger,London,_lgeiger,https://github.com/lgeiger,@plumerai @larq ,6
+1655,keras,foxik,Milan Straka,Czech Republic,,https://github.com/foxik,"Charles University, Institue of Formal and Applied Linguistics",6
+1656,keras,mthrok,moto,,,https://github.com/mthrok,,6
+1657,keras,hawkinsp,Peter Hawkins,"Princeton, NJ",,https://github.com/hawkinsp,Google,6
+1658,keras,rodrigob,Rodrigo Benenson,"Zürich, Switzerland.",rodrigob,https://github.com/rodrigob,,6
+1659,keras,Vincent-SV,,,,https://github.com/Vincent-SV,,6
+1660,keras,yashk2810,Yash Katariya,"Raleigh, NC",,https://github.com/yashk2810,@Google,6
+1661,keras,harupy,Harutaka Kawamura,Japan,,https://github.com/harupy,@databricks,6
+1662,keras,jeffzhengye,Jeffery Ye,"Wuhan, China",jeffye,https://github.com/jeffzhengye,SCUEC,6
+1663,keras,masstomato,mass tomato,Kanagawa Pref.,,https://github.com/masstomato,,6
+1664,keras,tilakrayal,,,,https://github.com/tilakrayal,,6
+1665,keras,tonyrubanraj,,,,https://github.com/tonyrubanraj,,6
+1666,keras,icyblade,Yuchao Dai,"Suzhou, China",,https://github.com/icyblade,@Microsoft,6
+1667,keras,andhus,Anders Huss,"Stockholm, Sweden",,https://github.com/andhus,,5
+1668,keras,dansbecker,Dan Becker,"Golden, CO",dan_s_becker,https://github.com/dansbecker,,5
+1669,keras,ishark,Isha Arkatkar,,,https://github.com/ishark,,5
+1670,keras,jerabaul29,JR,,,https://github.com/jerabaul29,,5
+1671,keras,hxy9243,Xiaoyu Kevin Hu,,Oldgunix,https://github.com/hxy9243,,5
+1672,keras,Reddine,Kheir Eddine FARFAR,Germany,,https://github.com/Reddine,@Pinnovate @TIBHannover,5
+1673,keras,mfidabel,Mateo Fidabel,"Asunción, Paraguay",FidabelMateo,https://github.com/mfidabel,,5
+1674,keras,mbrukman,Misha Brukman,,,https://github.com/mbrukman,@Google,5
+1675,keras,nicolewhite,Nicole White,,,https://github.com/nicolewhite,,5
+1676,keras,luthfianto,Rizky Luthfianto,"Jakarta, Indonesia",,https://github.com/luthfianto,,5
+1677,keras,caisq,Shanqing Cai,,,https://github.com/caisq,Google,5
+1678,keras,untom,Thomas Unterthiner,,,https://github.com/untom,Google,5
+1679,keras,yukoba,Yu Kobayashi,"Tokyo, Japan",yukoba,https://github.com/yukoba,,5
+1680,keras,rushter,Artem Golubin,,rushter,https://github.com/rushter,,5
+1681,keras,sushreebarsa,,Bangalore,,https://github.com/sushreebarsa,,5
+1682,keras,weipeilun,,,,https://github.com/weipeilun,,5
+1683,keras,linxihui,Eric Xihui Lin,Montreal,,https://github.com/linxihui,Microsoft Corp.,5
+1684,keras,ymodak,Yasir Modak,,,https://github.com/ymodak,Google,5
+1685,keras,pedrobrs,pedrobrs,,,https://github.com/pedrobrs,,5
+1686,keras,grahamannett,graham,,,https://github.com/grahamannett,,5
+1687,keras,awentzonline,Adam Wentz,"Olympia, WA",awentzonline,https://github.com/awentzonline,,4
+1688,keras,andreped,André Pedersen,"Trondheim, Norway",,https://github.com/andreped,SINTEF,4
+1689,keras,arnoegw,,,,https://github.com/arnoegw,@tensorflow,4
+1690,keras,basveeling,Bas Veeling,"Amsterdam, The Netherlands",basveeling,https://github.com/basveeling,AI4Science @ Microsoft Research,4
+1691,keras,hubingallin,Bing Hu,"Mountain View, CA",,https://github.com/hubingallin,@Google,4
+1692,keras,ckkuang,Chenkai Kuang,"Mountain View, CA",,https://github.com/ckkuang,,4
+1693,keras,frexvahi,Chris,,,https://github.com/frexvahi,@athiongmbh,4
+1694,keras,Haaris-Rahman,Haaris Rahman,,,https://github.com/Haaris-Rahman,,4
+1695,keras,jacquerie,Jacopo Notarstefano,"Vancouver, Canada",,https://github.com/jacquerie,@aws,4
+1696,keras,kli-casia,Kai Li,Beijing,,https://github.com/kli-casia,CASIA,4
+1697,keras,viirya,Liang-Chi Hsieh,Seattle,,https://github.com/viirya,@apple @apache ,4
+1698,keras,mihaimaruseac,Mihai Maruseac,"Cupertino, CA",mihaimaruseac,https://github.com/mihaimaruseac,Google,4
+1699,keras,minkooseo,Minkoo Seo,"Seoul, Korea",,https://github.com/minkooseo,,4
+1700,keras,NourEldin-Osama,NourEldin Osama,"Montreal Expo 67, Canada",NOURELDIN_0SAMA,https://github.com/NourEldin-Osama,,4
+1701,keras,Naruu,,,,https://github.com/Naruu,,4
+1702,keras,ramananbalakrishnan,Ramanan Balakrishnan,Singapore,,https://github.com/ramananbalakrishnan,@Semantics3 ,4
+1703,keras,roatienza,Rowel Atienza,Philippines,jacobe,https://github.com/roatienza,University of the Philippines,4
+1704,keras,mezzode,,San Francisco,,https://github.com/mezzode,,4
+1705,keras,SimonSuster,Simon Šuster,Slovenia,,https://github.com/SimonSuster,University of Melbourne,4
+1706,keras,titu1994,Somshubra Majumdar,"San Jose, CA",,https://github.com/titu1994,NVIDIA,4
+1707,keras,StefanoCappellini,Stefano Cappellini,,,https://github.com/StefanoCappellini,,4
+1708,keras,stephenroller,Stephen Roller,NYC,stephenroller,https://github.com/stephenroller,,4
+1709,keras,SriRangaTarun,Tarun Paparaju,"Amherst, Massachusetts, United States",SriRangaTarun,https://github.com/SriRangaTarun,,4
+1710,keras,tsdeng,Tianshuo Deng,"San Francisco, USA",,https://github.com/tsdeng,Google,4
+1711,keras,yongzx,Yong Zheng-Xin,"Providence, RI",yong_zhengxin,https://github.com/yongzx,@BatsResearch ,4
+1712,keras,Yorwba,,,,https://github.com/Yorwba,,4
+1713,keras,PeterChe1990,Zhengping Che,"Beijing, China",,https://github.com/PeterChe1990,@midea-ai,4
+1714,keras,alvations,,,,https://github.com/alvations,,4
+1715,keras,anayebi,Aran Nayebi,,aran_nayebi,https://github.com/anayebi,,4
+1716,keras,basjacobs93,Bas Jacobs,,,https://github.com/basjacobs93,,4
+1717,keras,seriesscar,,,,https://github.com/seriesscar,,4
+1718,keras,europeanplaice,Tomohiro Endo,Japan,,https://github.com/europeanplaice,,4
+1719,keras,nagadomi,,"Tokyo, Japan",,https://github.com/nagadomi,,4
+1720,keras,wwossname,,,,https://github.com/wwossname,,4
+1721,keras,yamanoko,,,,https://github.com/yamanoko,,4
+1722,keras,cocuh,cocuh ,"Tokyo, Japan",,https://github.com/cocuh,,4
+1723,keras,mishc9,Mikhail Stepanov,Moscow,mishc9,https://github.com/mishc9,Insilico Medicine,4
+1724,keras,jmhessel,Jack Hessel,,jmhessel,https://github.com/jmhessel,,4
+1725,keras,wassname,wassname,Australia,wassname,https://github.com/wassname,I'm just a guy who likes to machine learn,4
+1726,keras,drauh,Malo Huard,,,https://github.com/drauh,Milvue,4
+1727,keras,ozancaglayan,Ozan Caglayan,London,,https://github.com/ozancaglayan,Imperial College London,4
+1728,keras,cyai,Vardhaman,India,vardhaman722,https://github.com/cyai,,4
+1729,keras,abhinavsagar,Abhinav Sagar,College Park,abhinavsagar99,https://github.com/abhinavsagar,UMD,3
+1730,keras,abishekk92,,,,https://github.com/abishekk92,,3
+1731,keras,ashishenoyp,ashish shenoy,"Sunnyvale, CA",,https://github.com/ashishenoyp,,3
+1732,keras,Bharat123rox,Bharat Raghunathan,Chennai,BharatR123,https://github.com/Bharat123rox,,3
+1733,keras,wb14123,Bin Wang,Canada,,https://github.com/wb14123,,3
+1734,keras,DLPerf,DLPerf,,,https://github.com/DLPerf,,3
+1735,keras,dieuwkehupkes,Dieuwke Hupkes,Amsterdam,,https://github.com/dieuwkehupkes,,3
+1736,keras,divyashreepathihalli,divyasreepat,,,https://github.com/divyashreepathihalli,Google,3
+1737,keras,udibr,Ehud Ben-Reuven,,,https://github.com/udibr,,3
+1738,keras,ericwu09,Eric Wu,"Stanford, CA",ericwu93,https://github.com/ericwu09,,3
+1739,keras,ekuznetsov139,,San Diego,,https://github.com/ekuznetsov139,,3
+1740,keras,embr,Evan Rosen,,,https://github.com/embr,,3
+1741,keras,fionalang,,,,https://github.com/fionalang,,3
+1742,keras,nouiz,Frédéric Bastien,Montréal,,https://github.com/nouiz,NVIDIA,3
+1743,keras,ziky90,Jan Zikes,London,ziky90,https://github.com/ziky90,Facebook,3
+1744,keras,javidcf,Javier Dehesa,UK,,https://github.com/javidcf,,3
+1745,keras,karlhigley,Karl Higley,"New York, NY",karlhigley,https://github.com/karlhigley,,3
+1746,keras,kencoken,Ken Chatfield,Oxford,,https://github.com/kencoken,,3
+1747,keras,Mahrkeenerh,Samuel Bubán,,,https://github.com/Mahrkeenerh,,3
+1748,keras,joker-eph,Mehdi Amini,Mountain View,,https://github.com/joker-eph,,3
+1749,keras,szutenberg,Michal Szutenberg,"Gdansk, PL",,https://github.com/szutenberg,Intel,3
+1750,keras,mikael-epigram,,,,https://github.com/mikael-epigram,,3
+1751,keras,mbatchkarov,Miroslav Batchkarov,United Kingdom,,https://github.com/mbatchkarov,Teebly,3
+1752,keras,mohanson,Mohanson,,,https://github.com/mohanson,,3
+1753,keras,pjadzinsky,Pablo Jadzinsky,"MountainView, CA",,https://github.com/pjadzinsky,MindstrongHealth,3
+1754,keras,wangpengmit,Peng Wang,"Boston, Massachusetts",,https://github.com/wangpengmit,MIT CSAIL,3
+1755,keras,pasky,Petr Baudis,"Prague, Czech Republic",,https://github.com/pasky,,3
+1756,keras,pranv,Pranav Shyam,,,https://github.com/pranv,,3
+1757,keras,rryan,RJ Skerry-Ryan,"Mountain View, CA",,https://github.com/rryan,,3
+1758,keras,rthadur,RajeshT,San Francisco,,https://github.com/rthadur,@tensorflow @google,3
+1759,keras,rvinas,Ramon Viñas,,,https://github.com/rvinas,,3
+1760,keras,RicardFos,,,,https://github.com/RicardFos,,3
+1761,keras,robertomest,Roberto de Moura Estevão Filho,,,https://github.com/robertomest,,3
+1762,keras,ronshapiro,Ron Shapiro,,,https://github.com/ronshapiro,Google,3
+1763,keras,srjoglekar246,Sachin Joglekar,"Mountain View, CA",,https://github.com/srjoglekar246,@google,3
+1764,keras,sfreilich,Samuel Freilich,"Cambridge, MA",,https://github.com/sfreilich,@google,3
+1765,keras,nershman,Sherman,,,https://github.com/nershman,,3
+1766,keras,sklan,,,,https://github.com/sklan,,3
+1767,keras,TimZaman,Tim Zaman,San Francisco,tim_zaman,https://github.com/TimZaman,"Tesla, Twitter (ex NVIDIA)",3
+1768,keras,vinhill,Vincent Hilla,Aachen,,https://github.com/vinhill,Mozilla Corporation,3
+1769,keras,vchernobyl,Vitaly Krumins,"Berlin, Germany",,https://github.com/vchernobyl,Zalando SE,3
+1770,keras,qqfish,Xiao Yu,Bay Area,,https://github.com/qqfish,@google ,3
+1771,keras,yang-zhang,Yang Zhang,,,https://github.com/yang-zhang,,3
+1772,keras,yatbear,Yating,,,https://github.com/yatbear,,3
+1773,keras,freddy1020,Yue Zhao,,,https://github.com/freddy1020,,3
+1774,keras,nehz,nehz,Australia,,https://github.com/nehz,,3
+1775,keras,MoyanZitto,Zhengtao Wang,Chengdu China,,https://github.com/MoyanZitto,,3
+1776,keras,charlesollion,Charles Ollion,Paris,charlesollion,https://github.com/charlesollion,"Independent, CMAP",3
+1777,keras,eulerreich,,,,https://github.com/eulerreich,,3
+1778,keras,floydwch,floydwch,"Taipei, Taiwan",,https://github.com/floydwch,,3
+1779,keras,gowthamkpr,gowthamkpr,,,https://github.com/gowthamkpr,,3
+1780,keras,jarfo,Jose A. Rodriguez Fonollosa,Barcelona,,https://github.com/jarfo,Universitat Politècnica de Catalunya,3
+1781,keras,jorgecarleitao,Jorge Leitao,"Copenhagen, Denmark",,https://github.com/jorgecarleitao,Munin Data ApS,3
+1782,keras,knightXun,flyingcat ,"hangzhou,china",,https://github.com/knightXun,,3
+1783,keras,smauq,Andrei Cramariuc,,,https://github.com/smauq,,3
+1784,keras,stas-sl,Stas,"Minsk, Belarus",,https://github.com/stas-sl,,3
+1785,keras,t-ae,t.ae,,,https://github.com/t-ae,@qoncept ,3
+1786,keras,oeway,Wei Ouyang,Stockholm,,https://github.com/oeway,Science For Life Laboratory,3
+1787,keras,s22chan,,,,https://github.com/s22chan,,3
+1788,keras,slowy07,arfy slowy,,,https://github.com/slowy07,@google,3
+1789,keras,bojone,苏剑林(Jianlin Su),,,https://github.com/bojone,,3
+1790,keras,01-vyom,Vyom Pathak,"Pleasanton, California, USA",stancosmos01,https://github.com/01-vyom,,2
+1791,keras,avn3r,Abner Ayala-Acevedo,"San Francisco, CA",,https://github.com/avn3r,Samsara,2
+1792,keras,achalshah20,Achal Shah,United States,,https://github.com/achalshah20,Youtube,2
+1793,keras,adrhill,Adrian Hill,Berlin,adr_hill,https://github.com/adrhill,TU Berlin,2
+1794,keras,adrianjhpc,Adrian Jackson,,adrianjhpc,https://github.com/adrianjhpc,,2
+1795,keras,alanyee,Alan Yee,United States,,https://github.com/alanyee,,2
+1796,keras,sashashura,Alex,,,https://github.com/sashashura,,2
+1797,keras,alok,Alok Singh,"Berkeley, CA",Therevaloksingh,https://github.com/alok,,2
+1798,keras,amogh7joshi,Amogh Joshi,United States of America,amogh7joshi,https://github.com/amogh7joshi,,2
+1799,keras,AndreiCostinescu,Andrei Costinescu,Munich,,https://github.com/AndreiCostinescu,Technical University of Munich,2
+1800,keras,neoaggelos,Angelos Kolaitis,Greece,,https://github.com/neoaggelos,@canonical,2
+1801,keras,anjishnu,Anjishnu Kumar,New York,,https://github.com/anjishnu,Columbia University,2
+1802,keras,ArdalanM,Ardalan,,,https://github.com/ArdalanM,,2
+1803,keras,ashutosh1919,Ashutosh Hathidara,"San Francisco, CA, USA",ashutosh_1919,https://github.com/ashutosh1919,@bytedance,2
+1804,keras,barvinograd,Bar Vinograd,,,https://github.com/barvinograd,,2
+1805,keras,erilyth,Batchu Venkat Vishal,"Hyderabad, Telangana, India",,https://github.com/erilyth,,2
+1806,keras,bbabenko,Boris Babenko,,,https://github.com/bbabenko,@orbitalinsight ,2
+1807,keras,bottydim,Botty Dimanov,United Kingdom,,https://github.com/bottydim,,2
+1808,keras,bchu,Brian Chu,"San Francisco, CA",,https://github.com/bchu,@Cardiogram ,2
+1809,keras,briannemsick,Brian Nemsick,"San Francisco, CA",,https://github.com/briannemsick,,2
+1810,keras,BrianWieder,Brian Wieder,,,https://github.com/BrianWieder,,2
+1811,keras,cemsina,Cemsina Güzel,Turkey,,https://github.com/cemsina,,2
+1812,keras,DachuanZhao,DachuanZhao,,,https://github.com/DachuanZhao,,2
+1813,keras,dstine,Dan Stine,"Boston, MA",,https://github.com/dstine,,2
+1814,keras,Dapid,David Menéndez Hurtado,Stockholm,,https://github.com/Dapid,Savantic AB,2
+1815,keras,Denny-Hwang,Sungjoo(Dennis) Hwang,"Suwon, Korea, Republic of.",,https://github.com/Denny-Hwang,,2
+1816,keras,dgorissen,Dirk Gorissen,"Southampton, UK",dirkgor,https://github.com/dgorissen,Machine Doing,2
+1817,keras,lukovkin,Dmitry Lukovkin,Moscow,,https://github.com/lukovkin,Deep Gnosis,2
+1818,keras,jackd,Dominic Jack,Melbourne,,https://github.com/jackd,University of Melbourne,2
+1819,keras,EdwardRaff,,"Columbia, MD",,https://github.com/EdwardRaff,Booz Allen Hamilton ,2
+1820,keras,staticfloat,Elliot Saba,"Seattle, USA",,https://github.com/staticfloat,JuliaHub,2
+1821,keras,Ending2015a,Ending Hsiao,NTHU,,https://github.com/Ending2015a,@elsa-lab ,2
+1822,keras,eyalzk,Eyal Zakkay,,,https://github.com/eyalzk,,2
+1823,keras,faroit,Fabian-Robert Stöter,"Montpellier, France",,https://github.com/faroit,Audioshake,2
+1824,keras,fyangf,,,,https://github.com/fyangf,Google,2
+1825,keras,felixlaumon,Felix Lau,San Francisco,,https://github.com/felixlaumon,@apple,2
+1826,keras,somewacko,flynn,san francisco,,https://github.com/somewacko,,2
+1827,keras,guberti,Gavin Uberti,"Menlo Park, CA",,https://github.com/guberti,@etched-ai ,2
+1828,keras,ghisvail,Ghislain Vaillant,"Paris, France",ghisvail,https://github.com/ghisvail,@aramis-lab,2
+1829,keras,arodiss,Gleb Sidora,,,https://github.com/arodiss,,2
+1830,keras,hthu,Haitang,Mountain View,hthu2017,https://github.com/hthu,,2
+1831,keras,HarikrishnanBalagopal,Hari,,,https://github.com/HarikrishnanBalagopal,,2
+1832,keras,xuhdev,Hong Xu,Greater Seattle Area,xuhdev,https://github.com/xuhdev,@Google,2
+1833,keras,saberkun,Hongkun Yu,,,https://github.com/saberkun,Google Brain,2
+1834,keras,jjallaire,J.J. Allaire,,,https://github.com/jjallaire,RStudio,2
+1835,keras,JaimeArboleda,Jaime Arboleda Castilla,,,https://github.com/JaimeArboleda,,2
+1836,keras,jrbourbeau,James Bourbeau,"Madison, WI",__jrbourbeau__,https://github.com/jrbourbeau,@coiled ,2
+1837,keras,jsaporta,Jason Saporta,New York City,,https://github.com/jsaporta,Credit Suisse,2
+1838,keras,jayanthkoushik,Jayanth Koushik,,jayanth_koushik,https://github.com/jayanthkoushik,Carnegie Mellon University,2
+1839,keras,linjinjin123,Jinjin Lin,,,https://github.com/linjinjin123,,2
+1840,keras,joeyearsley,Joe Yearsley,"London, UK",,https://github.com/joeyearsley,@Kheiron-Medical ,2
+1841,keras,katre,John Cater,,,https://github.com/katre,,2
+1842,keras,joshloyal,Joshua Loyal,"Tallahassee, FL",,https://github.com/joshloyal,Florida State University,2
+1843,keras,crowsonkb,Katherine Crowson,,RiversHaveWings,https://github.com/crowsonkb,,2
+1844,keras,kbuyukakyuz,Kerim Büyükakyüz,,,https://github.com/kbuyukakyuz,,2
+1845,keras,easyas314159,Kevin Loney,"Calgary, Alberta, Canada",easyas314159,https://github.com/easyas314159,,2
+1846,keras,kmader,Kevin Mader,"Zurich, Switzerland",,https://github.com/kmader,,2
+1847,keras,kkimdev,Kibeom Kim,,,https://github.com/kkimdev,,2
+1848,keras,Kiwiakos,,,,https://github.com/Kiwiakos,,2
+1849,keras,cky9301,Kuangyuan Chen,,,https://github.com/cky9301,,2
+1850,keras,NickShahML,NK,,,https://github.com/NickShahML,,2
+1851,keras,Leoyzen,,,,https://github.com/Leoyzen,,2
+1852,keras,lunardog,Lunardog,"Tokyo, Japan",,https://github.com/lunardog,,2
+1853,keras,Llamrei,Alex Larionov,London,,https://github.com/Llamrei,Imperial College London,2
+1854,keras,JustLou,Lou,,,https://github.com/JustLou,,2
+1855,keras,lukeyeager,Luke Yeager,,,https://github.com/lukeyeager,NVIDIA,2
+1856,keras,ynqa,,Here,_ynqa,https://github.com/ynqa,,2
+1857,keras,MalcolmSlaney,Malcolm Slaney,,,https://github.com/MalcolmSlaney,Google,2
+1858,keras,MartinThoma,Martin Thoma,Munich,_martinthoma,https://github.com/MartinThoma,,2
+1859,keras,rollingstone,Marzuk Kamal,,,https://github.com/rollingstone,,2
+1860,keras,mjdietzx,Michael Dietz,ATX,waya_ai,https://github.com/mjdietzx,@wayaai ,2
+1861,keras,BoboTiG,Mickaël Schoentgen,"Remote, France",__tiger222__,https://github.com/BoboTiG,Hyland|Nuxeo,2
+1862,keras,moutai,Moussa Taifi,,,https://github.com/moutai,,2
+1863,keras,N-McA,,,__nmca__,https://github.com/N-McA,Cambridge University,2
+1864,keras,nluehr,Nathan Luehr,"Santa Clara, CA",,https://github.com/nluehr,NVIDIA,2
+1865,keras,Neeshamraghav012,Neesham,"Haryana, India",,https://github.com/Neeshamraghav012,,2
+1866,keras,nfelt,Nick Felt,"Stanford, California",,https://github.com/nfelt,Google,2
+1867,keras,nigeljyng,Nigel Ng,"London, UK",,https://github.com/nigeljyng,,2
+1868,keras,nisargjhaveri,Nisarg Jhaveri,India,,https://github.com/nisargjhaveri,,2
+1869,keras,nithishdivakar,Nithish Divakar,,nithishdivakar,https://github.com/nithishdivakar,,2
+1870,keras,nitins17,Nitin Srinivasan,,,https://github.com/nitins17,@google,2
+1871,keras,obilaniu,Olexa Bilaniuk,,,https://github.com/obilaniu,,2
+1872,keras,p16i,Pattarawat Chormai,127.0.0.1,,https://github.com/p16i,,2
+1873,keras,pstjohn,Peter St. John,"Golden, CO",,https://github.com/pstjohn,@NVIDIA,2
+1874,keras,piperchester,Piper,San Francisco,,https://github.com/piperchester,@Spotify,2
+1875,keras,pokey,Pokey Rule,"London, United Kingdom",PokeyRule,https://github.com/pokey,@cursorless-dev,2
+1876,keras,rhofour,R. Alex Hofer,,,https://github.com/rhofour,,2
+1877,keras,crccw,Ran Chen,,,https://github.com/crccw,,2
+1878,keras,gewoonrik,Rik Nijessen,Netherlands,,https://github.com/gewoonrik,@adyen,2
+1879,keras,Rishit-dagli,Rishit Dagli,"Toronto, Canada",rishit_dagli,https://github.com/Rishit-dagli,,2
+1880,keras,rjpower,Russell Power,Seattle,,https://github.com/rjpower,,2
+1881,keras,sanatmpa1,Sanat,,,https://github.com/sanatmpa1,,2
+1882,keras,bryant1410,Santiago Castro,"Ann Arbor, MI, USA",bryant1410,https://github.com/bryant1410,@MichiganNLP,2
+1883,keras,chsasank,Sasank Chilamkurthy,Bengaluru,sasank51,https://github.com/chsasank,Qure.ai,2
+1884,keras,woozzu,Seonghyeon Nam,"Sunnyvale, CA",,https://github.com/woozzu,Meta (Facebook),2
+1885,keras,superbobry,Sergei Lebedev,"London, UK",,https://github.com/superbobry,Software Engineer at @deepmind,2
+1886,keras,SeverinAlexB,Severin Alexander Bühler,Schweiz,SeverinAlexB,https://github.com/SeverinAlexB,A80F C42B 75E8 771B 196D  EB41 BD10 406A 48C7 3F88,2
+1887,keras,shanejohnpaul,Shane John Paul,,shanejohnpaul,https://github.com/shanejohnpaul,,2
+1888,keras,Shaofanl,Shaofan Lai,MTV CL4,,https://github.com/Shaofanl,Google,2
+1889,keras,smgt,Simon Gate,Sweden,,https://github.com/smgt,,2
+1890,keras,SimonMWarren,Simon Warren,,,https://github.com/SimonMWarren,,2
+1891,keras,SnehaNB,,,,https://github.com/SnehaNB,,2
+1892,keras,Spotlight0xff,André Merboldt,Germany,,https://github.com/Spotlight0xff,,2
+1893,keras,StefanoD,Stefano,,,https://github.com/StefanoD,,2
+1894,keras,sumitgouthaman,Sumit Gouthaman,"Bellevue, WA",,https://github.com/sumitgouthaman,Google,2
+1895,keras,osh,Tim O'Shea,"Arlington, VA",,https://github.com/osh,@deepsig ,2
+1896,keras,tsheaff,Tyler Sheaffer,"Honolulu, HI",,https://github.com/tsheaff,,2
+1897,keras,VaishnaviMudaliar,Vaishnavi Mudaliar,"Pune,Maharashtra,India",,https://github.com/VaishnaviMudaliar,,2
+1898,keras,itmo153277,Viktor Ivanov,Japan,,https://github.com/itmo153277,,2
+1899,keras,Wehzie,Rafael Tappe Maestro,EU,,https://github.com/Wehzie,itemis AG,2
+1900,keras,yhenon,Yann Henon,"Boston, MA",,https://github.com/yhenon,@netrasys ,2
+1901,keras,yeqingli,Yeqing Li,"Mountain View, CA",,https://github.com/yeqingli,Google Brain,2
+1902,keras,yxonic,Yu Yin,China,,https://github.com/yxonic,,2
+1903,keras,moustaki,Yves Raimond,San Francisco Bay Area,,https://github.com/moustaki,"Netflix, CA",2
+1904,keras,abrad1212,abrad1212,127.0.0.1:80,abrad1212,https://github.com/abrad1212,,2
+1905,keras,antonmbk,,,,https://github.com/antonmbk,,2
+1906,keras,bonlime,,Moscow,,https://github.com/bonlime,,2
+1907,keras,cclauss,Christian Clauss,Switzerland,,https://github.com/cclauss,Christian Clauss,2
+1908,keras,code-review-doctor,,,CodeReviewDr,https://github.com/code-review-doctor,Code Review Doctor,2
+1909,keras,ebatuhankaynak,,,,https://github.com/ebatuhankaynak,,2
+1910,keras,edumucelli,Eduardo,"Paris, France",,https://github.com/edumucelli,Canonical,2
+1911,keras,eltronix,Elton Maiyo,Kenya,,https://github.com/eltronix,,2
+1912,keras,flomlo,,,,https://github.com/flomlo,,2
+1913,keras,stanpcf,fpc,ict,,https://github.com/stanpcf,,2
+1914,keras,fsx950223,who who who,China,,https://github.com/fsx950223,AMD,2
+1915,keras,hdubbs,,Germany,,https://github.com/hdubbs,,2
+1916,keras,ipod825,Shih-Ming Wang,"Mountain View, CA",,https://github.com/ipod825,,2
+1917,keras,jcuypers,,,,https://github.com/jcuypers,,2
+1918,keras,joesho112358,Joe Schulte,"Davenport, FL",,https://github.com/joesho112358,,2
+1919,keras,jpeg729,,,,https://github.com/jpeg729,,2
+1920,keras,leereeves,,,,https://github.com/leereeves,,2
+1921,keras,leondgarse,,,,https://github.com/leondgarse,,2
+1922,keras,lucasmoura,,Brazil,,https://github.com/lucasmoura,Canonical,2
+1923,keras,meberstein,,,,https://github.com/meberstein,,2
+1924,keras,mjacquem1,,,,https://github.com/mjacquem1,,2
+1925,keras,tzachar,,,,https://github.com/tzachar,,2
+1926,keras,omalleyt12,,,,https://github.com/omalleyt12,,2
+1927,keras,shraddhazpy,Shraddha,,,https://github.com/shraddhazpy,,2
+1928,keras,stonebig,,France,,https://github.com/stonebig,,2
+1929,keras,t-vi,Thomas Viehmann,Munich,ThomasViehmann,https://github.com/t-vi,MathInf https://mathinf.eu/,2
+1930,keras,tanzhenyu,,,,https://github.com/tanzhenyu,,2
+1931,keras,tarun-bisht,Tarun Bisht,"Uttarakhand, India",tarunresearches,https://github.com/tarun-bisht,,2
+1932,keras,td2014,,,,https://github.com/td2014,,2
+1933,keras,valtron,,,,https://github.com/valtron,,2
+1934,keras,luoch,罗诚,"China, Wuhan",,https://github.com/luoch,Founder Purvar Inc,2
+1935,keras,cympfh,/c/ympfh,,,https://github.com/cympfh,,1
+1936,keras,3h4,,,,https://github.com/3h4,,1
+1937,keras,5ke,,,,https://github.com/5ke,,1
+1938,keras,AIshb,Hongbin Shi,China,,https://github.com/AIshb,Soochow University,1
+1939,keras,abhipn,Abhijith Nair,India,,https://github.com/abhipn,"Verisk, Inc",1
+1940,keras,adamcavendish,Adam Basfop Cavendish,,,https://github.com/adamcavendish,,1
+1941,keras,BlaziusMaximus,Adam Cogdell,,,https://github.com/BlaziusMaximus,,1
+1942,keras,durana,Adam Durana,,,https://github.com/durana,,1
+1943,keras,adammenges,Adam Menges,San Francisco,adammenges,https://github.com/adammenges,@lobe ,1
+1944,keras,AdityaPunetha,Aditya Punetha,,,https://github.com/AdityaPunetha,University of Petroleum and Energy Studies,1
+1945,keras,ahmedopolis,Ahmed I.,"Ottawa, Canada",ahmedopolis,https://github.com/ahmedopolis,McGill University,1
+1946,keras,akshaychawla,Akshay Chawla,working from home,,https://github.com/akshaychawla,Vicarious Inc.,1
+1947,keras,poulsbo,Alan Liu,"Mountain View, CA",,https://github.com/poulsbo,@google ,1
+1948,keras,albertvillanova,Albert Villanova del Moral,Paris (France),avillanovamoral,https://github.com/albertvillanova,@huggingface @aiinnova,1
