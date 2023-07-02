@@ -17,4 +17,4 @@
 git log --all --format='%aL' | sort -u -o contributors_list.txt
 ```
 - contributors_list: It's contains all the files of contributors' name.
-- by_contributors_final.csv and not_fount_final: Output files of by_contributer_name.py containing data around 11000 contributors. First file for valid contributors and second invalid contributors.
+- by_contributors_final.csv and not_fount_final: Output files of by_contributer_name.py containing data around 12000+ GitHub IDs. First file for found(valid) contributors and second file for the not found github ids(due to invalid or api limit cross).
